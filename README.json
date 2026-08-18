@@ -30,10 +30,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T11:13:30Z",
+                "last_commit": "2026-08-18T02:15:06Z",
                 "owner": "VSCodeVim",
                 "repo": "Vim",
-                "stars": 15188
+                "stars": 15192
               }
             }
           ]
@@ -72,10 +72,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-16T14:53:08Z",
+                "last_commit": "2026-08-18T15:13:29Z",
                 "owner": "dbeaver",
                 "repo": "dbeaver",
-                "stars": 51446
+                "stars": 51468
               }
             }
           ]
@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T12:06:06Z",
+            "last_commit": "2026-08-17T16:17:54Z",
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21794
+            "stars": 21811
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-15T07:36:52Z",
             "owner": "ranger",
             "repo": "ranger",
-            "stars": 17340
+            "stars": 17353
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-08-15T02:07:20Z",
             "owner": "gokcehan",
             "repo": "lf",
-            "stars": 9468
+            "stars": 9464
           }
         },
         {
@@ -177,10 +177,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T09:02:34Z",
+            "last_commit": "2026-08-17T09:15:46Z",
             "owner": "sayanarijit",
             "repo": "xplr",
-            "stars": 4803
+            "stars": 4804
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2025-04-12T21:38:47Z",
             "owner": "kyoheiu",
             "repo": "felix",
-            "stars": 913
+            "stars": 914
           }
         },
         {
@@ -299,10 +299,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T11:13:30Z",
+                "last_commit": "2026-08-18T02:15:06Z",
                 "owner": "VSCodeVim",
                 "repo": "Vim",
-                "stars": 15188
+                "stars": 15192
               }
             },
             {
@@ -316,7 +316,7 @@
                 "last_commit": "2026-07-21T21:08:32Z",
                 "owner": "vscode-neovim",
                 "repo": "vscode-neovim",
-                "stars": 7713
+                "stars": 7714
               }
             }
           ]
@@ -511,7 +511,7 @@
             "last_commit": "2026-08-16T00:02:03Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 26904
+            "stars": 26938
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-07-28T11:36:44Z",
             "owner": "antonmedv",
             "repo": "fx",
-            "stars": 20579
+            "stars": 20582
           }
         },
         {
@@ -553,7 +553,7 @@
             "last_commit": "2026-07-31T21:59:10Z",
             "owner": "fairyglade",
             "repo": "ly",
-            "stars": 7527
+            "stars": 7532
           }
         },
         {
@@ -595,7 +595,7 @@
             "last_commit": "2026-01-24T10:34:49Z",
             "owner": "rndusr",
             "repo": "stig",
-            "stars": 627
+            "stars": 628
           }
         },
         {
@@ -643,7 +643,7 @@
             "last_commit": "2026-08-12T19:05:38Z",
             "owner": "cmus",
             "repo": "cmus",
-            "stars": 6208
+            "stars": 6217
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2026-06-25T22:43:48Z",
             "owner": "ncmpcpp",
             "repo": "ncmpcpp",
-            "stars": 2471
+            "stars": 2472
           }
         },
         {
@@ -739,7 +739,7 @@
                 "last_commit": "2024-04-04T15:03:12Z",
                 "owner": "Rigellute",
                 "repo": "spotify-tui",
-                "stars": 19301
+                "stars": 19308
               }
             }
           ]
@@ -795,7 +795,7 @@
             "last_commit": "2026-08-06T14:00:41Z",
             "owner": "andmarti1424",
             "repo": "sc-im",
-            "stars": 5683
+            "stars": 5682
           }
         },
         {
@@ -868,10 +868,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T04:57:47Z",
+            "last_commit": "2026-08-17T06:46:14Z",
             "owner": "ahrm",
             "repo": "sioyek",
-            "stars": 9774
+            "stars": 9781
           }
         },
         {
@@ -931,17 +931,17 @@
                 "last_commit": "2026-04-15T10:24:43Z",
                 "owner": "codemirror",
                 "repo": "dev",
-                "stars": 7826
+                "stars": 7821
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T15:15:12Z",
+            "last_commit": "2026-08-18T14:47:13Z",
             "owner": "TriliumNext",
             "repo": "Trilium",
-            "stars": 37448
+            "stars": 37481
           }
         },
         {
@@ -993,10 +993,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T06:45:02Z",
+            "last_commit": "2026-08-18T02:00:21Z",
             "owner": "ulyssa",
             "repo": "iamb",
-            "stars": 1259
+            "stars": 1260
           }
         },
         {
@@ -1105,10 +1105,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T15:09:44Z",
+            "last_commit": "2026-08-18T11:09:40Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81374
+            "stars": 81433
           }
         },
         {
@@ -1127,7 +1127,7 @@
                 "last_commit": "2026-08-04T08:27:21Z",
                 "owner": "gitui-org",
                 "repo": "gitui",
-                "stars": 22396
+                "stars": 22403
               }
             }
           ],
@@ -1137,7 +1137,7 @@
             "last_commit": "2026-08-04T08:27:21Z",
             "owner": "gitui-org",
             "repo": "gitui",
-            "stars": 22396
+            "stars": 22403
           }
         },
         {
@@ -1151,7 +1151,7 @@
             "last_commit": "2026-07-27T23:00:48Z",
             "owner": "jonas",
             "repo": "tig",
-            "stars": 13305
+            "stars": 13307
           }
         }
       ],
@@ -1176,7 +1176,7 @@
                 "last_commit": "2026-08-11T21:18:40Z",
                 "owner": "akinomyoga",
                 "repo": "ble.sh",
-                "stars": 4617
+                "stars": 4624
               }
             }
           ]
@@ -1233,7 +1233,7 @@
             "last_commit": "2024-07-12T05:06:33Z",
             "owner": "rvaiya",
             "repo": "warpd",
-            "stars": 3617
+            "stars": 3620
           }
         },
         {
@@ -1247,7 +1247,7 @@
             "last_commit": "2025-04-17T11:43:54Z",
             "owner": "pit-ray",
             "repo": "win-vind",
-            "stars": 2262
+            "stars": 2260
           }
         },
         {
@@ -1275,7 +1275,7 @@
             "last_commit": "2026-06-28T04:02:48Z",
             "owner": "AlfredoSequeida",
             "repo": "hints",
-            "stars": 1345
+            "stars": 1347
           }
         },
         {
@@ -1323,7 +1323,7 @@
             "last_commit": "2026-08-08T19:49:45Z",
             "owner": "aristocratos",
             "repo": "btop",
-            "stars": 34009
+            "stars": 34070
           }
         },
         {
@@ -1334,10 +1334,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T08:30:21Z",
+            "last_commit": "2026-08-18T01:51:36Z",
             "owner": "hluk",
             "repo": "CopyQ",
-            "stars": 12130
+            "stars": 12143
           }
         }
       ],
@@ -1388,10 +1388,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-03T08:50:06Z",
+            "last_commit": "2026-08-17T19:36:06Z",
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65393
+            "stars": 65420
           }
         },
         {
@@ -1402,10 +1402,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T17:57:56Z",
+            "last_commit": "2026-08-18T12:03:18Z",
             "owner": "tmux",
             "repo": "tmux",
-            "stars": 48655
+            "stars": 48701
           }
         },
         {
@@ -1460,7 +1460,7 @@
             "last_commit": "2026-08-10T23:11:09Z",
             "owner": "mawww",
             "repo": "kakoune",
-            "stars": 11026
+            "stars": 11027
           }
         },
         {
@@ -1532,10 +1532,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-16T06:28:29Z",
+                "last_commit": "2026-08-18T08:22:56Z",
                 "owner": "doomemacs",
                 "repo": "core",
-                "stars": 22586
+                "stars": 22587
               }
             }
           ]
@@ -1567,7 +1567,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-07-22T04:31:01Z",
+                "last_commit": "2026-08-17T05:40:31Z",
                 "owner": "NeoVintageous",
                 "repo": "NeoVintageous",
                 "stars": 728
@@ -1623,10 +1623,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T13:03:24Z",
+                "last_commit": "2026-08-18T12:37:48Z",
                 "owner": "inkdropapp",
                 "repo": "inkdrop-vim",
-                "stars": 107
+                "stars": 108
               }
             }
           ]
@@ -1669,7 +1669,7 @@
             "last_commit": "2026-02-26T14:36:03Z",
             "owner": "atlas-engineer",
             "repo": "nyxt",
-            "stars": 10999
+            "stars": 11001
           }
         },
         {
@@ -1772,7 +1772,7 @@
                 "last_commit": "2024-03-20T19:50:21Z",
                 "owner": "akahuku",
                 "repo": "wasavi",
-                "stars": 1542
+                "stars": 1543
               }
             },
             {
@@ -1821,7 +1821,7 @@
                 "last_commit": "2024-03-20T19:50:21Z",
                 "owner": "akahuku",
                 "repo": "wasavi",
-                "stars": 1542
+                "stars": 1543
               }
             },
             {
@@ -1856,7 +1856,7 @@
                 "last_commit": "2026-08-04T17:13:44Z",
                 "owner": "glacambre",
                 "repo": "firenvim",
-                "stars": 6096
+                "stars": 6101
               }
             }
           ]
@@ -1928,9 +1928,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:16:18.365Z",
+    "last_updated": "2026-08-18T15:25:43.572Z",
     "original_repository": "erikw/vim-keybindings-everywhere-the-ultimate-list",
-    "original_repository_sha": "f66f88acaeec33b64671804c127f9b11b0f77641",
+    "original_repository_sha": "143e15f4950d98e4068a565c57b78d901f6f8aed",
     "enhanced_repository": "enhansome/enhansome-vim-keybindings-everywhere-the-ultimate-list",
     "enhanced_repository_description": null,
     "title": "Awesome Vim Keybindings Everywhere - The Ultimate List with stars"
