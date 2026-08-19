@@ -1,1935 +1,2064 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": ":white_check_mark: ptpython",
-          "description": "A better Python REPL. Start it with or add to its .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-21T10:57:25Z",
-            "owner": "prompt-toolkit",
-            "repo": "ptpython",
-            "stars": 5446
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Azure Data Studio",
-          "description": "Database tool similar to Microsoft SQL Server Management Studio. Supports VSCode extensions.",
           "children": [
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: Vim plugin",
-              "description": "Cannot be installed directly in the plugin section. Go to Vim plugin release page and download file. Inside Azure Data Studio, navigate to Extensions > three dots at the top > Install from VSXI. You will likely see the message: \"Unable to install extension 'vscodevim.vim' as it is not compatible with the current VS Code engine version\". If you see that message, you should try an earlier release.",
+              "title": ":white_check_mark: ptpython",
+              "description": "A better Python REPL. Start it with or add to its .",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-18T02:15:06Z",
-                "owner": "VSCodeVim",
-                "repo": "Vim",
-                "stars": 15192
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "The Julia Programming Language",
-          "description": "High-level, general-purpose dynamic programming language suited for numerical analysis and computational science",
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: VimBindings.jl",
-              "description": "A Julia package which emulates Vim directly in the Julia REPL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Julia",
-                "last_commit": "2026-06-01T14:01:44Z",
-                "owner": "caleb-allen",
-                "repo": "VimBindings.jl",
-                "stars": 123
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "DBeaver",
-          "description": "Free Universal Database Tool",
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: Vrapper plugin",
-              "description": "Plugin adds vim bindings to SQL editor. Install it using instructions from https://github.com/dbeaver/dbeaver/issues/8219",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2026-08-18T15:13:29Z",
-                "owner": "dbeaver",
-                "repo": "dbeaver",
-                "stars": 51468
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: sup",
-          "description": "a console-based email client for people with a lot of email with Vim-inspired keyboard shortcuts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-19T08:11:26Z",
-            "owner": "sup-heliotrope",
-            "repo": "sup",
-            "stars": 970
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Thunderbird",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: teledactyl",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2017-06-16T03:57:37Z",
-                "owner": "5digits",
-                "repo": "dactyl",
-                "stars": 468
-              }
-            }
-          ]
-        }
-      ],
-      "title": "E-Mail"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: nnn",
-          "description": "TUI file manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T16:17:54Z",
-            "owner": "jarun",
-            "repo": "nnn",
-            "stars": 21811
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: ranger",
-          "description": "Another TUI file manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T07:36:52Z",
-            "owner": "ranger",
-            "repo": "ranger",
-            "stars": 17353
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: lf",
-          "description": "TUI file manager similar to ranger.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-15T02:07:20Z",
-            "owner": "gokcehan",
-            "repo": "lf",
-            "stars": 9464
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: xplr",
-          "description": "TUI file manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T09:15:46Z",
-            "owner": "sayanarijit",
-            "repo": "xplr",
-            "stars": 4804
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: felix",
-          "description": "TUI file manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-12T21:38:47Z",
-            "owner": "kyoheiu",
-            "repo": "felix",
-            "stars": 914
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: cfiles",
-          "description": "A ncurses file manager written in C with Vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-08-28T14:54:26Z",
-            "owner": "mananapr",
-            "repo": "cfiles",
-            "stars": 508
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: vide - The graphical predecessor of vifm that uses GTK+",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2014-05-18T16:56:09Z",
-            "owner": "xaizek",
-            "repo": "vide",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Total Commander",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: ViATc",
-              "description": "adds a Vim mode to Total Commander.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "AutoHotkey",
-                "last_commit": "2021-12-25T15:17:18Z",
-                "owner": "magicstep",
-                "repo": "ViATc-English",
-                "stars": 32
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "macOS Finder",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: Finder Vim Mode",
-              "description": "adds extensive vim-like/ranger-like keybindings, works via Karabiner Elements.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Shell",
-                "last_commit": "2026-08-03T07:54:37Z",
-                "owner": "chrisgrieser",
-                "repo": "finder-vim-mode",
-                "stars": 128
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "fman",
-          "description": "A dual-pane file manager.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: VimNavigation",
-              "description": "Adds Vim-style keyboard navigation to the fman file manager.",
-              "children": []
-            }
-          ]
-        }
-      ],
-      "title": "File Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Visual Studio Code (VSCode)",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: VSCodeVim",
-              "description": "Vim emulation for Visual Studio Code. GitHub",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-18T02:15:06Z",
-                "owner": "VSCodeVim",
-                "repo": "Vim",
-                "stars": 15192
+                "id": 24589695,
+                "language": "Python",
+                "last_commit": "2025-11-21T10:57:25Z",
+                "owner": "prompt-toolkit",
+                "repo": "ptpython",
+                "stars": 5446
               }
             },
             {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: VSCode Neovim",
-              "description": "Alternative to the VIM plugin, uses a full nvim instance in the background instead of just emulating VIM. GitHub",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-07-21T21:08:32Z",
-                "owner": "vscode-neovim",
-                "repo": "vscode-neovim",
-                "stars": 7714
-              }
+              "node_type": "group",
+              "title": "Azure Data Studio",
+              "description": "Database tool similar to Microsoft SQL Server Management Studio. Supports VSCode extensions.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: Vim plugin",
+                  "description": "Cannot be installed directly in the plugin section. Go to Vim plugin release page and download file. Inside Azure Data Studio, navigate to Extensions > three dots at the top > Install from VSXI. You will likely see the message: \"Unable to install extension 'vscodevim.vim' as it is not compatible with the current VS Code engine version\". If you see that message, you should try an earlier release.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46041284,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T02:15:06Z",
+                    "owner": "VSCodeVim",
+                    "repo": "Vim",
+                    "stars": 15194
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "The Julia Programming Language",
+              "description": "High-level, general-purpose dynamic programming language suited for numerical analysis and computational science",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: VimBindings.jl",
+                  "description": "A Julia package which emulates Vim directly in the Julia REPL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305223185,
+                    "language": "Julia",
+                    "last_commit": "2026-06-01T14:01:44Z",
+                    "owner": "caleb-allen",
+                    "repo": "VimBindings.jl",
+                    "stars": 123
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "DBeaver",
+              "description": "Free Universal Database Tool",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: Vrapper plugin",
+                  "description": "Plugin adds vim bindings to SQL editor. Install it using instructions from https://github.com/dbeaver/dbeaver/issues/8219",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44662669,
+                    "language": "Java",
+                    "last_commit": "2026-08-19T11:45:38Z",
+                    "owner": "dbeaver",
+                    "repo": "dbeaver",
+                    "stars": 51479
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development"
         },
         {
-          "node_type": "group",
-          "title": ":white_check_mark: XCode",
-          "description": "Apple's IDE. Vim mode can be enabled under the \"Editor\" menu without the use of plugins.",
           "children": [
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: XVim plugin. Deprecated, use native keybindings (above) instead.",
-              "description": null,
+              "title": ":white_check_mark: sup",
+              "description": "a console-based email client for people with a lot of email with Vim-inspired keyboard shortcuts.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Objective-C",
-                "last_commit": "2018-01-09T21:10:10Z",
-                "owner": "XVimProject",
-                "repo": "XVim",
-                "stars": 5121
+                "id": 7672151,
+                "language": "Ruby",
+                "last_commit": "2026-07-19T08:11:26Z",
+                "owner": "sup-heliotrope",
+                "repo": "sup",
+                "stars": 970
               }
             },
             {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: XVim2 plugin. Deprecated, use native keybindings (above) instead.",
+              "node_type": "group",
+              "title": "Thunderbird",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Objective-C",
-                "last_commit": "2023-01-14T04:38:39Z",
-                "owner": "XVimProject",
-                "repo": "XVim2",
-                "stars": 2286
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: teledactyl",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22127089,
+                    "language": "JavaScript",
+                    "last_commit": "2017-06-16T03:57:37Z",
+                    "owner": "5digits",
+                    "repo": "dactyl",
+                    "stars": 468
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "E-Mail"
         },
         {
-          "node_type": "group",
-          "title": "Geany",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: vimode",
-              "description": "The vimode plugin can be enabled from the settings.",
+              "title": ":white_check_mark: nnn",
+              "description": "TUI file manager.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 66150122,
                 "language": "C",
-                "last_commit": "2026-07-11T13:40:56Z",
-                "owner": "geany",
-                "repo": "geany-plugins",
-                "stars": 644
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "DrRacket - IDE for learning the Racket language.",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: DrRacket Vim Tool - An IDE that aims to use the tools you wish to use(including Vim and Emacs).",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Racket",
-                "last_commit": "2025-09-20T23:21:20Z",
-                "owner": "takikawa",
-                "repo": "drracket-vim-tool",
-                "stars": 216
-              }
-            }
-          ]
-        }
-      ],
-      "title": "IDEs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: sxiv - See nsxiv instead.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2023-01-16T13:53:03Z",
-            "owner": "xyb3rt",
-            "repo": "sxiv",
-            "stars": 1861
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: vimiv - See vimiv-qt.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-16T14:09:02Z",
-            "owner": "karlch",
-            "repo": "vimiv",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: vimiv-qt",
-          "description": "An image viewer with Vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-10T04:59:49Z",
-            "owner": "karlch",
-            "repo": "vimiv-qt",
-            "stars": 201
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: Pim",
-          "description": "A PyGObject-based image viewer with Vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-31T18:19:53Z",
-            "owner": "Narrat",
-            "repo": "Pim",
-            "stars": 29
-          }
-        }
-      ],
-      "title": "Image Viewers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: hx",
-          "description": "Hex editor for the terminal with simple Vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-08-03T08:52:52Z",
-            "owner": "krpors",
-            "repo": "hx",
-            "stars": 210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: HEdit - A Vim-like terminal-based hex editor scriptable with JS.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-05-10T10:48:53Z",
-            "owner": "95ulisse",
-            "repo": "hedit",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Hex editors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: glow",
-          "description": "Terminal based markdown reader.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T00:02:03Z",
-            "owner": "charmbracelet",
-            "repo": "glow",
-            "stars": 26938
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: fx",
-          "description": "Terminal based JSON viewer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-28T11:36:44Z",
-            "owner": "antonmedv",
-            "repo": "fx",
-            "stars": 20582
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: gollum",
-          "description": "A Git-powered wiki with built-in Vim editing mode. Start with .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-11-24T22:15:31Z",
-            "owner": "gollum",
-            "repo": "gollum",
-            "stars": 14313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: ly",
-          "description": "A TUI display manager. Supports vi-like movement. Edit this in your",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2026-07-31T21:59:10Z",
-            "owner": "fairyglade",
-            "repo": "ly",
-            "stars": 7532
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: mdp",
-          "description": "A command-line based markdown presentation tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-07-09T16:43:24Z",
-            "owner": "visit1985",
-            "repo": "mdp",
-            "stars": 5273
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: pulsemixer",
-          "description": "CLI and curses mixer for PulseAudio.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-14T13:51:20Z",
-            "owner": "GeorgeFilipkin",
-            "repo": "pulsemixer",
-            "stars": 810
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: stig",
-          "description": "TUI/CLI for the BitTorrent client Transmission.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-24T10:34:49Z",
-            "owner": "rndusr",
-            "repo": "stig",
-            "stars": 628
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: sentaku",
-          "description": "A terminal selector with Vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-20T20:35:31Z",
-            "owner": "rcmdnk",
-            "repo": "sentaku",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: Yzis - A vi/vim engine that is easy to integrate in any graphical application.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-11-16T20:24:37Z",
-            "owner": "chrizel",
-            "repo": "Yzis",
-            "stars": 44
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: cmus",
-          "description": "A console music player with vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-12T19:05:38Z",
-            "owner": "cmus",
-            "repo": "cmus",
-            "stars": 6217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: ncmpcpp",
-          "description": "An ncurses client for mpd. The navigation can quite easily be made to behave like vim with some keyboard configurations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-25T22:43:48Z",
-            "owner": "ncmpcpp",
-            "repo": "ncmpcpp",
-            "stars": 2472
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: vimpc",
-          "description": "A console mpd client that provides a vim-like interface. Default keybindings in the help file",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-06-14T11:01:36Z",
-            "owner": "boysetsfrog",
-            "repo": "vimpc",
-            "stars": 281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: vimus",
-          "description": "An MPD client with Vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2022-07-13T12:28:24Z",
-            "owner": "vimus",
-            "repo": "vimus",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: herrie - a MPD player with Vim-like keybindings",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2019-04-17T17:03:14Z",
-            "owner": "EdSchouten",
-            "repo": "herrie",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "YT Music",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":white_check_mark: vimyt",
-              "description": "TUI for YouTube Music with Vim-like keybindings.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Go",
-                "last_commit": "2026-06-28T12:54:14Z",
-                "owner": "Sadoaz",
-                "repo": "vimyt",
-                "stars": 41
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Spotify",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":white_check_mark: spotify-tui",
-              "description": "TUI for Spotify with Vim-like keybindings.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Rust",
-                "last_commit": "2024-04-04T15:03:12Z",
-                "owner": "Rigellute",
-                "repo": "spotify-tui",
-                "stars": 19308
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Music Players"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":heavy_plus_sign: Reaper-Keys",
-          "description": "Bringing a modal editor to the Reaper DAW.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-07-05T20:52:06Z",
-            "owner": "gwatcha",
-            "repo": "reaper-keys",
-            "stars": 201
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: pineapple-tracker - A console-based sequencer with a vi-style UI.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-10T01:58:00Z",
-            "owner": "pineapple-tracker",
-            "repo": "pineapple-tracker",
-            "stars": 32
-          }
-        }
-      ],
-      "title": "Music Production"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: sc-im",
-          "description": "Like sc but improved, a Vim-like spreadsheet calculator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-06T14:00:41Z",
-            "owner": "andmarti1424",
-            "repo": "sc-im",
-            "stars": 5682
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "LibreOffice",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: vibreoffice - Vi Mode for LibreOffice/OpenOffice.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Visual Basic",
-                "last_commit": "2016-06-09T23:23:19Z",
-                "owner": "seanyeh",
-                "repo": "vibreoffice",
-                "stars": 413
+                "last_commit": "2026-08-17T16:17:54Z",
+                "owner": "jarun",
+                "repo": "nnn",
+                "stars": 21817
               }
             },
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: vibreoffice",
-              "description": "Vi Mode for LibreOffice/OpenOffice, fork that supports calc.",
+              "title": ":white_check_mark: ranger",
+              "description": "Another TUI file manager.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "VBScript",
-                "last_commit": "2022-11-20T14:33:53Z",
-                "owner": "Nazo1412",
-                "repo": "vibreoffice",
-                "stars": 16
+                "id": 218157,
+                "language": "Python",
+                "last_commit": "2026-08-15T07:36:52Z",
+                "owner": "ranger",
+                "repo": "ranger",
+                "stars": 17355
               }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: lf",
+              "description": "TUI file manager similar to ranger.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65616765,
+                "language": "Go",
+                "last_commit": "2026-08-15T02:07:20Z",
+                "owner": "gokcehan",
+                "repo": "lf",
+                "stars": 9464
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: xplr",
+              "description": "TUI file manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342030057,
+                "language": "Rust",
+                "last_commit": "2026-08-17T09:15:46Z",
+                "owner": "sayanarijit",
+                "repo": "xplr",
+                "stars": 4804
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: felix",
+              "description": "TUI file manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 405872309,
+                "language": "Rust",
+                "last_commit": "2025-04-12T21:38:47Z",
+                "owner": "kyoheiu",
+                "repo": "felix",
+                "stars": 915
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: cfiles",
+              "description": "A ncurses file manager written in C with Vim-like keybindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163684725,
+                "language": "C",
+                "last_commit": "2021-08-28T14:54:26Z",
+                "owner": "mananapr",
+                "repo": "cfiles",
+                "stars": 508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: vide - The graphical predecessor of vifm that uses GTK+",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19915682,
+                "language": "C",
+                "last_commit": "2014-05-18T16:56:09Z",
+                "owner": "xaizek",
+                "repo": "vide",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Total Commander",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: ViATc",
+                  "description": "adds a Vim mode to Total Commander.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 95103541,
+                    "language": "AutoHotkey",
+                    "last_commit": "2021-12-25T15:17:18Z",
+                    "owner": "magicstep",
+                    "repo": "ViATc-English",
+                    "stars": 32
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "macOS Finder",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: Finder Vim Mode",
+                  "description": "adds extensive vim-like/ranger-like keybindings, works via Karabiner Elements.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 576342717,
+                    "language": "Shell",
+                    "last_commit": "2026-08-03T07:54:37Z",
+                    "owner": "chrisgrieser",
+                    "repo": "finder-vim-mode",
+                    "stars": 128
+                  }
+                }
+              ]
             }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Google Docs Editors suite",
+          ],
           "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: SheetKeys",
-              "description": "Browser extension (Chrome and Firefox) which adds Vim keybindings to Google Sheets.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-02-26T06:02:54Z",
-                "owner": "philc",
-                "repo": "sheetkeys",
-                "stars": 333
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Office Productivity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: Sioyek",
-          "description": "Both keyboard and (optionally) mouse focused. Configurable and has the possibility of adding and developing plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T06:46:14Z",
-            "owner": "ahrm",
-            "repo": "sioyek",
-            "stars": 9781
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: apvlv",
-          "description": "A PDF Viewer that acts Like Vim",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-31T01:21:55Z",
-            "owner": "naihe2010",
-            "repo": "apvlv",
-            "stars": 258
-          }
-        },
-        {
           "node_type": "group",
-          "title": "Preview.app - macOS native document viewer:",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: preview-vim",
-              "description": "Adds vim-like keybindings, works via Karabiner Elements.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2021-01-24T06:27:05Z",
-                "owner": "xrisk",
-                "repo": "preview-vim",
-                "stars": 56
-              }
-            }
-          ]
-        }
-      ],
-      "title": "PDF Viewers"
-    },
-    {
-      "description": "",
-      "items": [
+          "title": "File Management"
+        },
         {
-          "node_type": "item",
-          "title": ":white_check_mark: Trilium",
-          "description": "'Enable Vim Keybindings' added to Options in early-2022",
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Visual Studio Code (VSCode)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: VSCodeVim",
+                  "description": "Vim emulation for Visual Studio Code. GitHub",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46041284,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T02:15:06Z",
+                    "owner": "VSCodeVim",
+                    "repo": "Vim",
+                    "stars": 15194
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: VSCode Neovim",
+                  "description": "Alternative to the VIM plugin, uses a full nvim instance in the background instead of just emulating VIM. GitHub",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 218653810,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-21T21:08:32Z",
+                    "owner": "vscode-neovim",
+                    "repo": "vscode-neovim",
+                    "stars": 7714
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": ":white_check_mark: XCode",
+              "description": "Apple's IDE. Vim mode can be enabled under the \"Editor\" menu without the use of plugins.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: XVim plugin. Deprecated, use native keybindings (above) instead.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3430409,
+                    "language": "Objective-C",
+                    "last_commit": "2018-01-09T21:10:10Z",
+                    "owner": "XVimProject",
+                    "repo": "XVim",
+                    "stars": 5121
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: XVim2 plugin. Deprecated, use native keybindings (above) instead.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102631012,
+                    "language": "Objective-C",
+                    "last_commit": "2023-01-14T04:38:39Z",
+                    "owner": "XVimProject",
+                    "repo": "XVim2",
+                    "stars": 2286
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Geany",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: vimode",
+                  "description": "The vimode plugin can be enabled from the settings.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2597648,
+                    "language": "C",
+                    "last_commit": "2026-07-11T13:40:56Z",
+                    "owner": "geany",
+                    "repo": "geany-plugins",
+                    "stars": 644
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "DrRacket - IDE for learning the Racket language.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: DrRacket Vim Tool - An IDE that aims to use the tools you wish to use(including Vim and Emacs).",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1925438,
+                    "language": "Racket",
+                    "last_commit": "2025-09-20T23:21:20Z",
+                    "owner": "takikawa",
+                    "repo": "drracket-vim-tool",
+                    "stars": 216
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDEs"
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "code notes use the CodeMirror",
-              "description": "editor and its Vim mode",
+              "title": ":white_check_mark: sxiv - See nsxiv instead.",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": true,
-                "language": "JavaScript",
-                "last_commit": "2026-04-15T10:24:43Z",
-                "owner": "codemirror",
-                "repo": "dev",
-                "stars": 7821
+                "id": 1263522,
+                "language": "C",
+                "last_commit": "2023-01-16T13:53:03Z",
+                "owner": "xyb3rt",
+                "repo": "sxiv",
+                "stars": 1861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: vimiv - See vimiv-qt.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46191302,
+                "language": "Python",
+                "last_commit": "2020-06-16T14:09:02Z",
+                "owner": "karlch",
+                "repo": "vimiv",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: vimiv-qt",
+              "description": "An image viewer with Vim-like keybindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117301655,
+                "language": "Python",
+                "last_commit": "2024-08-10T04:59:49Z",
+                "owner": "karlch",
+                "repo": "vimiv-qt",
+                "stars": 201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: Pim",
+              "description": "A PyGObject-based image viewer with Vim-like keybindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 758925,
+                "language": "Python",
+                "last_commit": "2021-03-31T18:19:53Z",
+                "owner": "Narrat",
+                "repo": "Pim",
+                "stars": 29
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:47:13Z",
-            "owner": "TriliumNext",
-            "repo": "Trilium",
-            "stars": 37481
-          }
+          "description": null,
+          "node_type": "group",
+          "title": "Image Viewers"
         },
         {
-          "node_type": "group",
-          "title": "Logseq",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: logseq-plugin-vim-shortcuts",
-              "description": "normal mode commands deal with whole blocks, editing text is only possible in edit mode",
+              "title": ":white_check_mark: hx",
+              "description": "Hex editor for the terminal with simple Vim-like keybindings.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2025-12-27T03:49:39Z",
-                "owner": "vipzhicheng",
-                "repo": "logseq-plugin-vim-shortcuts",
-                "stars": 407
+                "id": 69471028,
+                "language": "C",
+                "last_commit": "2024-08-03T08:52:52Z",
+                "owner": "krpors",
+                "repo": "hx",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: HEdit - A Vim-like terminal-based hex editor scriptable with JS.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115130411,
+                "language": "C",
+                "last_commit": "2018-05-10T10:48:53Z",
+                "owner": "95ulisse",
+                "repo": "hedit",
+                "stars": 3
               }
             }
-          ]
-        }
-      ],
-      "title": "Personal Knowledge Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rtv - A Reddit TUI viewer",
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-02-20T15:57:19Z",
-            "owner": "michael-lazar",
-            "repo": "rtv",
-            "stars": 4647
-          }
+          "node_type": "group",
+          "title": "Hex editors"
         },
         {
-          "node_type": "item",
-          "title": ":white_check_mark: iamb",
-          "description": "A Matrix client for Vim addicts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T02:00:21Z",
-            "owner": "ulyssa",
-            "repo": "iamb",
-            "stars": 1260
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: scli",
-          "description": "Signal messenger TUI with Vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-30T10:40:00Z",
-            "owner": "isamert",
-            "repo": "scli",
-            "stars": 539
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: tut",
-          "description": "a Mastodon client with vim-like navigation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-12-18T22:52:28Z",
-            "owner": "RasmusLindroth",
-            "repo": "tut",
-            "stars": 500
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "irssi",
-          "description": "the popular IRC client.",
           "children": [
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: vim_mode",
-              "description": "plugin.",
+              "title": ":white_check_mark: glow",
+              "description": "Terminal based markdown reader.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 219616873,
+                "language": "Go",
+                "last_commit": "2026-08-16T00:02:03Z",
+                "owner": "charmbracelet",
+                "repo": "glow",
+                "stars": 26949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: fx",
+              "description": "Terminal based JSON viewer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118945118,
+                "language": "Go",
+                "last_commit": "2026-07-28T11:36:44Z",
+                "owner": "antonmedv",
+                "repo": "fx",
+                "stars": 20584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: gollum",
+              "description": "A Git-powered wiki with built-in Vim editing mode. Start with .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 585285,
+                "language": "Ruby",
+                "last_commit": "2025-11-24T22:15:31Z",
+                "owner": "gollum",
+                "repo": "gollum",
+                "stars": 14312
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: ly",
+              "description": "A TUI display manager. Supports vi-like movement. Edit this in your",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92203868,
+                "language": "Zig",
+                "last_commit": "2026-07-31T21:59:10Z",
+                "owner": "fairyglade",
+                "repo": "ly",
+                "stars": 7536
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: mdp",
+              "description": "A command-line based markdown presentation tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24022333,
+                "language": "C",
+                "last_commit": "2025-07-09T16:43:24Z",
+                "owner": "visit1985",
+                "repo": "mdp",
+                "stars": 5273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: pulsemixer",
+              "description": "CLI and curses mixer for PulseAudio.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38160403,
+                "language": "Python",
+                "last_commit": "2024-03-14T13:51:20Z",
+                "owner": "GeorgeFilipkin",
+                "repo": "pulsemixer",
+                "stars": 810
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: stig",
+              "description": "TUI/CLI for the BitTorrent client Transmission.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71486542,
+                "language": "Python",
+                "last_commit": "2026-01-24T10:34:49Z",
+                "owner": "rndusr",
+                "repo": "stig",
+                "stars": 628
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: sentaku",
+              "description": "A terminal selector with Vim-like keybindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15854863,
+                "language": "Shell",
+                "last_commit": "2026-07-20T20:35:31Z",
+                "owner": "rcmdnk",
+                "repo": "sentaku",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: Yzis - A vi/vim engine that is easy to integrate in any graphical application.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3071021,
+                "language": "C++",
+                "last_commit": "2017-11-16T20:24:37Z",
+                "owner": "chrizel",
+                "repo": "Yzis",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: cmus",
+              "description": "A console music player with vim-like keybindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7365136,
+                "language": "C",
+                "last_commit": "2026-08-12T19:05:38Z",
+                "owner": "cmus",
+                "repo": "cmus",
+                "stars": 6219
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: ncmpcpp",
+              "description": "An ncurses client for mpd. The navigation can quite easily be made to behave like vim with some keyboard configurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5431757,
+                "language": "C++",
+                "last_commit": "2026-06-25T22:43:48Z",
+                "owner": "ncmpcpp",
+                "repo": "ncmpcpp",
+                "stars": 2473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: vimpc",
+              "description": "A console mpd client that provides a vim-like interface. Default keybindings in the help file",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2368685,
+                "language": "C++",
+                "last_commit": "2023-06-14T11:01:36Z",
+                "owner": "boysetsfrog",
+                "repo": "vimpc",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: vimus",
+              "description": "An MPD client with Vim-like keybindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1051930,
+                "language": "Haskell",
+                "last_commit": "2022-07-13T12:28:24Z",
+                "owner": "vimus",
+                "repo": "vimus",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: herrie - a MPD player with Vim-like keybindings",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 4165674,
+                "language": "C",
+                "last_commit": "2019-04-17T17:03:14Z",
+                "owner": "EdSchouten",
+                "repo": "herrie",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "YT Music",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":white_check_mark: vimyt",
+                  "description": "TUI for YouTube Music with Vim-like keybindings.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1185746333,
+                    "language": "Go",
+                    "last_commit": "2026-06-28T12:54:14Z",
+                    "owner": "Sadoaz",
+                    "repo": "vimyt",
+                    "stars": 41
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Spotify",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":white_check_mark: spotify-tui",
+                  "description": "TUI for Spotify with Vim-like keybindings.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 202787876,
+                    "language": "Rust",
+                    "last_commit": "2024-04-04T15:03:12Z",
+                    "owner": "Rigellute",
+                    "repo": "spotify-tui",
+                    "stars": 19307
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Music Players"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":heavy_plus_sign: Reaper-Keys",
+              "description": "Bringing a modal editor to the Reaper DAW.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256890169,
+                "language": "Lua",
+                "last_commit": "2026-07-05T20:52:06Z",
+                "owner": "gwatcha",
+                "repo": "reaper-keys",
+                "stars": 201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: pineapple-tracker - A console-based sequencer with a vi-style UI.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157517,
+                "language": "C",
+                "last_commit": "2026-06-10T01:58:00Z",
+                "owner": "pineapple-tracker",
+                "repo": "pineapple-tracker",
+                "stars": 32
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Music Production"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: sc-im",
+              "description": "Like sc but improved, a Vim-like spreadsheet calculator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25980738,
+                "language": "C",
+                "last_commit": "2026-08-06T14:00:41Z",
+                "owner": "andmarti1424",
+                "repo": "sc-im",
+                "stars": 5683
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "LibreOffice",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: vibreoffice - Vi Mode for LibreOffice/OpenOffice.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 28065649,
+                    "language": "Visual Basic",
+                    "last_commit": "2016-06-09T23:23:19Z",
+                    "owner": "seanyeh",
+                    "repo": "vibreoffice",
+                    "stars": 413
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: vibreoffice",
+                  "description": "Vi Mode for LibreOffice/OpenOffice, fork that supports calc.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 567323551,
+                    "language": "VBScript",
+                    "last_commit": "2022-11-20T14:33:53Z",
+                    "owner": "Nazo1412",
+                    "repo": "vibreoffice",
+                    "stars": 16
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Google Docs Editors suite",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: SheetKeys",
+                  "description": "Browser extension (Chrome and Firefox) which adds Vim keybindings to Google Sheets.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43186897,
+                    "language": "JavaScript",
+                    "last_commit": "2026-02-26T06:02:54Z",
+                    "owner": "philc",
+                    "repo": "sheetkeys",
+                    "stars": 333
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Office Productivity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: Sioyek",
+              "description": "Both keyboard and (optionally) mouse focused. Configurable and has the possibility of adding and developing plugins.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385037052,
+                "language": "C",
+                "last_commit": "2026-08-18T18:16:43Z",
+                "owner": "ahrm",
+                "repo": "sioyek",
+                "stars": 9784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: apvlv",
+              "description": "A PDF Viewer that acts Like Vim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1858985,
+                "language": "C++",
+                "last_commit": "2026-07-31T01:21:55Z",
+                "owner": "naihe2010",
+                "repo": "apvlv",
+                "stars": 258
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Preview.app - macOS native document viewer:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: preview-vim",
+                  "description": "Adds vim-like keybindings, works via Karabiner Elements.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 274571961,
+                    "language": null,
+                    "last_commit": "2021-01-24T06:27:05Z",
+                    "owner": "xrisk",
+                    "repo": "preview-vim",
+                    "stars": 56
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PDF Viewers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: Trilium",
+              "description": "'Enable Vim Keybindings' added to Options in early-2022",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "code notes use the CodeMirror",
+                  "description": "editor and its Vim mode",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 146442061,
+                    "language": "JavaScript",
+                    "last_commit": "2026-04-15T10:24:43Z",
+                    "owner": "codemirror",
+                    "repo": "dev",
+                    "stars": 7821
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 92111509,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:50:51Z",
+                "owner": "TriliumNext",
+                "repo": "Trilium",
+                "stars": 37499
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Logseq",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: logseq-plugin-vim-shortcuts",
+                  "description": "normal mode commands deal with whole blocks, editing text is only possible in edit mode",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 432161200,
+                    "language": "TypeScript",
+                    "last_commit": "2025-12-27T03:49:39Z",
+                    "owner": "vipzhicheng",
+                    "repo": "logseq-plugin-vim-shortcuts",
+                    "stars": 407
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Personal Knowledge Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rtv - A Reddit TUI viewer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30484966,
+                "language": "Python",
+                "last_commit": "2023-02-20T15:57:19Z",
+                "owner": "michael-lazar",
+                "repo": "rtv",
+                "stars": 4647
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: iamb",
+              "description": "A Matrix client for Vim addicts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399964839,
+                "language": "Rust",
+                "last_commit": "2026-08-18T02:00:21Z",
+                "owner": "ulyssa",
+                "repo": "iamb",
+                "stars": 1262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: scli",
+              "description": "Signal messenger TUI with Vim-like keybindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166571011,
+                "language": "Python",
+                "last_commit": "2024-11-30T10:40:00Z",
+                "owner": "isamert",
+                "repo": "scli",
+                "stars": 539
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: tut",
+              "description": "a Mastodon client with vim-like navigation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248043596,
+                "language": "Go",
+                "last_commit": "2023-12-18T22:52:28Z",
+                "owner": "RasmusLindroth",
+                "repo": "tut",
+                "stars": 500
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "irssi",
+              "description": "the popular IRC client.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: vim_mode",
+                  "description": "plugin.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 462657,
+                    "language": "Perl",
+                    "last_commit": "2021-07-17T17:20:37Z",
+                    "owner": "shabble",
+                    "repo": "irssi-scripts",
+                    "stars": 151
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 462657,
                 "language": "Perl",
                 "last_commit": "2021-07-17T17:20:37Z",
                 "owner": "shabble",
                 "repo": "irssi-scripts",
                 "stars": 151
               }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: matui",
+              "description": "a Matrix TUI with vim-like navigation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616789011,
+                "language": "Rust",
+                "last_commit": "2026-07-29T05:00:42Z",
+                "owner": "pkulak",
+                "repo": "matui",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "weechat",
+              "description": "A flexible IRC client.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: weechat-vimode",
+                  "description": "A script that will configure Weechat to get Vim-like navigation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16751045,
+                    "language": "Python",
+                    "last_commit": "2025-04-27T18:22:35Z",
+                    "owner": "GermainZ",
+                    "repo": "weechat-vimode",
+                    "stars": 276
+                  }
+                }
+              ]
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2021-07-17T17:20:37Z",
-            "owner": "shabble",
-            "repo": "irssi-scripts",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: matui",
-          "description": "a Matrix TUI with vim-like navigation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-29T05:00:42Z",
-            "owner": "pkulak",
-            "repo": "matui",
-            "stars": 120
-          }
-        },
-        {
+          "description": null,
           "node_type": "group",
-          "title": "weechat",
-          "description": "A flexible IRC client.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: weechat-vimode",
-              "description": "A script that will configure Weechat to get Vim-like navigation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2025-04-27T18:22:35Z",
-                "owner": "GermainZ",
-                "repo": "weechat-vimode",
-                "stars": 276
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Social"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: Lazygit",
-          "description": "Simple terminal UI for git commands with Vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T11:09:40Z",
-            "owner": "jesseduffield",
-            "repo": "lazygit",
-            "stars": 81433
-          }
+          "title": "Social"
         },
         {
-          "node_type": "item",
-          "title": ":white_check_mark: GitUI",
-          "description": "GitUI provides you with the comfort of a git GUI but right in your terminal.",
           "children": [
             {
               "node_type": "item",
-              "title": "instruction how to enable vi bindings - https://github.com/extrawurst/gitui/blob/master/KEY_CONFIG.md",
-              "description": null,
+              "title": ":white_check_mark: Lazygit",
+              "description": "Simple terminal UI for git commands with Vim-like keybindings.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 134017286,
+                "language": "Go",
+                "last_commit": "2026-08-19T04:53:04Z",
+                "owner": "jesseduffield",
+                "repo": "lazygit",
+                "stars": 81459
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: GitUI",
+              "description": "GitUI provides you with the comfort of a git GUI but right in your terminal.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "instruction how to enable vi bindings - https://github.com/extrawurst/gitui/blob/master/KEY_CONFIG.md",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 247725846,
+                    "language": "Rust",
+                    "last_commit": "2026-08-04T08:27:21Z",
+                    "owner": "gitui-org",
+                    "repo": "gitui",
+                    "stars": 22407
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 247725846,
                 "language": "Rust",
                 "last_commit": "2026-08-04T08:27:21Z",
                 "owner": "gitui-org",
                 "repo": "gitui",
-                "stars": 22403
+                "stars": 22407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: tig",
+              "description": "Text interface for git. Works mostly like vim out of the box, but can be enhanced by sourcing these keybindings in your .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140656,
+                "language": "C",
+                "last_commit": "2026-07-27T23:00:48Z",
+                "owner": "jonas",
+                "repo": "tig",
+                "stars": 13307
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-04T08:27:21Z",
-            "owner": "gitui-org",
-            "repo": "gitui",
-            "stars": 22403
-          }
+          "description": null,
+          "node_type": "group",
+          "title": "Source Code Management"
         },
         {
-          "node_type": "item",
-          "title": ":white_check_mark: tig",
-          "description": "Text interface for git. Works mostly like vim out of the box, but can be enhanced by sourcing these keybindings in your .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-27T23:00:48Z",
-            "owner": "jonas",
-            "repo": "tig",
-            "stars": 13307
-          }
-        }
-      ],
-      "title": "Source Code Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": ":white_check_mark: Bash",
+              "description": "The preferred method is to set Vi mode in via readline, as you will get Vi mode automatically in all programs using the library. However, if you just want this for bash, put this in your bash startup file e.g., :",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: ble.sh",
+                  "description": "(Bash Line Editor) - An interactive plugin provides a better Vim mode as well as syntax highlighting and autosuggestions. In addition to the above setting of in or in , you can add the following settings in to enable .",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40722355,
+                    "language": "Shell",
+                    "last_commit": "2026-08-18T20:15:30Z",
+                    "owner": "akinomyoga",
+                    "repo": "ble.sh",
+                    "stars": 4629
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": ":white_check_mark: zsh",
+              "description": "just put this in your ZSH startup file, most likely :",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: zsh-vi-mode",
+                  "description": "A better and friendlier Vim-mode plugin for zsh.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 320469278,
+                    "language": "Shell",
+                    "last_commit": "2026-07-19T15:19:45Z",
+                    "owner": "jeffreytse",
+                    "repo": "zsh-vi-mode",
+                    "stars": 4424
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
           "node_type": "group",
-          "title": ":white_check_mark: Bash",
-          "description": "The preferred method is to set Vi mode in via readline, as you will get Vi mode automatically in all programs using the library. However, if you just want this for bash, put this in your bash startup file e.g., :",
+          "title": "Shells"
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: ble.sh",
-              "description": "(Bash Line Editor) - An interactive plugin provides a better Vim mode as well as syntax highlighting and autosuggestions. In addition to the above setting of in or in , you can add the following settings in to enable .",
+              "title": ":white_check_mark: vim-anywhere",
+              "description": "Spawn a Vim buffer from any text input in the operating system.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15505662,
                 "language": "Shell",
-                "last_commit": "2026-08-11T21:18:40Z",
-                "owner": "akinomyoga",
-                "repo": "ble.sh",
-                "stars": 4624
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": ":white_check_mark: zsh",
-          "description": "just put this in your ZSH startup file, most likely :",
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: zsh-vi-mode",
-              "description": "A better and friendlier Vim-mode plugin for zsh.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Shell",
-                "last_commit": "2026-07-19T15:19:45Z",
-                "owner": "jeffreytse",
-                "repo": "zsh-vi-mode",
-                "stars": 4424
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Shells"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: vim-anywhere",
-          "description": "Spawn a Vim buffer from any text input in the operating system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-05-02T01:07:29Z",
-            "owner": "cknadler",
-            "repo": "vim-anywhere",
-            "stars": 3765
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: warpd",
-          "description": "A modal keyboard-driven interface for mouse manipulation, Linux (X11/Wayland)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-07-12T05:06:33Z",
-            "owner": "rvaiya",
-            "repo": "warpd",
-            "stars": 3620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: win-vind",
-          "description": "Control the Windows GUI in the same way as Vim.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2025-04-17T11:43:54Z",
-            "owner": "pit-ray",
-            "repo": "win-vind",
-            "stars": 2260
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: athame",
-          "description": "Patches your shell to add full Vim support by routing your keystrokes through an actual Vim process.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-11-01T19:01:17Z",
-            "owner": "ardagnir",
-            "repo": "athame",
-            "stars": 1658
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: Hints",
-          "description": "Navigate GUI applications in Linux without your mouse by displaying \"hints\" you can type on your keyboard to interact with GUI elements (X11/Wayland)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-28T04:02:48Z",
-            "owner": "AlfredoSequeida",
-            "repo": "hints",
-            "stars": 1347
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: sketchyvim",
-          "description": "Get vim-like navigation in any macOS text field.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-03-16T07:27:24Z",
-            "owner": "FelixKratz",
-            "repo": "SketchyVim",
-            "stars": 1019
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: keystrokes",
-          "description": "Record your keystrokes and replay them just like in Vim macro, Linux (X11/Wayland)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-01-30T15:54:13Z",
-            "owner": "darukutsu",
-            "repo": "keystrokes",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "System-wide"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: btop++",
-          "description": "A resource monitor. To enable Vim navigation, set in the config file:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-08T19:49:45Z",
-            "owner": "aristocratos",
-            "repo": "btop",
-            "stars": 34070
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: CopyQ",
-          "description": "A clipboard manager with basic Vim-like navigation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T01:51:36Z",
-            "owner": "hluk",
-            "repo": "CopyQ",
-            "stars": 12143
-          }
-        }
-      ],
-      "title": "System Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: vit",
-          "description": "An TUI for Taskwarrior Vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-17T22:42:29Z",
-            "owner": "vit-project",
-            "repo": "vit",
-            "stars": 580
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: kabmat",
-          "description": "TUI for managing kanban boards with Vim-like keybindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-01-26T11:05:14Z",
-            "owner": "PlankCipher",
-            "repo": "kabmat",
-            "stars": 425
-          }
-        }
-      ],
-      "title": "Task Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: alacritty",
-          "description": "A cross-platform, OpenGL terminal emulator with Vim-like keybindings by default.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T19:36:06Z",
-            "owner": "alacritty",
-            "repo": "alacritty",
-            "stars": 65420
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: tmux",
-          "description": "the terminal multiplexer, superseding GNU Screen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T12:03:18Z",
-            "owner": "tmux",
-            "repo": "tmux",
-            "stars": 48701
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: Termine - See alacritty instead.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2021-05-07T11:46:48Z",
-            "owner": "thestinger",
-            "repo": "termite",
-            "stars": 2707
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "rxvt-unicode",
-          "description": "The Unicode fork of the rxvt terminal emulator.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: urxvt-vim-scrollback",
-              "description": "Provides Vim-like scrollback mode and pasting.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Perl",
-                "last_commit": "2018-07-18T11:47:52Z",
-                "owner": "ervandew",
-                "repo": "urxvt-vim-scrollback",
-                "stars": 35
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Terminal Emulators"
-    },
-    {
-      "description": "We know that Vi-clones/derivatives have Vi(m) keybindings so let's skip those here (Vim, NeoVim, vile, elvis, nvi, vis, pyvim, jVi, ex-vi ...)",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: kakoune",
-          "description": "A modal text editor inspired by Vim-navigation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-10T23:11:09Z",
-            "owner": "mawww",
-            "repo": "kakoune",
-            "stars": 11027
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: oni2 (onivim) - Deprecated",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Reason",
-            "last_commit": "2022-08-17T20:11:55Z",
-            "owner": "onivim",
-            "repo": "oni2",
-            "stars": 7844
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: vy",
-          "description": "A Vim-like in python made from scratch.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-01-15T03:12:07Z",
-            "owner": "vyapp",
-            "repo": "vy",
-            "stars": 1151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: rim",
-          "description": "The aspiring Vim-like text editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-01-16T07:50:16Z",
-            "owner": "mathall",
-            "repo": "rim",
-            "stars": 632
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: editra - Developers Text Editor, with a Vi-mode.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-15T15:45:29Z",
-            "owner": "cjprecord",
-            "repo": "editra",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Emacs",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: doom emacs",
-              "description": "Configuration package that provides a similar experience to Spacemacs (including . Also implements spacebar-as-leader-key.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Emacs Lisp",
-                "last_commit": "2026-08-18T08:22:56Z",
-                "owner": "doomemacs",
-                "repo": "core",
-                "stars": 22587
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": ":white_check_mark: Sublime Text",
-          "description": "has a bult-in Vintage mode that can be enabled.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: Vintageous",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2018-07-29T20:06:54Z",
-                "owner": "guillermooo",
-                "repo": "Vintageous",
-                "stars": 1629
+                "last_commit": "2026-05-02T01:07:29Z",
+                "owner": "cknadler",
+                "repo": "vim-anywhere",
+                "stars": 3765
               }
             },
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: NeoVintageous",
-              "description": "An advanced Vim emulation layer.",
+              "title": ":white_check_mark: warpd",
+              "description": "A modal keyboard-driven interface for mouse manipulation, Linux (X11/Wayland)",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-17T05:40:31Z",
-                "owner": "NeoVintageous",
-                "repo": "NeoVintageous",
-                "stars": 728
+                "id": 210099248,
+                "language": "C",
+                "last_commit": "2024-07-12T05:06:33Z",
+                "owner": "rvaiya",
+                "repo": "warpd",
+                "stars": 3621
               }
             },
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: VintageEx",
-              "description": null,
+              "title": ":white_check_mark: win-vind",
+              "description": "Control the Windows GUI in the same way as Vim.",
               "children": [],
               "repo_info": {
                 "archived": true,
-                "language": "Python",
-                "last_commit": "2015-03-26T19:45:21Z",
-                "owner": "SublimeText",
-                "repo": "VintageEx",
-                "stars": 381
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "QTextEdit/QPlainTextEdit",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: FakeVim",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
+                "id": 259406841,
                 "language": "C++",
-                "last_commit": "2026-08-03T20:27:36Z",
+                "last_commit": "2025-04-17T11:43:54Z",
+                "owner": "pit-ray",
+                "repo": "win-vind",
+                "stars": 2260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: athame",
+              "description": "Patches your shell to add full Vim support by routing your keystrokes through an actual Vim process.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26725442,
+                "language": "C",
+                "last_commit": "2023-11-01T19:01:17Z",
+                "owner": "ardagnir",
+                "repo": "athame",
+                "stars": 1658
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: Hints",
+              "description": "Navigate GUI applications in Linux without your mouse by displaying \"hints\" you can type on your keyboard to interact with GUI elements (X11/Wayland)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 880618357,
+                "language": "Python",
+                "last_commit": "2026-06-28T04:02:48Z",
+                "owner": "AlfredoSequeida",
+                "repo": "hints",
+                "stars": 1348
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: sketchyvim",
+              "description": "Get vim-like navigation in any macOS text field.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 458331451,
+                "language": "C",
+                "last_commit": "2024-03-16T07:27:24Z",
+                "owner": "FelixKratz",
+                "repo": "SketchyVim",
+                "stars": 1019
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: keystrokes",
+              "description": "Record your keystrokes and replay them just like in Vim macro, Linux (X11/Wayland)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 891547116,
+                "language": "Shell",
+                "last_commit": "2025-01-30T15:54:13Z",
+                "owner": "darukutsu",
+                "repo": "keystrokes",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "System-wide"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: btop++",
+              "description": "A resource monitor. To enable Vim navigation, set in the config file:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365005377,
+                "language": "C++",
+                "last_commit": "2026-08-08T19:49:45Z",
+                "owner": "aristocratos",
+                "repo": "btop",
+                "stars": 34088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: CopyQ",
+              "description": "A clipboard manager with basic Vim-like navigation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344809,
+                "language": "C++",
+                "last_commit": "2026-08-18T01:51:36Z",
                 "owner": "hluk",
-                "repo": "FakeVim",
-                "stars": 182
+                "repo": "CopyQ",
+                "stars": 12148
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "System Tools"
         },
         {
-          "node_type": "group",
-          "title": "Inkdrop",
-          "description": "A Markdown note-taking app.",
           "children": [
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: inkdrop-vim",
-              "description": "Provides a Vim modal control for Inkdrop.",
+              "title": ":white_check_mark: vit",
+              "description": "An TUI for Taskwarrior Vim-like keybindings.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-18T12:37:48Z",
-                "owner": "inkdropapp",
-                "repo": "inkdrop-vim",
-                "stars": 108
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Atom - Discontinued",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: atom-vim-mode-plus",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "CoffeeScript",
-                "last_commit": "2021-10-07T00:57:54Z",
-                "owner": "t9md",
-                "repo": "atom-vim-mode-plus",
-                "stars": 1388
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Text Editors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: nyxt",
-          "description": "A keyboard-driven web browser inspired by Vim and Emacs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Common Lisp",
-            "last_commit": "2026-02-26T14:36:03Z",
-            "owner": "atlas-engineer",
-            "repo": "nyxt",
-            "stars": 11001
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: xombrero - A minimalist web browser with vi-like keyboard commands.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-11-26T18:55:00Z",
-            "owner": "conformal",
-            "repo": "xombrero",
-            "stars": 162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: wyeb",
-          "description": "A Vim-like webkit2gtk web browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-23T10:14:21Z",
-            "owner": "jun7",
-            "repo": "wyeb",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: Vimprobable",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2013-06-01T05:52:10Z",
-            "owner": "ThomasAdam",
-            "repo": "vimprobable",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: dwb - See qutebrowser instead.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2015-11-18T19:14:08Z",
-            "owner": "diab0l",
-            "repo": "dwb",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: Cream-Browser - A browser developped in C with GTK+ having the same interface as Vimperator.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-21T21:53:46Z",
-            "owner": "linkdd",
-            "repo": "cream-browser",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Chrome",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: cVim",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2022-10-19T19:46:11Z",
-                "owner": "1995eaton",
-                "repo": "chromium-vim",
-                "stars": 2256
+                "id": 67251054,
+                "language": "Python",
+                "last_commit": "2026-03-17T22:42:29Z",
+                "owner": "vit-project",
+                "repo": "vit",
+                "stars": 580
               }
             },
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: wasavi - Transform text areas into a vi editor.",
-              "description": null,
+              "title": ":white_check_mark: kabmat",
+              "description": "TUI for managing kanban boards with Vim-like keybindings.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2024-03-20T19:50:21Z",
-                "owner": "akahuku",
-                "repo": "wasavi",
-                "stars": 1543
-              }
-            },
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: vrome",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "CoffeeScript",
-                "last_commit": "2016-10-24T08:46:41Z",
-                "owner": "jinzhu",
-                "repo": "vrome",
-                "stars": 618
-              }
-            },
-            {
-              "node_type": "item",
-              "title": ":heavy_plus_sign: ViChrome",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "CoffeeScript",
-                "last_commit": "2017-03-18T02:37:39Z",
-                "owner": "k2nr",
-                "repo": "ViChrome",
-                "stars": 229
+                "id": 452383633,
+                "language": "C++",
+                "last_commit": "2023-01-26T11:05:14Z",
+                "owner": "PlankCipher",
+                "repo": "kabmat",
+                "stars": 425
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Task Management"
         },
         {
-          "node_type": "group",
-          "title": "Opera",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: wasavi - Transform text areas into a vi editor.",
-              "description": null,
+              "title": ":white_check_mark: alacritty",
+              "description": "A cross-platform, OpenGL terminal emulator with Vim-like keybindings by default.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2024-03-20T19:50:21Z",
-                "owner": "akahuku",
-                "repo": "wasavi",
-                "stars": 1543
+                "id": 51980455,
+                "language": "Rust",
+                "last_commit": "2026-08-17T19:36:06Z",
+                "owner": "alacritty",
+                "repo": "alacritty",
+                "stars": 65426
               }
             },
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: VimOperate",
+              "title": ":white_check_mark: tmux",
+              "description": "the terminal multiplexer, superseding GNU Screen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36836475,
+                "language": "C",
+                "last_commit": "2026-08-19T10:56:33Z",
+                "owner": "tmux",
+                "repo": "tmux",
+                "stars": 48719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: Termine - See alacritty instead.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 4402279,
+                "language": "C++",
+                "last_commit": "2021-05-07T11:46:48Z",
+                "owner": "thestinger",
+                "repo": "termite",
+                "stars": 2707
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "rxvt-unicode",
+              "description": "The Unicode fork of the rxvt terminal emulator.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: urxvt-vim-scrollback",
+                  "description": "Provides Vim-like scrollback mode and pasting.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 6326501,
+                    "language": "Perl",
+                    "last_commit": "2018-07-18T11:47:52Z",
+                    "owner": "ervandew",
+                    "repo": "urxvt-vim-scrollback",
+                    "stars": 35
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terminal Emulators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: kakoune",
+              "description": "A modal text editor inspired by Vim-navigation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2701888,
+                "language": "C++",
+                "last_commit": "2026-08-19T07:32:53Z",
+                "owner": "mawww",
+                "repo": "kakoune",
+                "stars": 11030
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: oni2 (onivim) - Deprecated",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163862700,
+                "language": "Reason",
+                "last_commit": "2022-08-17T20:11:55Z",
+                "owner": "onivim",
+                "repo": "oni2",
+                "stars": 7844
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: vy",
+              "description": "A Vim-like in python made from scratch.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 26300986,
+                "language": "Python",
+                "last_commit": "2026-01-15T03:12:07Z",
+                "owner": "vyapp",
+                "repo": "vy",
+                "stars": 1151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: rim",
+              "description": "The aspiring Vim-like text editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30017427,
+                "language": "Rust",
+                "last_commit": "2021-01-16T07:50:16Z",
+                "owner": "mathall",
+                "repo": "rim",
+                "stars": 632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: editra - Developers Text Editor, with a Vi-mode.",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2023-09-01T07:57:38Z",
-                "owner": "rscircus",
-                "repo": "VimOperate",
+                "id": 32902530,
+                "language": "Python",
+                "last_commit": "2019-11-15T15:45:29Z",
+                "owner": "cjprecord",
+                "repo": "editra",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Emacs",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: doom emacs",
+                  "description": "Configuration package that provides a similar experience to Spacemacs (including . Also implements spacebar-as-leader-key.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21763822,
+                    "language": "Emacs Lisp",
+                    "last_commit": "2026-08-19T04:30:42Z",
+                    "owner": "doomemacs",
+                    "repo": "core",
+                    "stars": 22590
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": ":white_check_mark: Sublime Text",
+              "description": "has a bult-in Vintage mode that can be enabled.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: Vintageous",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7899791,
+                    "language": "Python",
+                    "last_commit": "2018-07-29T20:06:54Z",
+                    "owner": "guillermooo",
+                    "repo": "Vintageous",
+                    "stars": 1629
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: NeoVintageous",
+                  "description": "An advanced Vim emulation layer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 87298228,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T05:40:31Z",
+                    "owner": "NeoVintageous",
+                    "repo": "NeoVintageous",
+                    "stars": 728
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: VintageEx",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 2686202,
+                    "language": "Python",
+                    "last_commit": "2015-03-26T19:45:21Z",
+                    "owner": "SublimeText",
+                    "repo": "VintageEx",
+                    "stars": 381
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "QTextEdit/QPlainTextEdit",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: FakeVim",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 8974696,
+                    "language": "C++",
+                    "last_commit": "2026-08-03T20:27:36Z",
+                    "owner": "hluk",
+                    "repo": "FakeVim",
+                    "stars": 182
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Inkdrop",
+              "description": "A Markdown note-taking app.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: inkdrop-vim",
+                  "description": "Provides a Vim modal control for Inkdrop.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 105430360,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T20:01:53Z",
+                    "owner": "inkdropapp",
+                    "repo": "inkdrop-vim",
+                    "stars": 110
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Atom - Discontinued",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: atom-vim-mode-plus",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42821704,
+                    "language": "CoffeeScript",
+                    "last_commit": "2021-10-07T00:57:54Z",
+                    "owner": "t9md",
+                    "repo": "atom-vim-mode-plus",
+                    "stars": 1388
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "We know that Vi-clones/derivatives have Vi(m) keybindings so let's skip those here (Vim, NeoVim, vile, elvis, nvi, vis, pyvim, jVi, ex-vi ...)",
+          "node_type": "group",
+          "title": "Text Editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: nyxt",
+              "description": "A keyboard-driven web browser inspired by Vim and Emacs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87668160,
+                "language": "Common Lisp",
+                "last_commit": "2026-02-26T14:36:03Z",
+                "owner": "atlas-engineer",
+                "repo": "nyxt",
+                "stars": 10999
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: xombrero - A minimalist web browser with vi-like keyboard commands.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10093465,
+                "language": "C",
+                "last_commit": "2016-11-26T18:55:00Z",
+                "owner": "conformal",
+                "repo": "xombrero",
+                "stars": 162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: wyeb",
+              "description": "A Vim-like webkit2gtk web browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96137395,
+                "language": "C",
+                "last_commit": "2025-10-23T10:14:21Z",
+                "owner": "jun7",
+                "repo": "wyeb",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: Vimprobable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632266,
+                "language": "C",
+                "last_commit": "2013-06-01T05:52:10Z",
+                "owner": "ThomasAdam",
+                "repo": "vimprobable",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: dwb - See qutebrowser instead.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46348259,
+                "language": "C",
+                "last_commit": "2015-11-18T19:14:08Z",
+                "owner": "diab0l",
+                "repo": "dwb",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: Cream-Browser - A browser developped in C with GTK+ having the same interface as Vimperator.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495411,
+                "language": "C",
+                "last_commit": "2026-05-21T21:53:46Z",
+                "owner": "linkdd",
+                "repo": "cream-browser",
                 "stars": 9
               }
+            },
+            {
+              "node_type": "group",
+              "title": "Chrome",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: cVim",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17681420,
+                    "language": "JavaScript",
+                    "last_commit": "2022-10-19T19:46:11Z",
+                    "owner": "1995eaton",
+                    "repo": "chromium-vim",
+                    "stars": 2256
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: wasavi - Transform text areas into a vi editor.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3558991,
+                    "language": "JavaScript",
+                    "last_commit": "2024-03-20T19:50:21Z",
+                    "owner": "akahuku",
+                    "repo": "wasavi",
+                    "stars": 1543
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: vrome",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 363020,
+                    "language": "CoffeeScript",
+                    "last_commit": "2016-10-24T08:46:41Z",
+                    "owner": "jinzhu",
+                    "repo": "vrome",
+                    "stars": 618
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: ViChrome",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2353703,
+                    "language": "CoffeeScript",
+                    "last_commit": "2017-03-18T02:37:39Z",
+                    "owner": "k2nr",
+                    "repo": "ViChrome",
+                    "stars": 229
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Opera",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: wasavi - Transform text areas into a vi editor.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3558991,
+                    "language": "JavaScript",
+                    "last_commit": "2024-03-20T19:50:21Z",
+                    "owner": "akahuku",
+                    "repo": "wasavi",
+                    "stars": 1543
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: VimOperate",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4571110,
+                    "language": "JavaScript",
+                    "last_commit": "2023-09-01T07:57:38Z",
+                    "owner": "rscircus",
+                    "repo": "VimOperate",
+                    "stars": 9
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Various",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":heavy_plus_sign: firenvim",
+                  "description": "Transform text areas into a Neovim instance that inherits your existing config (keymaps, plugins, etc).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 174529025,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-04T17:13:44Z",
+                    "owner": "glacambre",
+                    "repo": "firenvim",
+                    "stars": 6101
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web browsers"
         },
         {
-          "node_type": "group",
-          "title": "Various",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": ":heavy_plus_sign: firenvim",
-              "description": "Transform text areas into a Neovim instance that inherits your existing config (keymaps, plugins, etc).",
+              "title": ":white_check_mark: AppGrid",
+              "description": "A window manager for macOS with Vim-like hotkeys.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-04T17:13:44Z",
-                "owner": "glacambre",
-                "repo": "firenvim",
-                "stars": 6101
+                "id": 32475768,
+                "language": "Objective-C",
+                "last_commit": "2026-06-14T21:29:51Z",
+                "owner": "mjolnirapp",
+                "repo": "AppGrid",
+                "stars": 666
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: howm",
+              "description": "A lightweight, X11 tiling window manager that behaves like vim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18231135,
+                "language": "C",
+                "last_commit": "2022-07-19T05:45:25Z",
+                "owner": "HarveyHunt",
+                "repo": "howm",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: howm",
+              "description": "A lightweight tiling X11 window manager that mimics vi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18231135,
+                "language": "C",
+                "last_commit": "2022-07-19T05:45:25Z",
+                "owner": "HarveyHunt",
+                "repo": "howm",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":white_check_mark: wmii",
+              "description": "A small and scriptable window manager that can be configured with Vim-like keyboard shortcuts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74551919,
+                "language": "C",
+                "last_commit": "2026-03-18T20:31:20Z",
+                "owner": "0intro",
+                "repo": "wmii",
+                "stars": 137
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Window Managers"
         }
       ],
-      "title": "Web browsers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: AppGrid",
-          "description": "A window manager for macOS with Vim-like hotkeys.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-06-14T21:29:51Z",
-            "owner": "mjolnirapp",
-            "repo": "AppGrid",
-            "stars": 666
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: howm",
-          "description": "A lightweight, X11 tiling window manager that behaves like vim.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-07-19T05:45:25Z",
-            "owner": "HarveyHunt",
-            "repo": "howm",
-            "stars": 657
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: howm",
-          "description": "A lightweight tiling X11 window manager that mimics vi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-07-19T05:45:25Z",
-            "owner": "HarveyHunt",
-            "repo": "howm",
-            "stars": 657
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":white_check_mark: wmii",
-          "description": "A small and scriptable window manager that can be configured with Vim-like keyboard shortcuts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-03-18T20:31:20Z",
-            "owner": "0intro",
-            "repo": "wmii",
-            "stars": 137
-          }
-        }
-      ],
-      "title": "Window Managers"
+      "title": "The Ultimate Vim Keybinding List"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:25:43.572Z",
+    "last_updated": "2026-08-19T12:57:15.378Z",
     "original_repository": "erikw/vim-keybindings-everywhere-the-ultimate-list",
+    "original_repository_id": 434989085,
     "original_repository_sha": "143e15f4950d98e4068a565c57b78d901f6f8aed",
     "enhanced_repository": "enhansome/enhansome-vim-keybindings-everywhere-the-ultimate-list",
     "enhanced_repository_description": null,
