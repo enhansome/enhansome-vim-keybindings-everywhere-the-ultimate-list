@@ -34,10 +34,10 @@
                     "archived": false,
                     "id": 46041284,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T02:15:06Z",
+                    "last_commit": "2026-08-21T16:39:26Z",
                     "owner": "VSCodeVim",
                     "repo": "Vim",
-                    "stars": 15196
+                    "stars": 15197
                   }
                 }
               ]
@@ -78,10 +78,10 @@
                     "archived": false,
                     "id": 44662669,
                     "language": "Java",
-                    "last_commit": "2026-08-21T15:19:23Z",
+                    "last_commit": "2026-08-22T12:16:43Z",
                     "owner": "dbeaver",
                     "repo": "dbeaver",
-                    "stars": 51496
+                    "stars": 51502
                   }
                 }
               ]
@@ -149,7 +149,7 @@
                 "last_commit": "2026-08-17T16:17:54Z",
                 "owner": "jarun",
                 "repo": "nnn",
-                "stars": 21818
+                "stars": 21819
               }
             },
             {
@@ -164,7 +164,7 @@
                 "last_commit": "2026-08-15T07:36:52Z",
                 "owner": "ranger",
                 "repo": "ranger",
-                "stars": 17356
+                "stars": 17358
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-15T02:07:20Z",
                 "owner": "gokcehan",
                 "repo": "lf",
-                "stars": 9465
+                "stars": 9469
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2026-08-17T09:15:46Z",
                 "owner": "sayanarijit",
                 "repo": "xplr",
-                "stars": 4807
+                "stars": 4808
               }
             },
             {
@@ -307,10 +307,10 @@
                     "archived": false,
                     "id": 46041284,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T02:15:06Z",
+                    "last_commit": "2026-08-21T16:39:26Z",
                     "owner": "VSCodeVim",
                     "repo": "Vim",
-                    "stars": 15196
+                    "stars": 15197
                   }
                 },
                 {
@@ -325,7 +325,7 @@
                     "last_commit": "2026-07-21T21:08:32Z",
                     "owner": "vscode-neovim",
                     "repo": "vscode-neovim",
-                    "stars": 7716
+                    "stars": 7717
                   }
                 }
               ]
@@ -534,7 +534,7 @@
                 "last_commit": "2026-08-16T00:02:03Z",
                 "owner": "charmbracelet",
                 "repo": "glow",
-                "stars": 26981
+                "stars": 26999
               }
             },
             {
@@ -549,7 +549,7 @@
                 "last_commit": "2026-07-28T11:36:44Z",
                 "owner": "antonmedv",
                 "repo": "fx",
-                "stars": 20586
+                "stars": 20587
               }
             },
             {
@@ -564,7 +564,7 @@
                 "last_commit": "2025-11-24T22:15:31Z",
                 "owner": "gollum",
                 "repo": "gollum",
-                "stars": 14312
+                "stars": 14314
               }
             },
             {
@@ -576,7 +576,7 @@
                 "archived": false,
                 "id": 92203868,
                 "language": "Zig",
-                "last_commit": "2026-07-31T21:59:10Z",
+                "last_commit": "2026-08-21T17:10:43Z",
                 "owner": "fairyglade",
                 "repo": "ly",
                 "stars": 7536
@@ -609,7 +609,7 @@
                 "last_commit": "2024-03-14T13:51:20Z",
                 "owner": "GeorgeFilipkin",
                 "repo": "pulsemixer",
-                "stars": 807
+                "stars": 808
               }
             },
             {
@@ -778,7 +778,7 @@
                     "last_commit": "2024-04-04T15:03:12Z",
                     "owner": "Rigellute",
                     "repo": "spotify-tui",
-                    "stars": 19310
+                    "stars": 19312
                   }
                 }
               ]
@@ -920,7 +920,7 @@
                 "last_commit": "2026-08-18T18:16:43Z",
                 "owner": "ahrm",
                 "repo": "sioyek",
-                "stars": 9786
+                "stars": 9788
               }
             },
             {
@@ -992,10 +992,10 @@
                 "archived": false,
                 "id": 92111509,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T06:53:39Z",
+                "last_commit": "2026-08-22T12:12:15Z",
                 "owner": "TriliumNext",
                 "repo": "Trilium",
-                "stars": 37530
+                "stars": 37545
               }
             },
             {
@@ -1051,7 +1051,7 @@
                 "archived": false,
                 "id": 399964839,
                 "language": "Rust",
-                "last_commit": "2026-08-18T02:00:21Z",
+                "last_commit": "2026-08-21T22:07:18Z",
                 "owner": "ulyssa",
                 "repo": "iamb",
                 "stars": 1266
@@ -1069,7 +1069,7 @@
                 "last_commit": "2024-11-30T10:40:00Z",
                 "owner": "isamert",
                 "repo": "scli",
-                "stars": 538
+                "stars": 537
               }
             },
             {
@@ -1174,7 +1174,7 @@
                 "last_commit": "2026-08-21T11:34:49Z",
                 "owner": "jesseduffield",
                 "repo": "lazygit",
-                "stars": 81526
+                "stars": 81544
               }
             },
             {
@@ -1194,7 +1194,7 @@
                     "last_commit": "2026-08-04T08:27:21Z",
                     "owner": "gitui-org",
                     "repo": "gitui",
-                    "stars": 22409
+                    "stars": 22412
                   }
                 }
               ],
@@ -1205,7 +1205,7 @@
                 "last_commit": "2026-08-04T08:27:21Z",
                 "owner": "gitui-org",
                 "repo": "gitui",
-                "stars": 22409
+                "stars": 22412
               }
             },
             {
@@ -1220,7 +1220,7 @@
                 "last_commit": "2026-07-27T23:00:48Z",
                 "owner": "jonas",
                 "repo": "tig",
-                "stars": 13311
+                "stars": 13313
               }
             }
           ],
@@ -1247,7 +1247,7 @@
                     "last_commit": "2026-08-18T20:15:30Z",
                     "owner": "akinomyoga",
                     "repo": "ble.sh",
-                    "stars": 4633
+                    "stars": 4636
                   }
                 }
               ]
@@ -1308,7 +1308,7 @@
                 "last_commit": "2024-07-12T05:06:33Z",
                 "owner": "rvaiya",
                 "repo": "warpd",
-                "stars": 3620
+                "stars": 3621
               }
             },
             {
@@ -1402,10 +1402,10 @@
                 "archived": false,
                 "id": 365005377,
                 "language": "C++",
-                "last_commit": "2026-08-08T19:49:45Z",
+                "last_commit": "2026-08-22T05:03:38Z",
                 "owner": "aristocratos",
                 "repo": "btop",
-                "stars": 34131
+                "stars": 34145
               }
             },
             {
@@ -1417,10 +1417,10 @@
                 "archived": false,
                 "id": 344809,
                 "language": "C++",
-                "last_commit": "2026-08-20T01:18:12Z",
+                "last_commit": "2026-08-22T10:31:51Z",
                 "owner": "hluk",
                 "repo": "CopyQ",
-                "stars": 12156
+                "stars": 12159
               }
             }
           ],
@@ -1442,7 +1442,7 @@
                 "last_commit": "2026-03-17T22:42:29Z",
                 "owner": "vit-project",
                 "repo": "vit",
-                "stars": 579
+                "stars": 581
               }
             },
             {
@@ -1479,7 +1479,7 @@
                 "last_commit": "2026-08-17T19:36:06Z",
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65449
+                "stars": 65468
               }
             },
             {
@@ -1491,10 +1491,10 @@
                 "archived": false,
                 "id": 36836475,
                 "language": "C",
-                "last_commit": "2026-08-21T14:59:14Z",
+                "last_commit": "2026-08-22T14:46:06Z",
                 "owner": "tmux",
                 "repo": "tmux",
-                "stars": 48752
+                "stars": 48753
               }
             },
             {
@@ -1568,7 +1568,7 @@
                 "last_commit": "2022-08-17T20:11:55Z",
                 "owner": "onivim",
                 "repo": "oni2",
-                "stars": 7842
+                "stars": 7843
               }
             },
             {
@@ -1633,7 +1633,7 @@
                     "last_commit": "2026-08-21T11:36:45Z",
                     "owner": "doomemacs",
                     "repo": "core",
-                    "stars": 22596
+                    "stars": 22606
                   }
                 }
               ]
@@ -1704,7 +1704,7 @@
                     "archived": false,
                     "id": 8974696,
                     "language": "C++",
-                    "last_commit": "2026-08-03T20:27:36Z",
+                    "last_commit": "2026-08-22T06:48:15Z",
                     "owner": "hluk",
                     "repo": "FakeVim",
                     "stars": 183
@@ -1775,7 +1775,7 @@
                 "last_commit": "2026-02-26T14:36:03Z",
                 "owner": "atlas-engineer",
                 "repo": "nyxt",
-                "stars": 11002
+                "stars": 11003
               }
             },
             {
@@ -1974,7 +1974,7 @@
                     "last_commit": "2026-08-04T17:13:44Z",
                     "owner": "glacambre",
                     "repo": "firenvim",
-                    "stars": 6099
+                    "stars": 6100
                   }
                 }
               ]
@@ -2056,7 +2056,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:27:33.271Z",
+    "last_updated": "2026-08-22T15:14:53.907Z",
     "original_repository": "erikw/vim-keybindings-everywhere-the-ultimate-list",
     "original_repository_id": 434989085,
     "original_repository_sha": "143e15f4950d98e4068a565c57b78d901f6f8aed",
