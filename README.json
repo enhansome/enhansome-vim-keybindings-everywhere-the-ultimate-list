@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":white_check_mark: vimpdb",
+              "description": "An integration of the Python debugger and vim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527488,
+                "language": "Python",
+                "last_commit": "2017-02-19T09:58:36Z",
+                "owner": "gotcha",
+                "repo": "vimpdb",
+                "stars": 206
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debuggers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":white_check_mark: ptpython",
               "description": "A better Python REPL. Start it with or add to its .",
               "children": [],
@@ -37,7 +59,7 @@
                     "last_commit": "2026-08-21T16:39:26Z",
                     "owner": "VSCodeVim",
                     "repo": "Vim",
-                    "stars": 15198
+                    "stars": 15199
                   }
                 }
               ]
@@ -78,10 +100,10 @@
                     "archived": false,
                     "id": 44662669,
                     "language": "Java",
-                    "last_commit": "2026-08-23T09:25:47Z",
+                    "last_commit": "2026-08-24T13:52:03Z",
                     "owner": "dbeaver",
                     "repo": "dbeaver",
-                    "stars": 51515
+                    "stars": 51528
                   }
                 }
               ]
@@ -139,6 +161,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":white_check_mark: cointop",
+              "description": "interactive terminal-based UI application for tracking and monitoring cryptocurrency.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 127352116,
+                "language": "Go",
+                "last_commit": "2024-04-07T22:46:01Z",
+                "owner": "cointop-sh",
+                "repo": "cointop",
+                "stars": 4395
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Economy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":white_check_mark: nnn",
               "description": "TUI file manager.",
               "children": [],
@@ -149,7 +193,7 @@
                 "last_commit": "2026-08-17T16:17:54Z",
                 "owner": "jarun",
                 "repo": "nnn",
-                "stars": 21822
+                "stars": 21827
               }
             },
             {
@@ -176,10 +220,10 @@
                 "archived": false,
                 "id": 65616765,
                 "language": "Go",
-                "last_commit": "2026-08-15T02:07:20Z",
+                "last_commit": "2026-08-24T02:12:43Z",
                 "owner": "gokcehan",
                 "repo": "lf",
-                "stars": 9473
+                "stars": 9475
               }
             },
             {
@@ -194,7 +238,7 @@
                 "last_commit": "2026-08-17T09:15:46Z",
                 "owner": "sayanarijit",
                 "repo": "xplr",
-                "stars": 4808
+                "stars": 4809
               }
             },
             {
@@ -229,8 +273,8 @@
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: vide - The graphical predecessor of vifm that uses GTK+",
-              "description": null,
+              "title": ":white_check_mark: vide",
+              "description": "The graphical predecessor of vifm that uses GTK+",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -310,7 +354,7 @@
                     "last_commit": "2026-08-21T16:39:26Z",
                     "owner": "VSCodeVim",
                     "repo": "Vim",
-                    "stars": 15198
+                    "stars": 15199
                   }
                 },
                 {
@@ -325,7 +369,7 @@
                     "last_commit": "2026-07-21T21:08:32Z",
                     "owner": "vscode-neovim",
                     "repo": "vscode-neovim",
-                    "stars": 7718
+                    "stars": 7720
                   }
                 }
               ]
@@ -337,8 +381,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": ":heavy_plus_sign: XVim plugin. Deprecated, use native keybindings (above) instead.",
-                  "description": null,
+                  "title": ":heavy_plus_sign: XVim",
+                  "description": "plugin. Deprecated, use native keybindings (above) instead.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -352,8 +396,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": ":heavy_plus_sign: XVim2 plugin. Deprecated, use native keybindings (above) instead.",
-                  "description": null,
+                  "title": ":heavy_plus_sign: XVim2",
+                  "description": "plugin. Deprecated, use native keybindings (above) instead.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -396,8 +440,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": ":heavy_plus_sign: DrRacket Vim Tool - An IDE that aims to use the tools you wish to use(including Vim and Emacs).",
-                  "description": null,
+                  "title": ":heavy_plus_sign: DrRacket Vim Tool",
+                  "description": "An IDE that aims to use the tools you wish to use(including Vim and Emacs).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -420,8 +464,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": ":white_check_mark: sxiv - See nsxiv instead.",
-              "description": null,
+              "title": ":white_check_mark: sxiv",
+              "description": "See nsxiv instead.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -435,8 +479,8 @@
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: vimiv - See vimiv-qt.",
-              "description": null,
+              "title": ":white_check_mark: vimiv",
+              "description": "See vimiv-qt.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -502,8 +546,8 @@
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: HEdit - A Vim-like terminal-based hex editor scriptable with JS.",
-              "description": null,
+              "title": ":white_check_mark: HEdit",
+              "description": "A Vim-like terminal-based hex editor scriptable with JS.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -534,7 +578,7 @@
                 "last_commit": "2026-08-16T00:02:03Z",
                 "owner": "charmbracelet",
                 "repo": "glow",
-                "stars": 27009
+                "stars": 27018
               }
             },
             {
@@ -549,7 +593,7 @@
                 "last_commit": "2026-07-28T11:36:44Z",
                 "owner": "antonmedv",
                 "repo": "fx",
-                "stars": 20587
+                "stars": 20589
               }
             },
             {
@@ -576,10 +620,10 @@
                 "archived": false,
                 "id": 92203868,
                 "language": "Zig",
-                "last_commit": "2026-08-23T13:35:54Z",
+                "last_commit": "2026-08-24T13:44:39Z",
                 "owner": "fairyglade",
                 "repo": "ly",
-                "stars": 7537
+                "stars": 7535
               }
             },
             {
@@ -644,8 +688,8 @@
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: Yzis - A vi/vim engine that is easy to integrate in any graphical application.",
-              "description": null,
+              "title": ":white_check_mark: Yzis",
+              "description": "A vi/vim engine that is easy to integrate in any graphical application.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -726,8 +770,8 @@
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: herrie - a MPD player with Vim-like keybindings",
-              "description": ".",
+              "title": ":white_check_mark: herrie",
+              "description": "a MPD player with Vim-like keybindings.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -778,7 +822,7 @@
                     "last_commit": "2024-04-04T15:03:12Z",
                     "owner": "Rigellute",
                     "repo": "spotify-tui",
-                    "stars": 19316
+                    "stars": 19315
                   }
                 }
               ]
@@ -807,8 +851,8 @@
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: pineapple-tracker - A console-based sequencer with a vi-style UI.",
-              "description": null,
+              "title": ":white_check_mark: pineapple-tracker",
+              "description": "A console-based sequencer with a vi-style UI.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -829,6 +873,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":heavy_plus_sign: Newsbeuter",
+              "description": "Unmaintained, see Newsboat./",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 94329,
+                "language": "C++",
+                "last_commit": "2019-06-05T13:44:03Z",
+                "owner": "akrennmair",
+                "repo": "newsbeuter",
+                "stars": 774
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "News/RSS Readers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":white_check_mark: sc-im",
               "description": "Like sc but improved, a Vim-like spreadsheet calculator.",
               "children": [],
@@ -839,7 +905,7 @@
                 "last_commit": "2026-08-06T14:00:41Z",
                 "owner": "andmarti1424",
                 "repo": "sc-im",
-                "stars": 5687
+                "stars": 5688
               }
             },
             {
@@ -849,8 +915,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": ":heavy_plus_sign: vibreoffice - Vi Mode for LibreOffice/OpenOffice.",
-                  "description": null,
+                  "title": ":heavy_plus_sign: vibreoffice",
+                  "description": "Vi Mode for LibreOffice/OpenOffice.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -910,6 +976,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":white_check_mark: bat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130464961,
+                "language": "Rust",
+                "last_commit": "2026-08-11T14:39:20Z",
+                "owner": "sharkdp",
+                "repo": "bat",
+                "stars": 60239
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pagers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":white_check_mark: Sioyek",
               "description": "Both keyboard and (optionally) mouse focused. Configurable and has the possibility of adding and developing plugins.",
               "children": [],
@@ -920,7 +1008,7 @@
                 "last_commit": "2026-08-18T18:16:43Z",
                 "owner": "ahrm",
                 "repo": "sioyek",
-                "stars": 9791
+                "stars": 9794
               }
             },
             {
@@ -935,7 +1023,7 @@
                 "last_commit": "2026-07-31T01:21:55Z",
                 "owner": "naihe2010",
                 "repo": "apvlv",
-                "stars": 258
+                "stars": 259
               }
             },
             {
@@ -992,10 +1080,10 @@
                 "archived": false,
                 "id": 92111509,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T11:33:18Z",
+                "last_commit": "2026-08-24T13:56:56Z",
                 "owner": "TriliumNext",
                 "repo": "Trilium",
-                "stars": 37556
+                "stars": 37571
               }
             },
             {
@@ -1029,8 +1117,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "rtv - A Reddit TUI viewer",
-              "description": null,
+              "title": "rtv",
+              "description": "A Reddit TUI viewer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1054,7 +1142,7 @@
                 "last_commit": "2026-08-23T02:57:00Z",
                 "owner": "ulyssa",
                 "repo": "iamb",
-                "stars": 1266
+                "stars": 1267
               }
             },
             {
@@ -1174,7 +1262,7 @@
                 "last_commit": "2026-08-21T11:34:49Z",
                 "owner": "jesseduffield",
                 "repo": "lazygit",
-                "stars": 81570
+                "stars": 81591
               }
             },
             {
@@ -1194,7 +1282,7 @@
                     "last_commit": "2026-08-04T08:27:21Z",
                     "owner": "gitui-org",
                     "repo": "gitui",
-                    "stars": 22423
+                    "stars": 22427
                   }
                 }
               ],
@@ -1205,7 +1293,7 @@
                 "last_commit": "2026-08-04T08:27:21Z",
                 "owner": "gitui-org",
                 "repo": "gitui",
-                "stars": 22423
+                "stars": 22427
               }
             },
             {
@@ -1220,7 +1308,7 @@
                 "last_commit": "2026-07-27T23:00:48Z",
                 "owner": "jonas",
                 "repo": "tig",
-                "stars": 13314
+                "stars": 13317
               }
             }
           ],
@@ -1247,7 +1335,7 @@
                     "last_commit": "2026-08-18T20:15:30Z",
                     "owner": "akinomyoga",
                     "repo": "ble.sh",
-                    "stars": 4638
+                    "stars": 4642
                   }
                 }
               ]
@@ -1269,7 +1357,7 @@
                     "last_commit": "2026-07-19T15:19:45Z",
                     "owner": "jeffreytse",
                     "repo": "zsh-vi-mode",
-                    "stars": 4429
+                    "stars": 4432
                   }
                 }
               ]
@@ -1405,7 +1493,7 @@
                 "last_commit": "2026-08-23T08:42:34Z",
                 "owner": "aristocratos",
                 "repo": "btop",
-                "stars": 34163
+                "stars": 34182
               }
             },
             {
@@ -1417,10 +1505,10 @@
                 "archived": false,
                 "id": 344809,
                 "language": "C++",
-                "last_commit": "2026-08-23T11:02:49Z",
+                "last_commit": "2026-08-23T23:51:38Z",
                 "owner": "hluk",
                 "repo": "CopyQ",
-                "stars": 12162
+                "stars": 12161
               }
             }
           ],
@@ -1479,7 +1567,7 @@
                 "last_commit": "2026-08-17T19:36:06Z",
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65472
+                "stars": 65483
               }
             },
             {
@@ -1491,16 +1579,16 @@
                 "archived": false,
                 "id": 36836475,
                 "language": "C",
-                "last_commit": "2026-08-22T20:30:27Z",
+                "last_commit": "2026-08-24T12:36:38Z",
                 "owner": "tmux",
                 "repo": "tmux",
-                "stars": 48775
+                "stars": 48791
               }
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: Termine - See alacritty instead.",
-              "description": null,
+              "title": ":white_check_mark: Termine",
+              "description": "See alacritty instead.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1553,13 +1641,13 @@
                 "last_commit": "2026-08-19T07:32:53Z",
                 "owner": "mawww",
                 "repo": "kakoune",
-                "stars": 11031
+                "stars": 11033
               }
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: oni2 (onivim) - Deprecated",
-              "description": ".",
+              "title": ":white_check_mark: oni2 (onivim)",
+              "description": "Deprecated.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1603,8 +1691,8 @@
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: editra - Developers Text Editor, with a Vi-mode.",
-              "description": null,
+              "title": ":white_check_mark: editra",
+              "description": "Developers Text Editor, with a Vi-mode.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1633,7 +1721,7 @@
                     "last_commit": "2026-08-23T00:11:34Z",
                     "owner": "doomemacs",
                     "repo": "core",
-                    "stars": 22610
+                    "stars": 22607
                   }
                 }
               ]
@@ -1726,7 +1814,7 @@
                     "archived": false,
                     "id": 105430360,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T01:51:18Z",
+                    "last_commit": "2026-08-24T06:34:32Z",
                     "owner": "inkdropapp",
                     "repo": "inkdrop-vim",
                     "stars": 110
@@ -1775,13 +1863,13 @@
                 "last_commit": "2026-02-26T14:36:03Z",
                 "owner": "atlas-engineer",
                 "repo": "nyxt",
-                "stars": 11004
+                "stars": 11005
               }
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: xombrero - A minimalist web browser with vi-like keyboard commands.",
-              "description": null,
+              "title": ":white_check_mark: xombrero",
+              "description": "A minimalist web browser with vi-like keyboard commands.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1825,8 +1913,8 @@
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: dwb - See qutebrowser instead.",
-              "description": null,
+              "title": ":white_check_mark: dwb",
+              "description": "See qutebrowser instead.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1840,8 +1928,8 @@
             },
             {
               "node_type": "item",
-              "title": ":white_check_mark: Cream-Browser - A browser developped in C with GTK+ having the same interface as Vimperator.",
-              "description": null,
+              "title": ":white_check_mark: Cream-Browser",
+              "description": "A browser developped in C with GTK+ having the same interface as Vimperator.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1875,8 +1963,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": ":heavy_plus_sign: wasavi - Transform text areas into a vi editor.",
-                  "description": null,
+                  "title": ":heavy_plus_sign: wasavi",
+                  "description": "Transform text areas into a vi editor.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1927,8 +2015,8 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": ":heavy_plus_sign: wasavi - Transform text areas into a vi editor.",
-                  "description": null,
+                  "title": ":heavy_plus_sign: wasavi",
+                  "description": "Transform text areas into a vi editor.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2040,7 +2128,7 @@
                 "archived": false,
                 "id": 74551919,
                 "language": "C",
-                "last_commit": "2026-03-18T20:31:20Z",
+                "last_commit": "2026-08-23T20:55:53Z",
                 "owner": "0intro",
                 "repo": "wmii",
                 "stars": 137
@@ -2056,7 +2144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:16:37.267Z",
+    "last_updated": "2026-08-24T14:00:49.082Z",
     "original_repository": "erikw/vim-keybindings-everywhere-the-ultimate-list",
     "original_repository_id": 434989085,
     "original_repository_sha": "143e15f4950d98e4068a565c57b78d901f6f8aed",
