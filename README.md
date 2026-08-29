@@ -82,7 +82,7 @@ Terminology:
 * :white\_check\_mark: [k9s](https://k9scli.io/) - Kubernetes CLI tool with full VIM bindings
 
 * [DBeaver](https://dbeaver.io/) - Free Universal Database Tool
-  * :heavy\_plus\_sign: [Vrapper plugin](https://vrapper.sourceforge.net/home/) - Plugin adds vim bindings to SQL editor. Install it using instructions from <https://github.com/dbeaver/dbeaver/issues/8219> ⭐ 51,575 | 🐛 3,364 | 🌐 Java | 📅 2026-08-28
+  * :heavy\_plus\_sign: [Vrapper plugin](https://vrapper.sourceforge.net/home/) - Plugin adds vim bindings to SQL editor. Install it using instructions from <https://github.com/dbeaver/dbeaver/issues/8219> ⭐ 51,577 | 🐛 3,364 | 🌐 Java | 📅 2026-08-28
 
 ## E-Mail
 
@@ -103,7 +103,7 @@ Terminology:
 
 ## File Management
 
-* :white\_check\_mark: [nnn](https://github.com/jarun/nnn) ⭐ 21,841 | 🐛 4 | 🌐 C | 📅 2026-08-28 - TUI file manager.
+* :white\_check\_mark: [nnn](https://github.com/jarun/nnn) ⭐ 21,842 | 🐛 4 | 🌐 C | 📅 2026-08-29 - TUI file manager.
 * :white\_check\_mark: [ranger](https://github.com/ranger/ranger) ⭐ 17,374 | 🐛 898 | 🌐 Python | 📅 2026-08-15 - Another TUI file manager.
 * :white\_check\_mark: [lf](https://github.com/gokcehan/lf) ⭐ 9,481 | 🐛 81 | 🌐 Go | 📅 2026-08-25 - TUI file manager similar to ranger.
 * :white\_check\_mark: [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,813 | 🐛 13 | 🌐 Rust | 📅 2026-08-25 - TUI file manager.
@@ -130,7 +130,7 @@ Terminology:
   * :heavy\_plus\_sign: [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim) - Install it directly from the plugin section in the IDE settings.
 * [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
   * :heavy\_plus\_sign: [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation for Visual Studio Code. [GitHub](https://github.com/VSCodeVim/Vim) ⭐ 15,201 | 🐛 1,906 | 🌐 TypeScript | 📅 2026-08-28
-  * :heavy\_plus\_sign: [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) - Alternative to the VIM plugin, uses a full nvim instance in the background instead of just emulating VIM. [GitHub](https://github.com/vscode-neovim/vscode-neovim) ⭐ 7,729 | 🐛 94 | 🌐 TypeScript | 📅 2026-07-21
+  * :heavy\_plus\_sign: [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) - Alternative to the VIM plugin, uses a full nvim instance in the background instead of just emulating VIM. [GitHub](https://github.com/vscode-neovim/vscode-neovim) ⭐ 7,730 | 🐛 94 | 🌐 TypeScript | 📅 2026-07-21
 * :white\_check\_mark: [XCode](https://developer.apple.com/xcode/) - Apple's IDE. Vim mode can be enabled under the "Editor" menu without the use of plugins.
   * :heavy\_plus\_sign: ~~[XVim](https://github.com/XVimProject/XVim) ⭐ 5,121 | 🐛 305 | 🌐 Objective-C | 📅 2018-01-09~~ plugin. Deprecated, use native keybindings (above) instead.
   * :heavy\_plus\_sign: ~~[XVim2](https://github.com/XVimProject/XVim2) ⭐ 2,286 | 🐛 98 | 🌐 Objective-C | 📅 2023-01-14~~ plugin. Deprecated, use native keybindings (above) instead.
@@ -183,9 +183,9 @@ Terminology:
 
 ## Misc
 
-* :white\_check\_mark: [glow](https://github.com/charmbracelet/glow) ⭐ 27,103 | 🐛 225 | 🌐 Go | 📅 2026-08-16 - Terminal based markdown reader.
-* :white\_check\_mark: [fx](https://github.com/antonmedv/fx) ⭐ 20,602 | 🐛 26 | 🌐 Go | 📅 2026-08-26 - Terminal based JSON viewer.
-* :white\_check\_mark: [gollum](https://github.com/gollum/gollum) ⭐ 14,318 | 🐛 91 | 🌐 Ruby | 📅 2025-11-24 - A Git-powered wiki with built-in Vim editing mode. Start with `--default-keybind vim`.
+* :white\_check\_mark: [glow](https://github.com/charmbracelet/glow) ⭐ 27,104 | 🐛 225 | 🌐 Go | 📅 2026-08-16 - Terminal based markdown reader.
+* :white\_check\_mark: [fx](https://github.com/antonmedv/fx) ⭐ 20,603 | 🐛 26 | 🌐 Go | 📅 2026-08-26 - Terminal based JSON viewer.
+* :white\_check\_mark: [gollum](https://github.com/gollum/gollum) ⭐ 14,319 | 🐛 91 | 🌐 Ruby | 📅 2025-11-24 - A Git-powered wiki with built-in Vim editing mode. Start with `--default-keybind vim`.
 * :white\_check\_mark: [ly](https://github.com/fairyglade/ly) ⭐ 7,549 | 🐛 0 | 🌐 Zig | 📅 2026-08-27 - A TUI display manager. Supports vi-like movement. Edit this in your `/etc/ly/config.ini`
 
   * ```ini
@@ -253,7 +253,7 @@ Terminology:
 * YT Music
   * :white\_check\_mark: [vimyt](https://github.com/Sadoaz/vimyt) ⭐ 41 | 🐛 1 | 🌐 Go | 📅 2026-06-28 – TUI for YouTube Music with Vim-like keybindings.
 * Spotify
-  * :white\_check\_mark: [spotify-tui](https://github.com/Rigellute/spotify-tui) ⭐ 19,330 | 🐛 306 | 🌐 Rust | 📅 2024-04-04 - TUI for Spotify with Vim-like keybindings.
+  * :white\_check\_mark: [spotify-tui](https://github.com/Rigellute/spotify-tui) ⭐ 19,331 | 🐛 306 | 🌐 Rust | 📅 2024-04-04 - TUI for Spotify with Vim-like keybindings.
   * :heavy\_plus\_sign: [spicetify](https://spicetify.app/) - an extension framework for spotify. Includes an extension with [vim-like](https://spicetify.app/docs/advanced-usage/extensions/#keyboard-shortcut) keybindings.
 
 ## Music Production
@@ -269,7 +269,7 @@ Terminology:
 
 ## Office Productivity
 
-* :white\_check\_mark: [sc-im](https://github.com/andmarti1424/sc-im) ⭐ 5,690 | 🐛 117 | 🌐 C | 📅 2026-08-26 - Like sc but improved, a Vim-like spreadsheet calculator.
+* :white\_check\_mark: [sc-im](https://github.com/andmarti1424/sc-im) ⭐ 5,692 | 🐛 117 | 🌐 C | 📅 2026-08-26 - Like sc but improved, a Vim-like spreadsheet calculator.
 * [LibreOffice](https://www.libreoffice.org/)
   * :heavy\_plus\_sign: ~~[vibreoffice](https://github.com/seanyeh/vibreoffice) ⚠️ Archived~~ - Vi Mode for LibreOffice/OpenOffice.
   * :heavy\_plus\_sign: [vibreoffice](https://github.com/Nazo1412/vibreoffice) ⭐ 16 | 🐛 0 | 🌐 VBScript | 📅 2022-11-20 - Vi Mode for LibreOffice/OpenOffice, fork that supports calc.
@@ -282,7 +282,7 @@ Terminology:
 
 ## Pagers
 
-* :white\_check\_mark: [bat](https://github.com/sharkdp/bat) ⭐ 60,288 | 🐛 424 | 🌐 Rust | 📅 2026-08-11
+* :white\_check\_mark: [bat](https://github.com/sharkdp/bat) ⭐ 60,289 | 🐛 424 | 🌐 Rust | 📅 2026-08-11
 * :white\_check\_mark: [less](https://en.wikipedia.org/wiki/Less_\(Unix\))
 
 ## PDF Viewers
@@ -300,7 +300,7 @@ Terminology:
 
 ## Personal Knowledge Management
 
-* :white\_check\_mark: [Trilium](https://github.com/zadam/trilium) ⭐ 37,625 | 🐛 703 | 🌐 TypeScript | 📅 2026-08-28 - 'Enable Vim Keybindings' added to Options in early-2022
+* :white\_check\_mark: [Trilium](https://github.com/zadam/trilium) ⭐ 37,626 | 🐛 709 | 🌐 TypeScript | 📅 2026-08-29 - 'Enable Vim Keybindings' added to Options in early-2022
   * code notes use the [CodeMirror](https://github.com/codemirror/dev/) ⚠️ Archived editor and its [Vim mode](https://codemirror.net/5/demo/vim.html)
 * :white\_check\_mark: [Obsidian](https://obsidian.md/) - under "Editor" options
 * [Logseq](https://logseq.com/)
@@ -322,7 +322,7 @@ Terminology:
 
 ## Source Code Management
 
-* :white\_check\_mark: [Lazygit](https://github.com/jesseduffield/lazygit) ⭐ 81,738 | 🐛 1,024 | 🌐 Go | 📅 2026-08-27 - Simple terminal UI for git commands with Vim-like keybindings.
+* :white\_check\_mark: [Lazygit](https://github.com/jesseduffield/lazygit) ⭐ 81,737 | 🐛 1,024 | 🌐 Go | 📅 2026-08-27 - Simple terminal UI for git commands with Vim-like keybindings.
 
 * :white\_check\_mark: [GitUI](https://github.com/extrawurst/gitui) ⭐ 22,445 | 🐛 343 | 🌐 Rust | 📅 2026-08-04 - GitUI provides you with the comfort of a git GUI but right in your terminal.
   * instruction how to enable vi bindings - <https://github.com/extrawurst/gitui/blob/master/KEY_CONFIG.md> ⭐ 22,445 | 🐛 343 | 🌐 Rust | 📅 2026-08-04
@@ -479,7 +479,7 @@ Terminology:
 ## System-wide
 
 * :white\_check\_mark: [vim-anywhere](https://github.com/cknadler/vim-anywhere) ⭐ 3,767 | 🐛 44 | 🌐 Shell | 📅 2026-05-02 - Spawn a Vim buffer from any text input in the operating system.
-* :white\_check\_mark: [warpd](https://github.com/rvaiya/warpd) ⭐ 3,622 | 🐛 110 | 🌐 C | 📅 2024-07-12 - A modal keyboard-driven interface for mouse manipulation, Linux (X11/Wayland)
+* :white\_check\_mark: [warpd](https://github.com/rvaiya/warpd) ⭐ 3,622 | 🐛 108 | 🌐 C | 📅 2024-07-12 - A modal keyboard-driven interface for mouse manipulation, Linux (X11/Wayland)
 * :white\_check\_mark: [win-vind](https://github.com/pit-ray/win-vind) ⚠️ Archived - Control the Windows GUI in the same way as Vim.
 * :white\_check\_mark: [athame](https://github.com/ardagnir/athame) ⭐ 1,654 | 🐛 23 | 🌐 C | 📅 2023-11-01 - Patches your shell to add full Vim support by routing your keystrokes through an actual Vim process.
 * :white\_check\_mark: [Hints](https://github.com/AlfredoSequeida/hints) ⭐ 1,354 | 🐛 18 | 🌐 Python | 📅 2026-06-28 - Navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements (X11/Wayland)
@@ -499,7 +499,7 @@ Terminology:
     vim_keys = True
     ```
 
-* :white\_check\_mark: [CopyQ](https://github.com/hluk/CopyQ) ⭐ 12,190 | 🐛 405 | 🌐 C++ | 📅 2026-08-23 - A clipboard manager with basic Vim-like navigation.
+* :white\_check\_mark: [CopyQ](https://github.com/hluk/CopyQ) ⭐ 12,191 | 🐛 405 | 🌐 C++ | 📅 2026-08-23 - A clipboard manager with basic Vim-like navigation.
 
 * :white\_check\_mark: [htop-vim](https://aur.archlinux.org/packages/htop-vim/) - A patched version the [htop](https://htop.dev/) interactive process viewer that has vim keybindings for navigation.
 
@@ -519,8 +519,8 @@ Terminology:
 
 ## Terminal Emulators
 
-* :white\_check\_mark: [alacritty](https://github.com/alacritty/alacritty) ⭐ 65,543 | 🐛 338 | 🌐 Rust | 📅 2026-08-26 - A cross-platform, OpenGL terminal emulator with Vim-like keybindings by default.
-* :white\_check\_mark: [tmux](https://github.com/tmux/tmux) ⭐ 48,883 | 🐛 33 | 🌐 C | 📅 2026-08-28 - the terminal multiplexer, superseding GNU Screen.
+* :white\_check\_mark: [alacritty](https://github.com/alacritty/alacritty) ⭐ 65,545 | 🐛 338 | 🌐 Rust | 📅 2026-08-26 - A cross-platform, OpenGL terminal emulator with Vim-like keybindings by default.
+* :white\_check\_mark: [tmux](https://github.com/tmux/tmux) ⭐ 48,889 | 🐛 33 | 🌐 C | 📅 2026-08-28 - the terminal multiplexer, superseding GNU Screen.
   * <details>
       <summary>~/.config/tmux/tmux.conf</summary>
 
@@ -585,7 +585,7 @@ We know that Vi-[clones](http://www.linfo.org/vi/clones.html)/derivatives have V
 * :white\_check\_mark: ~~[editra](https://github.com/cjprecord/editra) ⭐ 6 | 🐛 135 | 🌐 Python | 📅 2019-11-15~~ - Developers Text Editor, with a Vi-mode.
 
 * Emacs
-  * :heavy\_plus\_sign: [doom emacs](https://github.com/doomemacs/doomemacs) ⭐ 22,628 | 🐛 490 | 🌐 Emacs Lisp | 📅 2026-08-28 - Configuration package that provides a similar experience to Spacemacs (including `evil-mode`. Also implements spacebar-as-leader-key.
+  * :heavy\_plus\_sign: [doom emacs](https://github.com/doomemacs/doomemacs) ⭐ 22,629 | 🐛 491 | 🌐 Emacs Lisp | 📅 2026-08-28 - Configuration package that provides a similar experience to Spacemacs (including `evil-mode`. Also implements spacebar-as-leader-key.
   * :white\_check\_mark: [evil-mode](https://www.emacswiki.org/emacs/Evil) - Extensible vi layer for Emacs.
   * :heavy\_plus\_sign: [spacemacs](https://www.spacemacs.org/) - Emacs configuration package that improves the Emacs experience, including vim bindings via `evil-mode`. Features a vim-like leader (space) for common commands.
   * :heavy\_plus\_sign: ~~[Vimpulse](https://www.emacswiki.org/emacs/Vimpulse)~~ Deprecated, check out Evil.
@@ -711,7 +711,7 @@ We know that Vi-[clones](http://www.linfo.org/vi/clones.html)/derivatives have V
 * :white\_check\_mark: ~~[uzbl](https://www.uzbl.org/)~~
 
 * Various
-  * :heavy\_plus\_sign: [firenvim](https://github.com/glacambre/firenvim) ⭐ 6,107 | 🐛 95 | 🌐 TypeScript | 📅 2026-08-04 - Transform text areas into a Neovim instance that inherits your existing config (keymaps, plugins, etc).
+  * :heavy\_plus\_sign: [firenvim](https://github.com/glacambre/firenvim) ⭐ 6,108 | 🐛 95 | 🌐 TypeScript | 📅 2026-08-04 - Transform text areas into a Neovim instance that inherits your existing config (keymaps, plugins, etc).
 
 ## Window Managers
 
@@ -734,7 +734,7 @@ Keyboard remapping tools can improve your efficiency while navigating across the
 They allow you to flexibly remap any key—for example, replacing the arrow keys with `hjkl`, among other useful remappings.\
 Most of these tools are universal enough to work system-wide, even inside a Linux TTY, due to their low-level nature.
 
-* :heavy\_plus\_sign: [keyd](https://github.com/rvaiya/keyd) ⭐ 5,920 | 🐛 318 | 🌐 C | 📅 2026-06-01 - A key remapping daemon for Linux.
+* :heavy\_plus\_sign: [keyd](https://github.com/rvaiya/keyd) ⭐ 5,922 | 🐛 318 | 🌐 C | 📅 2026-06-01 - A key remapping daemon for Linux.
   * <details>
       <summary>Example: Vim-like remaps using <code>keyd</code></summary>
 
@@ -784,4 +784,4 @@ Hats off to the authors of these articles that helped kick-start this list toget
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

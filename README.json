@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pdb and Vim integration",
+                "homepage": null,
                 "id": 527488,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-02-19T09:58:36Z",
+                "open_issues": 7,
                 "owner": "gotcha",
                 "repo": "vimpdb",
-                "stars": 206
+                "stars": 206,
+                "topics": [
+                  "pdb",
+                  "python",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -35,12 +44,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A better Python REPL",
+                "homepage": null,
                 "id": 24589695,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-11-21T10:57:25Z",
+                "open_issues": 265,
                 "owner": "prompt-toolkit",
                 "repo": "ptpython",
-                "stars": 5450
+                "stars": 5450,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -56,12 +70,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":star: Vim for Visual Studio Code",
+                    "homepage": "http://aka.ms/vscodevim",
                     "id": 46041284,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T13:12:48Z",
+                    "open_issues": 1906,
                     "owner": "VSCodeVim",
                     "repo": "Vim",
-                    "stars": 15201
+                    "stars": 15201,
+                    "topics": [
+                      "keybindings",
+                      "typescript",
+                      "vim",
+                      "vscode",
+                      "vscode-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -79,12 +104,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vim emulation in the Julia REPL",
+                    "homepage": "https://caleb-allen.github.io/VimBindings.jl/",
                     "id": 305223185,
                     "language": "Julia",
+                    "license": "MIT",
                     "last_commit": "2026-06-01T14:01:44Z",
+                    "open_issues": 28,
                     "owner": "caleb-allen",
                     "repo": "VimBindings.jl",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": [
+                      "julia",
+                      "julia-repl",
+                      "repl",
+                      "vim"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -102,12 +137,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free universal database tool and SQL client",
+                    "homepage": "https://dbeaver.io",
                     "id": 44662669,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T16:35:23Z",
+                    "open_issues": 3364,
                     "owner": "dbeaver",
                     "repo": "dbeaver",
-                    "stars": 51575
+                    "stars": 51577,
+                    "topics": [
+                      "ai",
+                      "database",
+                      "databricks",
+                      "db2",
+                      "dbeaver",
+                      "erd",
+                      "gui",
+                      "java",
+                      "jdbc",
+                      "mysql",
+                      "nosql",
+                      "oracle",
+                      "postgresql",
+                      "redshift",
+                      "snowflake",
+                      "sql",
+                      "sqlite",
+                      "sqlserver"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -127,12 +186,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curses threads-with-tags style email client (mailing list: supmua@googlegroups.com)",
+                "homepage": "https://supmua.dev",
                 "id": 7672151,
                 "language": "Ruby",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-19T08:11:26Z",
+                "open_issues": 73,
                 "owner": "sup-heliotrope",
                 "repo": "sup",
-                "stars": 970
+                "stars": 970,
+                "topics": [
+                  "email",
+                  "mua",
+                  "ruby",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -148,12 +217,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pentadactyl and other related Gecko extensions",
+                    "homepage": null,
                     "id": 22127089,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2017-06-16T03:57:37Z",
+                    "open_issues": 105,
                     "owner": "5digits",
                     "repo": "dactyl",
-                    "stars": 467
+                    "stars": 467,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -173,12 +247,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota",
+                "homepage": "https://cointop.sh",
                 "id": 127352116,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-07T22:46:01Z",
+                "open_issues": 54,
                 "owner": "cointop-sh",
                 "repo": "cointop",
-                "stars": 4396
+                "stars": 4396,
+                "topics": [
+                  "bitcoin",
+                  "blockchain",
+                  "cli",
+                  "coin",
+                  "coingecko",
+                  "coinmarketcap",
+                  "command-line",
+                  "console",
+                  "cryptocurrency",
+                  "digital-currency",
+                  "ethereum",
+                  "go",
+                  "golang",
+                  "holdings",
+                  "homebrew",
+                  "linux",
+                  "macos",
+                  "monitoring",
+                  "portfolio",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -196,12 +296,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "n³ The unorthodox terminal file manager",
+                "homepage": null,
                 "id": 66150122,
                 "language": "C",
-                "last_commit": "2026-08-28T23:30:03Z",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-29T00:23:16Z",
+                "open_issues": 4,
                 "owner": "jarun",
                 "repo": "nnn",
-                "stars": 21841
+                "stars": 21842,
+                "topics": [
+                  "android",
+                  "batch-rename",
+                  "c",
+                  "cli",
+                  "command-line",
+                  "developer-tools",
+                  "disk-usage",
+                  "file-manager",
+                  "file-preview",
+                  "file-search",
+                  "filesystem",
+                  "launcher",
+                  "multi-platform",
+                  "ncurses",
+                  "productivity",
+                  "raspberry-pi",
+                  "terminal",
+                  "tui",
+                  "vim",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -212,12 +338,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A VIM-inspired filemanager for the console",
+                "homepage": "https://ranger.fm",
                 "id": 218157,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T07:36:52Z",
+                "open_issues": 898,
                 "owner": "ranger",
                 "repo": "ranger",
-                "stars": 17374
+                "stars": 17374,
+                "topics": [
+                  "console",
+                  "file-launcher",
+                  "file-manager",
+                  "file-preview",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -228,12 +365,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal file manager",
+                "homepage": null,
                 "id": 65616765,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-25T00:37:27Z",
+                "open_issues": 81,
                 "owner": "gokcehan",
                 "repo": "lf",
-                "stars": 9481
+                "stars": 9481,
+                "topics": [
+                  "file-manager",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -244,12 +389,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hackable, minimal, fast TUI file explorer",
+                "homepage": "https://xplr.dev",
                 "id": 342030057,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-25T05:41:41Z",
+                "open_issues": 13,
                 "owner": "sayanarijit",
                 "repo": "xplr",
-                "stars": 4813
+                "stars": 4813,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "console",
+                  "developer-tools",
+                  "file-explorer",
+                  "file-launcher",
+                  "file-manager",
+                  "filesystem",
+                  "launcher",
+                  "productivity",
+                  "raspberry-pi",
+                  "rust",
+                  "terminal",
+                  "terminal-based",
+                  "tui",
+                  "vim",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -260,12 +428,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tui file manager with vim-like key mapping",
+                "homepage": "https://kyoheiu.dev/felix/",
                 "id": 405872309,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-04-12T21:38:47Z",
+                "open_issues": 29,
                 "owner": "kyoheiu",
                 "repo": "felix",
-                "stars": 915
+                "stars": 915,
+                "topics": [
+                  "file-manager",
+                  "rust",
+                  "termion",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -276,12 +454,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ncurses file manager written in C with vim like keybindings",
+                "homepage": null,
                 "id": 163684725,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-08-28T14:54:26Z",
+                "open_issues": 22,
                 "owner": "mananapr",
                 "repo": "cfiles",
-                "stars": 508
+                "stars": 508,
+                "topics": [
+                  "c",
+                  "console",
+                  "file-explorer",
+                  "file-launcher",
+                  "file-manager",
+                  "ncurses",
+                  "terminal",
+                  "w3mimgdisplay"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -292,12 +484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graphical predecessor of vifm that uses GTK+",
+                "homepage": null,
                 "id": 19915682,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2014-05-18T16:56:09Z",
+                "open_issues": 0,
                 "owner": "xaizek",
                 "repo": "vide",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -313,12 +510,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vim mode at Total Commander. More keyboard shortcuts for the file manager.",
+                    "homepage": null,
                     "id": 95103541,
                     "language": "AutoHotkey",
+                    "license": null,
                     "last_commit": "2021-12-25T15:17:18Z",
+                    "open_issues": 2,
                     "owner": "magicstep",
                     "repo": "ViATc-English",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -336,12 +538,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Feature-rich control of macOS Finder without the mouse, inspired by vim and ranger.",
+                    "homepage": null,
                     "id": 576342717,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T07:54:37Z",
+                    "open_issues": 0,
                     "owner": "chrisgrieser",
                     "repo": "finder-vim-mode",
-                    "stars": 128
+                    "stars": 128,
+                    "topics": [
+                      "complex-modification",
+                      "finder-extension",
+                      "karabiner-elements",
+                      "macos-finder",
+                      "macos-finder-extension",
+                      "vim-emulation",
+                      "vim-emulator",
+                      "vim-mode"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -366,12 +582,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":star: Vim for Visual Studio Code",
+                    "homepage": "http://aka.ms/vscodevim",
                     "id": 46041284,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T13:12:48Z",
+                    "open_issues": 1906,
                     "owner": "VSCodeVim",
                     "repo": "Vim",
-                    "stars": 15201
+                    "stars": 15201,
+                    "topics": [
+                      "keybindings",
+                      "typescript",
+                      "vim",
+                      "vscode",
+                      "vscode-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 },
@@ -382,12 +609,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vim mode for VSCode, powered by Neovim",
+                    "homepage": "https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim",
                     "id": 218653810,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-21T21:08:32Z",
+                    "open_issues": 94,
                     "owner": "vscode-neovim",
                     "repo": "vscode-neovim",
-                    "stars": 7729
+                    "stars": 7730,
+                    "topics": [
+                      "hacktoberfest",
+                      "neovim",
+                      "neovim-backend",
+                      "neovim-clients",
+                      "neovim-guis",
+                      "nvim",
+                      "vim",
+                      "vscode",
+                      "vscode-extension",
+                      "vscode-neovim"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -405,12 +648,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Xcode plugin for Vim keybindings",
+                    "homepage": null,
                     "id": 3430409,
                     "language": "Objective-C",
+                    "license": "MIT",
                     "last_commit": "2018-01-09T21:10:10Z",
+                    "open_issues": 305,
                     "owner": "XVimProject",
                     "repo": "XVim",
-                    "stars": 5121
+                    "stars": 5121,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 },
@@ -421,12 +669,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vim key-bindings for Xcode 9",
+                    "homepage": null,
                     "id": 102631012,
                     "language": "Objective-C",
+                    "license": "MIT",
                     "last_commit": "2023-01-14T04:38:39Z",
+                    "open_issues": 98,
                     "owner": "XVimProject",
                     "repo": "XVim2",
-                    "stars": 2286
+                    "stars": 2286,
+                    "topics": [
+                      "macos",
+                      "vim",
+                      "xcode",
+                      "xvim"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -444,12 +702,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The combined Geany Plugins collection",
+                    "homepage": "http://plugins.geany.org/",
                     "id": 2597648,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-11T13:40:56Z",
+                    "open_issues": 337,
                     "owner": "geany",
                     "repo": "geany-plugins",
-                    "stars": 644
+                    "stars": 644,
+                    "topics": [
+                      "geany",
+                      "geany-plugins"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -467,12 +733,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vim-like editing for DrRacket",
+                    "homepage": null,
                     "id": 1925438,
                     "language": "Racket",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-09-20T23:21:20Z",
+                    "open_issues": 40,
                     "owner": "takikawa",
                     "repo": "drracket-vim-tool",
-                    "stars": 216
+                    "stars": 216,
+                    "topics": [
+                      "drracket",
+                      "racket",
+                      "vim"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -492,12 +767,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple X Image Viewer",
+                "homepage": null,
                 "id": 1263522,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2023-01-16T13:53:03Z",
+                "open_issues": 63,
                 "owner": "xyb3rt",
                 "repo": "sxiv",
-                "stars": 1860
+                "stars": 1860,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -508,12 +788,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An image viewer with vim-like keybindings.",
+                "homepage": "http://karlch.github.io/vimiv/",
                 "id": 46191302,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-06-16T14:09:02Z",
+                "open_issues": 13,
                 "owner": "karlch",
                 "repo": "vimiv",
-                "stars": 299
+                "stars": 299,
+                "topics": [
+                  "gtk",
+                  "image-viewer",
+                  "python",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -524,12 +814,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An image viewer with vim-like keybindings",
+                "homepage": "https://karlch.github.io/vimiv-qt/",
                 "id": 117301655,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-10T04:59:49Z",
+                "open_issues": 61,
                 "owner": "karlch",
                 "repo": "vimiv-qt",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "image-viewer",
+                  "python",
+                  "qt5",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -540,12 +840,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyGObject based image viewer with vim-like keybindings",
+                "homepage": null,
                 "id": 758925,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-31T18:19:53Z",
+                "open_issues": 7,
                 "owner": "Narrat",
                 "repo": "Pim",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -563,12 +868,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hex editor for the terminal using plain C99 + POSIX libs.",
+                "homepage": null,
                 "id": 69471028,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-08-03T08:52:52Z",
+                "open_issues": 1,
                 "owner": "krpors",
                 "repo": "hx",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "c",
+                  "cli",
+                  "hex-editor",
+                  "no-dependencies"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -579,12 +894,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A VIM-like terminal-based hex editor scriptable with JS.",
+                "homepage": null,
                 "id": 115130411,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2018-05-10T10:48:53Z",
+                "open_issues": 0,
                 "owner": "95ulisse",
                 "repo": "hedit",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "c",
+                  "hex-editor",
+                  "js",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -602,12 +927,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+                "homepage": null,
                 "id": 219616873,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-16T00:02:03Z",
+                "open_issues": 225,
                 "owner": "charmbracelet",
                 "repo": "glow",
-                "stars": 27103
+                "stars": 27104,
+                "topics": [
+                  "cli",
+                  "excitement",
+                  "hacktoberfest",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -618,12 +953,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal JSON viewer & processor",
+                "homepage": "https://fx.wtf",
                 "id": 118945118,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:49:32Z",
+                "open_issues": 26,
                 "owner": "antonmedv",
                 "repo": "fx",
-                "stars": 20602
+                "stars": 20603,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "json",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -634,12 +979,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.",
+                "homepage": null,
                 "id": 585285,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-11-24T22:15:31Z",
+                "open_issues": 91,
                 "owner": "gollum",
                 "repo": "gollum",
-                "stars": 14318
+                "stars": 14319,
+                "topics": [
+                  "documentation",
+                  "documentation-tool",
+                  "gollum",
+                  "jruby-support",
+                  "markdown",
+                  "ruby",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -650,12 +1008,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).",
+                "homepage": null,
                 "id": 92203868,
                 "language": "Zig",
+                "license": "WTFPL",
                 "last_commit": "2026-08-27T08:54:26Z",
+                "open_issues": 0,
                 "owner": "fairyglade",
                 "repo": "ly",
-                "stars": 7549
+                "stars": 7549,
+                "topics": [
+                  "linux",
+                  "login",
+                  "pam",
+                  "tui",
+                  "zig"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -666,12 +1035,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line based markdown presentation tool.",
+                "homepage": null,
                 "id": 24022333,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-09T16:43:24Z",
+                "open_issues": 12,
                 "owner": "visit1985",
                 "repo": "mdp",
-                "stars": 5276
+                "stars": 5276,
+                "topics": [
+                  "command-line",
+                  "markdown",
+                  "presentation"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -682,12 +1060,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI and curses mixer for PulseAudio",
+                "homepage": null,
                 "id": 38160403,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-14T13:51:20Z",
+                "open_issues": 36,
                 "owner": "GeorgeFilipkin",
                 "repo": "pulsemixer",
-                "stars": 808
+                "stars": 808,
+                "topics": [
+                  "audio",
+                  "cli",
+                  "console",
+                  "curses",
+                  "linux",
+                  "mixer",
+                  "pulseaudio",
+                  "sound",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -698,12 +1092,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI and CLI for the BitTorrent client Transmission",
+                "homepage": null,
                 "id": 71486542,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-24T10:34:49Z",
+                "open_issues": 53,
                 "owner": "rndusr",
                 "repo": "stig",
-                "stars": 629
+                "stars": 629,
+                "topics": [
+                  "asyncio",
+                  "bittorrent",
+                  "cli",
+                  "console",
+                  "python3",
+                  "terminal",
+                  "transmission",
+                  "transmission-daemon",
+                  "tui",
+                  "urwid"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -714,12 +1124,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility to make sentaku (selection, 選択(sentaku)) window with shell command.",
+                "homepage": "http://rcmdnk.github.io/blog/2014/01/24/computer-bash-zsh/",
                 "id": 15854863,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-20T20:35:31Z",
+                "open_issues": 3,
                 "owner": "rcmdnk",
                 "repo": "sentaku",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "bash",
+                  "interactive",
+                  "selection",
+                  "shell",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -730,12 +1151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yzis is a vi/vim engine that is easy to integrate in any graphical application.",
+                "homepage": null,
                 "id": 3071021,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2017-11-16T20:24:37Z",
+                "open_issues": 3,
                 "owner": "chrizel",
                 "repo": "Yzis",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -753,12 +1179,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small, fast and powerful console music player for Unix-like operating systems.",
+                "homepage": "https://cmus.github.io/",
                 "id": 7365136,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-12T19:05:38Z",
+                "open_issues": 219,
                 "owner": "cmus",
                 "repo": "cmus",
-                "stars": 6227
+                "stars": 6227,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -769,12 +1200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Featureful ncurses based MPD client inspired by ncmpc",
+                "homepage": null,
                 "id": 5431757,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-06-25T22:43:48Z",
+                "open_issues": 226,
                 "owner": "ncmpcpp",
                 "repo": "ncmpcpp",
-                "stars": 2476
+                "stars": 2476,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -785,12 +1221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for vimpc a vi/vim inspired client for the Music Player Daemon (mpd). Pull requests are welcome.",
+                "homepage": null,
                 "id": 2368685,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-14T11:01:36Z",
+                "open_issues": 21,
                 "owner": "boysetsfrog",
                 "repo": "vimpc",
-                "stars": 281
+                "stars": 281,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -801,12 +1242,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MPD client with vim-like key bindings, written in Haskell ",
+                "homepage": null,
                 "id": 1051930,
                 "language": "Haskell",
+                "license": "MIT",
                 "last_commit": "2022-07-13T12:28:24Z",
+                "open_issues": 20,
                 "owner": "vimus",
                 "repo": "vimus",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "haskell",
+                  "mpd"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -817,12 +1266,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Herrie: a minimalistic music player",
+                "homepage": null,
                 "id": 4165674,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-04-17T17:03:14Z",
+                "open_issues": 3,
                 "owner": "EdSchouten",
                 "repo": "herrie",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -838,12 +1292,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TUI for YT Music with vim keybindings",
+                    "homepage": null,
                     "id": 1185746333,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-06-28T12:54:14Z",
+                    "open_issues": 1,
                     "owner": "Sadoaz",
                     "repo": "vimyt",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -861,12 +1320,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Spotify for the terminal written in Rust 🚀",
+                    "homepage": null,
                     "id": 202787876,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2024-04-04T15:03:12Z",
+                    "open_issues": 306,
                     "owner": "Rigellute",
                     "repo": "spotify-tui",
-                    "stars": 19330
+                    "stars": 19331,
+                    "topics": [
+                      "cli",
+                      "rust",
+                      "spotify",
+                      "spotify-api",
+                      "spotify-tui",
+                      "terminal",
+                      "terminal-based"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -886,12 +1358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " vim-bindings for Reaper",
+                "homepage": "https://gwatcha.github.io/reaper-keys/",
                 "id": 256890169,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2026-07-05T20:52:06Z",
+                "open_issues": 1,
                 "owner": "gwatcha",
                 "repo": "reaper-keys",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -902,12 +1379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A console-based sequencer with a vi-style UI",
+                "homepage": "https://pineapple-tracker.github.io/",
                 "id": 157517,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-10T01:58:00Z",
+                "open_issues": 2,
                 "owner": "pineapple-tracker",
                 "repo": "pineapple-tracker",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -925,12 +1407,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Newsbeuter is an open-source RSS/Atom feed reader for text terminals.",
+                "homepage": "http://www.newsbeuter.org/",
                 "id": 94329,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-06-05T13:44:03Z",
+                "open_issues": 199,
                 "owner": "akrennmair",
                 "repo": "newsbeuter",
-                "stars": 774
+                "stars": 774,
+                "topics": [
+                  "c-plus-plus",
+                  "feed-reader",
+                  "rss",
+                  "rss-reader"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -948,12 +1440,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal",
+                "homepage": null,
                 "id": 25980738,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T15:17:34Z",
+                "open_issues": 117,
                 "owner": "andmarti1424",
                 "repo": "sc-im",
-                "stars": 5690
+                "stars": 5692,
+                "topics": [
+                  "console",
+                  "console-application",
+                  "ncurses",
+                  "spreadsheet",
+                  "terminal",
+                  "terminal-app",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -969,12 +1474,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Vi Mode for LibreOffice/OpenOffice",
+                    "homepage": null,
                     "id": 28065649,
                     "language": "Visual Basic",
+                    "license": null,
                     "last_commit": "2016-06-09T23:23:19Z",
+                    "open_issues": 26,
                     "owner": "seanyeh",
                     "repo": "vibreoffice",
-                    "stars": 413
+                    "stars": 413,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 },
@@ -985,12 +1495,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vim Mode for LibreOffice/OpenOffice With Calc and Writer Support",
+                    "homepage": null,
                     "id": 567323551,
                     "language": "VBScript",
+                    "license": null,
                     "last_commit": "2022-11-20T14:33:53Z",
+                    "open_issues": 0,
                     "owner": "Nazo1412",
                     "repo": "vibreoffice",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1008,12 +1523,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A browser extension which adds Vim-style shortcuts to Google Sheets",
+                    "homepage": null,
                     "id": 43186897,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-26T06:02:54Z",
+                    "open_issues": 30,
                     "owner": "philc",
                     "repo": "sheetkeys",
-                    "stars": 333
+                    "stars": 333,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1033,12 +1553,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cat(1) clone with wings.",
+                "homepage": null,
                 "id": 130464961,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T14:39:20Z",
+                "open_issues": 424,
                 "owner": "sharkdp",
                 "repo": "bat",
-                "stars": 60288
+                "stars": 60289,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "git",
+                  "hacktoberfest",
+                  "rust",
+                  "syntax-highlighting",
+                  "terminal",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -1056,12 +1590,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sioyek is a PDF viewer with a focus on textbooks and research papers",
+                "homepage": "https://sioyek.info/",
                 "id": 385037052,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-18T18:16:43Z",
+                "open_issues": 324,
                 "owner": "ahrm",
                 "repo": "sioyek",
-                "stars": 9809
+                "stars": 9809,
+                "topics": [
+                  "pdf",
+                  "pdf-viewer",
+                  "research-paper"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1072,12 +1615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1858985,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-31T01:21:55Z",
+                "open_issues": 16,
                 "owner": "naihe2010",
                 "repo": "apvlv",
-                "stars": 259
+                "stars": 259,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1093,12 +1641,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "vim bindings for macOS Preview.app via Karabiner",
+                    "homepage": null,
                     "id": 274571961,
                     "language": null,
+                    "license": "WTFPL",
                     "last_commit": "2021-01-24T06:27:05Z",
+                    "open_issues": 1,
                     "owner": "xrisk",
                     "repo": "preview-vim",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": [
+                      "karabiner-elements",
+                      "pdf-viewer",
+                      "vim",
+                      "vim-bindings"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1123,24 +1681,54 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Development repository for the CodeMirror editor project",
+                    "homepage": "https://codemirror.net/",
                     "id": 146442061,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-15T10:24:43Z",
+                    "open_issues": 12,
                     "owner": "codemirror",
                     "repo": "dev",
-                    "stars": 7820
+                    "stars": 7820,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Build your personal knowledge base with Trilium Notes",
+                "homepage": "https://triliumnotes.org",
                 "id": 92111509,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T20:40:29Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T00:36:17Z",
+                "open_issues": 709,
                 "owner": "TriliumNext",
                 "repo": "Trilium",
-                "stars": 37625
+                "stars": 37626,
+                "topics": [
+                  "electron",
+                  "electron-app",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "knowledge-management",
+                  "knowledge-management-graph",
+                  "local-first",
+                  "note-managment",
+                  "note-taker",
+                  "note-taking",
+                  "notebook",
+                  "notes",
+                  "notes-app",
+                  "personal-knowledge-base",
+                  "personal-wiki",
+                  "scriptable",
+                  "self-hosted",
+                  "self-hosting",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1156,12 +1744,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Add part of VIM key bindings experience to Logseq",
+                    "homepage": null,
                     "id": 432161200,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-12-27T03:49:39Z",
+                    "open_issues": 22,
                     "owner": "vipzhicheng",
                     "repo": "logseq-plugin-vim-shortcuts",
-                    "stars": 407
+                    "stars": 407,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1181,12 +1774,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Browse Reddit from your terminal",
+                "homepage": null,
                 "id": 30484966,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-20T15:57:19Z",
+                "open_issues": 103,
                 "owner": "michael-lazar",
                 "repo": "rtv",
-                "stars": 4645
+                "stars": 4645,
+                "topics": [
+                  "command-line",
+                  "curses",
+                  "python",
+                  "reddit",
+                  "reddit-client",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1197,12 +1803,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Matrix client for Vim addicts",
+                "homepage": "https://iamb.chat",
                 "id": 399964839,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T02:57:00Z",
+                "open_issues": 169,
                 "owner": "ulyssa",
                 "repo": "iamb",
-                "stars": 1269
+                "stars": 1269,
+                "topics": [
+                  "matrix",
+                  "matrix-client",
+                  "matrix-org",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1213,12 +1829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a simple terminal user interface for signal messenger (using signal-cli)",
+                "homepage": null,
                 "id": 166571011,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-30T10:40:00Z",
+                "open_issues": 26,
                 "owner": "isamert",
                 "repo": "scli",
-                "stars": 538
+                "stars": 538,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1229,12 +1850,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI for Mastodon with vim inspired keys",
+                "homepage": "https://tut.anv.nu",
                 "id": 248043596,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-12-18T22:52:28Z",
+                "open_issues": 56,
                 "owner": "RasmusLindroth",
                 "repo": "tut",
-                "stars": 500
+                "stars": 500,
+                "topics": [
+                  "mastodon",
+                  "mastodon-app",
+                  "mastodon-client",
+                  "terminal-based",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1250,24 +1882,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repo to store some personal irssi scripts",
+                    "homepage": null,
                     "id": 462657,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2021-07-17T17:20:37Z",
+                    "open_issues": 19,
                     "owner": "shabble",
                     "repo": "irssi-scripts",
-                    "stars": 151
+                    "stars": 151,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Repo to store some personal irssi scripts",
+                "homepage": null,
                 "id": 462657,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2021-07-17T17:20:37Z",
+                "open_issues": 19,
                 "owner": "shabble",
                 "repo": "irssi-scripts",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1278,12 +1920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very opinionated Matrix TUI.",
+                "homepage": null,
                 "id": 616789011,
                 "language": "Rust",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-29T05:00:42Z",
+                "open_issues": 0,
                 "owner": "pkulak",
                 "repo": "matui",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1299,12 +1946,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A WeeChat script that adds vi-like modes, commands and keybindings.",
+                    "homepage": null,
                     "id": 16751045,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-27T18:22:35Z",
+                    "open_issues": 14,
                     "owner": "GermainZ",
                     "repo": "weechat-vimode",
-                    "stars": 276
+                    "stars": 276,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1324,12 +1976,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple terminal UI for git commands",
+                "homepage": null,
                 "id": 134017286,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T17:38:28Z",
+                "open_issues": 1024,
                 "owner": "jesseduffield",
                 "repo": "lazygit",
-                "stars": 81738
+                "stars": 81737,
+                "topics": [
+                  "cli",
+                  "git",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1345,24 +2006,54 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+                    "homepage": null,
                     "id": 247725846,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-08-04T08:27:21Z",
+                    "open_issues": 343,
                     "owner": "gitui-org",
                     "repo": "gitui",
-                    "stars": 22445
+                    "stars": 22445,
+                    "topics": [
+                      "async",
+                      "bash",
+                      "command-line-interface",
+                      "command-line-tool",
+                      "git",
+                      "hacktoberfest",
+                      "rust",
+                      "terminal",
+                      "tui"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+                "homepage": null,
                 "id": 247725846,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-04T08:27:21Z",
+                "open_issues": 343,
                 "owner": "gitui-org",
                 "repo": "gitui",
-                "stars": 22445
+                "stars": 22445,
+                "topics": [
+                  "async",
+                  "bash",
+                  "command-line-interface",
+                  "command-line-tool",
+                  "git",
+                  "hacktoberfest",
+                  "rust",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1373,12 +2064,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text-mode interface for git",
+                "homepage": "https://jonas.github.io/tig/",
                 "id": 140656,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-27T23:00:48Z",
+                "open_issues": 232,
                 "owner": "jonas",
                 "repo": "tig",
-                "stars": 13318
+                "stars": 13318,
+                "topics": [
+                  "c",
+                  "git",
+                  "ncurses",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -1401,12 +2102,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.",
+                    "homepage": null,
                     "id": 40722355,
                     "language": "Shell",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-18T20:15:30Z",
+                    "open_issues": 84,
                     "owner": "akinomyoga",
                     "repo": "ble.sh",
-                    "stars": 4653
+                    "stars": 4653,
+                    "topics": [
+                      "auto-complete",
+                      "bash",
+                      "bash-configuration",
+                      "blesh",
+                      "line-editor",
+                      "syntax-highlighting",
+                      "vim-mode"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1424,12 +2138,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "💻 A better and friendly vi(vim) mode plugin for ZSH.",
+                    "homepage": null,
                     "id": 320469278,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-07-19T15:19:45Z",
+                    "open_issues": 130,
                     "owner": "jeffreytse",
                     "repo": "zsh-vi-mode",
-                    "stars": 4435
+                    "stars": 4435,
+                    "topics": [
+                      "antigen",
+                      "awesome",
+                      "clipboard",
+                      "command-line-tool",
+                      "keybinding",
+                      "like",
+                      "oh-my-zsh",
+                      "productivity",
+                      "shell",
+                      "shell-scripts",
+                      "surround",
+                      "terminal",
+                      "vi-keybinds",
+                      "vim",
+                      "zgen",
+                      "zinit",
+                      "zplug",
+                      "zsh",
+                      "zsh-plugin",
+                      "zsh-plugins"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1449,12 +2189,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Vim everywhere you've always wanted to",
+                "homepage": null,
                 "id": 15505662,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-05-02T01:07:29Z",
+                "open_issues": 44,
                 "owner": "cknadler",
                 "repo": "vim-anywhere",
-                "stars": 3767
+                "stars": 3767,
+                "topics": [
+                  "keyboard-shortcuts",
+                  "osx",
+                  "shell",
+                  "text-editor",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1465,12 +2216,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modal keyboard-driven virtual pointer",
+                "homepage": null,
                 "id": 210099248,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-07-12T05:06:33Z",
+                "open_issues": 108,
                 "owner": "rvaiya",
                 "repo": "warpd",
-                "stars": 3622
+                "stars": 3622,
+                "topics": [
+                  "c",
+                  "keyboard",
+                  "macos",
+                  "mouse",
+                  "pointer",
+                  "vi",
+                  "vim",
+                  "x",
+                  "x11",
+                  "x11-cursor",
+                  "xorg"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1481,12 +2249,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "You can operate Windows with key bindings like Vim.",
+                "homepage": "https://pit-ray.github.io/win-vind/",
                 "id": 259406841,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-04-17T11:43:54Z",
+                "open_issues": 90,
                 "owner": "pit-ray",
                 "repo": "win-vind",
-                "stars": 2260
+                "stars": 2260,
+                "topics": [
+                  "emulation",
+                  "hotkey",
+                  "keybinding",
+                  "keyboard",
+                  "mouse",
+                  "vim",
+                  "window-manager",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1497,12 +2279,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full vim for your shell (bash, zsh, gdb, python, etc)",
+                "homepage": null,
                 "id": 26725442,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-01T19:01:17Z",
+                "open_issues": 23,
                 "owner": "ardagnir",
                 "repo": "athame",
-                "stars": 1654
+                "stars": 1654,
+                "topics": [
+                  "readline",
+                  "vim-mode",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1513,12 +2304,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hints lets you navigate GUI applications in Linux without your mouse by displaying \"hints\" you can type on your keyboard to interact with GUI elements.",
+                "homepage": null,
                 "id": 880618357,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-28T04:02:48Z",
+                "open_issues": 18,
                 "owner": "AlfredoSequeida",
                 "repo": "hints",
-                "stars": 1354
+                "stars": 1354,
+                "topics": [
+                  "linux",
+                  "vim",
+                  "vimium",
+                  "wayland",
+                  "x11"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1529,12 +2331,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds all vim moves and modes to macOS text fields",
+                "homepage": null,
                 "id": 458331451,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-16T07:27:24Z",
+                "open_issues": 26,
                 "owner": "FelixKratz",
                 "repo": "SketchyVim",
-                "stars": 1021
+                "stars": 1021,
+                "topics": [
+                  "accessibility",
+                  "input",
+                  "keyboard-shortcuts",
+                  "macos",
+                  "text",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1545,12 +2359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Record your keystrokes and replay them just like in vim macro!",
+                "homepage": null,
                 "id": 891547116,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-30T15:54:13Z",
+                "open_issues": 2,
                 "owner": "darukutsu",
                 "repo": "keystrokes",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -1568,12 +2387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A monitor of resources",
+                "homepage": null,
                 "id": 365005377,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:36:59Z",
+                "open_issues": 534,
                 "owner": "aristocratos",
                 "repo": "btop",
-                "stars": 34284
+                "stars": 34284,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1584,12 +2408,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clipboard manager with advanced features",
+                "homepage": null,
                 "id": 344809,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T23:51:38Z",
+                "open_issues": 405,
                 "owner": "hluk",
                 "repo": "CopyQ",
-                "stars": 12190
+                "stars": 12191,
+                "topics": [
+                  "clipboard",
+                  "clipboard-manager",
+                  "copyq",
+                  "cross-platform",
+                  "scripting",
+                  "tray"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -1607,12 +2443,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VIT is a lightweight, fast, curses-based front end to Taskwarrior",
+                "homepage": null,
                 "id": 67251054,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-17T22:42:29Z",
+                "open_issues": 76,
                 "owner": "vit-project",
                 "repo": "vit",
-                "stars": 581
+                "stars": 581,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1623,12 +2466,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI program for managing kanban boards with vim-like keybindings",
+                "homepage": null,
                 "id": 452383633,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-26T11:05:14Z",
+                "open_issues": 13,
                 "owner": "PlankCipher",
                 "repo": "kabmat",
-                "stars": 425
+                "stars": 425,
+                "topics": [
+                  "kanban",
+                  "kanban-board",
+                  "linux",
+                  "ncurses",
+                  "terminal",
+                  "tui",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -1646,12 +2502,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform, OpenGL terminal emulator.",
+                "homepage": "https://alacritty.org",
                 "id": 51980455,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T04:17:18Z",
+                "open_issues": 338,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65543
+                "stars": 65545,
+                "topics": [
+                  "bsd",
+                  "gpu",
+                  "linux",
+                  "macos",
+                  "opengl",
+                  "rust",
+                  "terminal",
+                  "terminal-emulators",
+                  "vte",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1662,12 +2534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tmux source code",
+                "homepage": null,
                 "id": 36836475,
                 "language": "C",
+                "license": "ISC",
                 "last_commit": "2026-08-28T10:46:45Z",
+                "open_issues": 33,
                 "owner": "tmux",
                 "repo": "tmux",
-                "stars": 48883
+                "stars": 48889,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1678,12 +2555,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.",
+                "homepage": "https://github.com/alacritty/alacritty",
                 "id": 4402279,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-05-07T11:46:48Z",
+                "open_issues": 1,
                 "owner": "thestinger",
                 "repo": "termite",
-                "stars": 2707
+                "stars": 2707,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1699,12 +2581,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "urxvt extension provide vim like scrollback and pasting functionality",
+                    "homepage": null,
                     "id": 6326501,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2018-07-18T11:47:52Z",
+                    "open_issues": 1,
                     "owner": "ervandew",
                     "repo": "urxvt-vim-scrollback",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1724,12 +2611,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mawww's experiment for a better code editor",
+                "homepage": "http://kakoune.org",
                 "id": 2701888,
                 "language": "C++",
+                "license": "Unlicense",
                 "last_commit": "2026-08-19T07:32:53Z",
+                "open_issues": 920,
                 "owner": "mawww",
                 "repo": "kakoune",
-                "stars": 11036
+                "stars": 11036,
+                "topics": [
+                  "c-plus-plus",
+                  "console-application",
+                  "kakoune",
+                  "modal-editing",
+                  "text-editor",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1740,12 +2639,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native, lightweight modal code editor",
+                "homepage": "https://v2.onivim.io",
                 "id": 163862700,
                 "language": "Reason",
+                "license": "MIT",
                 "last_commit": "2022-08-17T20:11:55Z",
+                "open_issues": 547,
                 "owner": "onivim",
                 "repo": "oni2",
-                "stars": 7843
+                "stars": 7843,
+                "topics": [
+                  "editor",
+                  "linux",
+                  "macos",
+                  "ocaml",
+                  "oni",
+                  "reasonml",
+                  "revery",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1756,12 +2669,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A vim-like in Python.",
+                "homepage": null,
                 "id": 26300986,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-15T03:12:07Z",
+                "open_issues": 8,
                 "owner": "vyapp",
                 "repo": "vy",
-                "stars": 1151
+                "stars": 1151,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1772,12 +2690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aspiring vim-like text editor",
+                "homepage": null,
                 "id": 30017427,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2021-01-16T07:50:16Z",
+                "open_issues": 8,
                 "owner": "mathall",
                 "repo": "rim",
-                "stars": 632
+                "stars": 632,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1788,12 +2711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Editra - Developers Text Editor",
+                "homepage": null,
                 "id": 32902530,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-11-15T15:45:29Z",
+                "open_issues": 135,
                 "owner": "cjprecord",
                 "repo": "editra",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1809,12 +2737,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Emacs framework for the stubborn martian hacker",
+                    "homepage": null,
                     "id": 21763822,
                     "language": "Emacs Lisp",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T19:05:38Z",
+                    "open_issues": 491,
                     "owner": "doomemacs",
                     "repo": "core",
-                    "stars": 22628
+                    "stars": 22629,
+                    "topics": [
+                      "doomemacs",
+                      "emacs",
+                      "emacs-configuration",
+                      "emacs-lisp",
+                      "evil",
+                      "vim"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1832,12 +2772,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vi/Vim emulation for Sublime Text 3",
+                    "homepage": "http://guillermooo.bitbucket.org/Vintageous/",
                     "id": 7899791,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-07-29T20:06:54Z",
+                    "open_issues": 227,
                     "owner": "guillermooo",
                     "repo": "Vintageous",
-                    "stars": 1629
+                    "stars": 1629,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 },
@@ -1848,12 +2793,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vim for Sublime Text.",
+                    "homepage": "https://neovintageous.github.io",
                     "id": 87298228,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-21T12:14:04Z",
+                    "open_issues": 51,
                     "owner": "NeoVintageous",
                     "repo": "NeoVintageous",
-                    "stars": 728
+                    "stars": 728,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 },
@@ -1864,12 +2814,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "An implementation of Vim's command-line mode for Sublime Text 2",
+                    "homepage": null,
                     "id": 2686202,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2015-03-26T19:45:21Z",
+                    "open_issues": 23,
                     "owner": "SublimeText",
                     "repo": "VintageEx",
-                    "stars": 381
+                    "stars": 381,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1887,12 +2842,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vim emulation in QTextEdit, QPlainTextEdit and similar Qt widgets",
+                    "homepage": null,
                     "id": 8974696,
                     "language": "C++",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-08-22T06:48:15Z",
+                    "open_issues": 21,
                     "owner": "hluk",
                     "repo": "FakeVim",
-                    "stars": 183
+                    "stars": 183,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1910,12 +2870,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Provides Vim modal control for Inkdrop, blending the best of Vim and Inkdrop",
+                    "homepage": "https://www.inkdrop.app/",
                     "id": 105430360,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T03:44:59Z",
+                    "open_issues": 4,
                     "owner": "inkdropapp",
                     "repo": "inkdrop-vim",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1933,12 +2898,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "vim-mode improved",
+                    "homepage": "https://atom.io/packages/vim-mode-plus",
                     "id": 42821704,
                     "language": "CoffeeScript",
+                    "license": "MIT",
                     "last_commit": "2021-10-07T00:57:54Z",
+                    "open_issues": 127,
                     "owner": "t9md",
                     "repo": "atom-vim-mode-plus",
-                    "stars": 1388
+                    "stars": 1388,
+                    "topics": [
+                      "atom",
+                      "vim-mode",
+                      "vim-mode-plus"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -1958,12 +2932,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nyxt - the hacker's browser.",
+                "homepage": "https://nyxt-browser.com",
                 "id": 87668160,
                 "language": "Common Lisp",
+                "license": null,
                 "last_commit": "2026-02-26T14:36:03Z",
+                "open_issues": 145,
                 "owner": "atlas-engineer",
                 "repo": "nyxt",
-                "stars": 11009
+                "stars": 11009,
+                "topics": [
+                  "browser",
+                  "common-lisp",
+                  "emacs",
+                  "extensible",
+                  "hacker",
+                  "keyboard-driven",
+                  "lisp",
+                  "power-user",
+                  "productivity",
+                  "vim",
+                  "web-browser"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1974,12 +2965,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "xombrero has been retired and is no longer under development and supported.",
+                "homepage": null,
                 "id": 10093465,
                 "language": "C",
+                "license": null,
                 "last_commit": "2016-11-26T18:55:00Z",
+                "open_issues": 44,
                 "owner": "conformal",
                 "repo": "xombrero",
-                "stars": 162
+                "stars": 162,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -1990,12 +2986,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a vim-like webkit2gtk web browser",
+                "homepage": null,
                 "id": 96137395,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-23T10:14:21Z",
+                "open_issues": 11,
                 "owner": "jun7",
                 "repo": "wyeb",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -2006,12 +3007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vimprobable -- a web browser written against webkit with vim-like behaviour.  Whilst I'll continue to automatically keep this in sync, please note that I do not do any development on this project anymore whatsoever.  This means DO NOT BOTHER ME WITH ISSUES, PULL-REQUESTS or general programming advice for Vimprobable.  I simply am not interested.  You'll be ignored.  Vimprobable has a mailing list for such things.",
+                "homepage": "http://www.vimprobable.org",
                 "id": 632266,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2013-06-01T05:52:10Z",
+                "open_issues": 0,
                 "owner": "ThomasAdam",
                 "repo": "vimprobable",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -2022,12 +3028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "webkit based web browser",
+                "homepage": null,
                 "id": 46348259,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2015-11-18T19:14:08Z",
+                "open_issues": 0,
                 "owner": "diab0l",
                 "repo": "dwb",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -2038,12 +3049,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web browser developped in C with GTK+ (same interface as Vimperator)",
+                "homepage": null,
                 "id": 495411,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-05-21T21:53:46Z",
+                "open_issues": 2,
                 "owner": "linkdd",
                 "repo": "cream-browser",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -2059,12 +3075,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vim bindings for Google Chrome.",
+                    "homepage": "https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh",
                     "id": 17681420,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-10-19T19:46:11Z",
+                    "open_issues": 327,
                     "owner": "1995eaton",
                     "repo": "chromium-vim",
-                    "stars": 2256
+                    "stars": 2256,
+                    "topics": [
+                      "chrome",
+                      "chrome-extension",
+                      "google-chrome",
+                      "javascript",
+                      "keybindings",
+                      "keyboard",
+                      "keyboard-shortcuts",
+                      "productivity",
+                      "vim"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 },
@@ -2075,12 +3106,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.",
+                    "homepage": "http://appsweets.net/wasavi/",
                     "id": 3558991,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-20T19:50:21Z",
+                    "open_issues": 130,
                     "owner": "akahuku",
                     "repo": "wasavi",
-                    "stars": 1543
+                    "stars": 1543,
+                    "topics": [
+                      "extension",
+                      "javascript",
+                      "vi"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 },
@@ -2091,12 +3131,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vrome: Bringing Vim elegance to Chrome",
+                    "homepage": null,
                     "id": 363020,
                     "language": "CoffeeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2016-10-24T08:46:41Z",
+                    "open_issues": 87,
                     "owner": "jinzhu",
                     "repo": "vrome",
-                    "stars": 618
+                    "stars": 618,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 },
@@ -2107,12 +3152,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "vi like key binds for Google Chrome",
+                    "homepage": null,
                     "id": 2353703,
                     "language": "CoffeeScript",
+                    "license": null,
                     "last_commit": "2017-03-18T02:37:39Z",
+                    "open_issues": 29,
                     "owner": "k2nr",
                     "repo": "ViChrome",
-                    "stars": 229
+                    "stars": 229,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -2130,12 +3180,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.",
+                    "homepage": "http://appsweets.net/wasavi/",
                     "id": 3558991,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-20T19:50:21Z",
+                    "open_issues": 130,
                     "owner": "akahuku",
                     "repo": "wasavi",
-                    "stars": 1543
+                    "stars": 1543,
+                    "topics": [
+                      "extension",
+                      "javascript",
+                      "vi"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 },
@@ -2146,12 +3205,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use Opera with Vim's unbeatable usability!",
+                    "homepage": null,
                     "id": 4571110,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-09-01T07:57:38Z",
+                    "open_issues": 4,
                     "owner": "rscircus",
                     "repo": "VimOperate",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -2169,12 +3233,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Embed Neovim in Chrome, Firefox & others.",
+                    "homepage": null,
                     "id": 174529025,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-04T17:13:44Z",
+                    "open_issues": 95,
                     "owner": "glacambre",
                     "repo": "firenvim",
-                    "stars": 6107
+                    "stars": 6108,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
                 }
@@ -2194,12 +3263,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "macOS window manager with Vim–like hotkeys",
+                "homepage": null,
                 "id": 32475768,
                 "language": "Objective-C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-14T21:29:51Z",
+                "open_issues": 2,
                 "owner": "mjolnirapp",
                 "repo": "AppGrid",
-                "stars": 666
+                "stars": 666,
+                "topics": [
+                  "appgrid",
+                  "grid",
+                  "macos",
+                  "minimalist",
+                  "objective-c",
+                  "window-manager"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -2210,12 +3291,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, X11 tiling window manager that behaves like vim",
+                "homepage": null,
                 "id": 18231135,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2022-07-19T05:45:25Z",
+                "open_issues": 17,
                 "owner": "HarveyHunt",
                 "repo": "howm",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "c",
+                  "linux",
+                  "management",
+                  "tiling",
+                  "vim",
+                  "window",
+                  "x11",
+                  "xcb"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -2226,12 +3321,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight, X11 tiling window manager that behaves like vim",
+                "homepage": null,
                 "id": 18231135,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2022-07-19T05:45:25Z",
+                "open_issues": 17,
                 "owner": "HarveyHunt",
                 "repo": "howm",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "c",
+                  "linux",
+                  "management",
+                  "tiling",
+                  "vim",
+                  "window",
+                  "x11",
+                  "xcb"
+                ]
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             },
@@ -2242,12 +3351,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.",
+                "homepage": null,
                 "id": 74551919,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-23T20:55:53Z",
+                "open_issues": 0,
                 "owner": "0intro",
                 "repo": "wmii",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
             }
@@ -2261,15 +3375,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:49:05.388Z",
+    "last_updated": "2026-08-29T04:23:53.054Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.",
+      "homepage": null,
       "id": 434989085,
       "language": "Shell",
+      "license": "MIT",
       "last_commit": "2026-08-17T21:33:44Z",
+      "open_issues": 0,
       "owner": "erikw",
       "repo": "vim-keybindings-everywhere-the-ultimate-list",
-      "stars": 2583
+      "stars": 2583,
+      "topics": [
+        "awesome-list",
+        "collaboration",
+        "collaborative",
+        "configuration",
+        "keybindings",
+        "keyboard",
+        "list",
+        "shortcuts",
+        "ultimate",
+        "ultimate-list",
+        "vi",
+        "vim"
+      ]
     },
     "original_repository_sha": "143e15f4950d98e4068a565c57b78d901f6f8aed",
     "enhanced_repository": "enhansome/enhansome-vim-keybindings-everywhere-the-ultimate-list",
