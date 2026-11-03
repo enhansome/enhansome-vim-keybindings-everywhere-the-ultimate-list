@@ -79,7 +79,7 @@
                     "open_issues": 1921,
                     "owner": "VSCodeVim",
                     "repo": "Vim",
-                    "stars": 15225,
+                    "stars": 15226,
                     "topics": [
                       "keybindings",
                       "typescript",
@@ -142,11 +142,11 @@
                     "id": 44662669,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T20:42:12Z",
-                    "open_issues": 3350,
+                    "last_commit": "2026-11-03T20:21:02Z",
+                    "open_issues": 3344,
                     "owner": "dbeaver",
                     "repo": "dbeaver",
-                    "stars": 52276,
+                    "stars": 52292,
                     "topics": [
                       "ai",
                       "database",
@@ -302,10 +302,10 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-01T14:37:58Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "jarun",
                 "repo": "nnn",
-                "stars": 22108,
+                "stars": 22106,
                 "topics": [
                   "android",
                   "batch-rename",
@@ -347,7 +347,7 @@
                 "open_issues": 897,
                 "owner": "ranger",
                 "repo": "ranger",
-                "stars": 17447,
+                "stars": 17448,
                 "topics": [
                   "console",
                   "file-launcher",
@@ -374,7 +374,7 @@
                 "open_issues": 80,
                 "owner": "gokcehan",
                 "repo": "lf",
-                "stars": 9583,
+                "stars": 9584,
                 "topics": [
                   "file-manager",
                   "terminal"
@@ -398,7 +398,7 @@
                 "open_issues": 4,
                 "owner": "sayanarijit",
                 "repo": "xplr",
-                "stars": 4848,
+                "stars": 4847,
                 "topics": [
                   "cli",
                   "command-line",
@@ -436,7 +436,7 @@
                 "open_issues": 29,
                 "owner": "kyoheiu",
                 "repo": "felix",
-                "stars": 923,
+                "stars": 922,
                 "topics": [
                   "file-manager",
                   "rust",
@@ -590,7 +590,7 @@
                     "open_issues": 1921,
                     "owner": "VSCodeVim",
                     "repo": "Vim",
-                    "stars": 15225,
+                    "stars": 15226,
                     "topics": [
                       "keybindings",
                       "typescript",
@@ -935,7 +935,7 @@
                 "open_issues": 266,
                 "owner": "charmbracelet",
                 "repo": "glow",
-                "stars": 27888,
+                "stars": 27901,
                 "topics": [
                   "cli",
                   "excitement",
@@ -961,7 +961,7 @@
                 "open_issues": 9,
                 "owner": "antonmedv",
                 "repo": "fx",
-                "stars": 20696,
+                "stars": 20695,
                 "topics": [
                   "cli",
                   "command-line",
@@ -987,7 +987,7 @@
                 "open_issues": 92,
                 "owner": "gollum",
                 "repo": "gollum",
-                "stars": 14338,
+                "stars": 14339,
                 "topics": [
                   "documentation",
                   "documentation-tool",
@@ -1016,7 +1016,7 @@
                 "open_issues": 0,
                 "owner": "fairyglade",
                 "repo": "ly",
-                "stars": 7661,
+                "stars": 7663,
                 "topics": [
                   "linux",
                   "login",
@@ -1187,7 +1187,7 @@
                 "open_issues": 221,
                 "owner": "cmus",
                 "repo": "cmus",
-                "stars": 6281,
+                "stars": 6284,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
@@ -1208,7 +1208,7 @@
                 "open_issues": 228,
                 "owner": "ncmpcpp",
                 "repo": "ncmpcpp",
-                "stars": 2503,
+                "stars": 2505,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
@@ -1328,7 +1328,7 @@
                     "open_issues": 306,
                     "owner": "Rigellute",
                     "repo": "spotify-tui",
-                    "stars": 19406,
+                    "stars": 19407,
                     "topics": [
                       "cli",
                       "rust",
@@ -1448,7 +1448,7 @@
                 "open_issues": 113,
                 "owner": "andmarti1424",
                 "repo": "sc-im",
-                "stars": 5718,
+                "stars": 5719,
                 "topics": [
                   "console",
                   "console-application",
@@ -1557,11 +1557,11 @@
                 "id": 130464961,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T20:07:29Z",
-                "open_issues": 571,
+                "last_commit": "2026-11-03T18:41:36Z",
+                "open_issues": 566,
                 "owner": "sharkdp",
                 "repo": "bat",
-                "stars": 61034,
+                "stars": 61046,
                 "topics": [
                   "cli",
                   "command-line",
@@ -1598,7 +1598,7 @@
                 "open_issues": 345,
                 "owner": "ahrm",
                 "repo": "sioyek",
-                "stars": 9976,
+                "stars": 9977,
                 "topics": [
                   "pdf",
                   "pdf-viewer",
@@ -1702,11 +1702,11 @@
                 "id": 92111509,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-02T20:41:23Z",
-                "open_issues": 588,
+                "last_commit": "2026-11-03T18:54:58Z",
+                "open_issues": 591,
                 "owner": "TriliumNext",
                 "repo": "Trilium",
-                "stars": 38672,
+                "stars": 38685,
                 "topics": [
                   "electron",
                   "electron-app",
@@ -1811,7 +1811,7 @@
                 "open_issues": 117,
                 "owner": "ulyssa",
                 "repo": "iamb",
-                "stars": 1318,
+                "stars": 1319,
                 "topics": [
                   "matrix",
                   "matrix-client",
@@ -1980,11 +1980,11 @@
                 "id": 134017286,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-31T14:20:09Z",
-                "open_issues": 1061,
+                "last_commit": "2026-11-03T18:42:02Z",
+                "open_issues": 1062,
                 "owner": "jesseduffield",
                 "repo": "lazygit",
-                "stars": 83614,
+                "stars": 83631,
                 "topics": [
                   "cli",
                   "git",
@@ -2011,10 +2011,10 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2026-10-06T07:08:04Z",
-                    "open_issues": 356,
+                    "open_issues": 357,
                     "owner": "gitui-org",
                     "repo": "gitui",
-                    "stars": 22623,
+                    "stars": 22620,
                     "topics": [
                       "async",
                       "bash",
@@ -2038,10 +2038,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-06T07:08:04Z",
-                "open_issues": 356,
+                "open_issues": 357,
                 "owner": "gitui-org",
                 "repo": "gitui",
-                "stars": 22623,
+                "stars": 22620,
                 "topics": [
                   "async",
                   "bash",
@@ -2107,10 +2107,10 @@
                     "language": "Shell",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-31T08:31:47Z",
-                    "open_issues": 89,
+                    "open_issues": 90,
                     "owner": "akinomyoga",
                     "repo": "ble.sh",
-                    "stars": 4882,
+                    "stars": 4889,
                     "topics": [
                       "auto-complete",
                       "bash",
@@ -2143,10 +2143,10 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2026-07-19T15:19:45Z",
-                    "open_issues": 133,
+                    "open_issues": 135,
                     "owner": "jeffreytse",
                     "repo": "zsh-vi-mode",
-                    "stars": 4480,
+                    "stars": 4481,
                     "topics": [
                       "antigen",
                       "awesome",
@@ -2224,7 +2224,7 @@
                 "open_issues": 109,
                 "owner": "rvaiya",
                 "repo": "warpd",
-                "stars": 3660,
+                "stars": 3661,
                 "topics": [
                   "c",
                   "keyboard",
@@ -2287,7 +2287,7 @@
                 "open_issues": 23,
                 "owner": "ardagnir",
                 "repo": "athame",
-                "stars": 1656,
+                "stars": 1655,
                 "topics": [
                   "readline",
                   "vim-mode",
@@ -2312,7 +2312,7 @@
                 "open_issues": 20,
                 "owner": "AlfredoSequeida",
                 "repo": "hints",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": [
                   "linux",
                   "vim",
@@ -2424,11 +2424,11 @@
                 "id": 365005377,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T09:12:10Z",
+                "last_commit": "2026-11-03T11:46:50Z",
                 "open_issues": 613,
                 "owner": "aristocratos",
                 "repo": "btop",
-                "stars": 35225,
+                "stars": 35239,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
@@ -2446,10 +2446,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-02T01:09:48Z",
-                "open_issues": 407,
+                "open_issues": 408,
                 "owner": "hluk",
                 "repo": "CopyQ",
-                "stars": 12582,
+                "stars": 12589,
                 "topics": [
                   "clipboard",
                   "clipboard-manager",
@@ -2561,10 +2561,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-02T05:42:37Z",
-                "open_issues": 344,
+                "open_issues": 345,
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 66108,
+                "stars": 66109,
                 "topics": [
                   "bsd",
                   "gpu",
@@ -2592,11 +2592,11 @@
                 "id": 36836475,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-11-01T16:02:29Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-03T10:41:08Z",
+                "open_issues": 40,
                 "owner": "tmux",
                 "repo": "tmux",
-                "stars": 50126,
+                "stars": 50140,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:49:05.388Z"
@@ -2701,7 +2701,7 @@
                 "open_issues": 547,
                 "owner": "onivim",
                 "repo": "oni2",
-                "stars": 7841,
+                "stars": 7838,
                 "topics": [
                   "editor",
                   "linux",
@@ -2795,11 +2795,11 @@
                     "id": 21763822,
                     "language": "Emacs Lisp",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T05:14:02Z",
+                    "last_commit": "2026-11-03T17:36:28Z",
                     "open_issues": 481,
                     "owner": "doomemacs",
                     "repo": "core",
-                    "stars": 22798,
+                    "stars": 22801,
                     "topics": [
                       "doomemacs",
                       "emacs",
@@ -2928,8 +2928,8 @@
                     "id": 105430360,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T13:54:53Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-11-03T12:14:22Z",
+                    "open_issues": 6,
                     "owner": "inkdropapp",
                     "repo": "inkdrop-vim",
                     "stars": 110,
@@ -2990,11 +2990,11 @@
                 "id": 87668160,
                 "language": "Common Lisp",
                 "license": null,
-                "last_commit": "2026-11-02T16:28:20Z",
+                "last_commit": "2026-11-03T02:37:31Z",
                 "open_issues": 146,
                 "owner": "atlas-engineer",
                 "repo": "nyxt",
-                "stars": 11048,
+                "stars": 11046,
                 "topics": [
                   "browser",
                   "common-lisp",
@@ -3295,7 +3295,7 @@
                     "open_issues": 96,
                     "owner": "glacambre",
                     "repo": "firenvim",
-                    "stars": 6163,
+                    "stars": 6164,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:49:05.388Z"
@@ -3428,7 +3428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:57:50.434Z",
+    "last_updated": "2026-11-03T20:44:12.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.",
