@@ -51,7 +51,7 @@ Terminology:
 
 ## Development
 
-* :white\_check\_mark: [ptpython](https://github.com/prompt-toolkit/ptpython) ⭐ 5,454 | 🐛 266 | 🌐 Python | 📅 2025-11-21 - A better Python REPL. Start it with `ptpython --vi` or add `repl.vi_mode = True` to its `config.py`.
+* :white\_check\_mark: [ptpython](https://github.com/prompt-toolkit/ptpython) ⭐ 5,453 | 🐛 266 | 🌐 Python | 📅 2025-11-21 - A better Python REPL. Start it with `ptpython --vi` or add `repl.vi_mode = True` to its `config.py`.
 
 * :white\_check\_mark: [ipython](https://ipython.org/) - Interactive Python shell. It no longer uses readline for input, so it must be configured in the ipython profile `~/.ipython/profile_default/ipython_config.py` itself ([reference](https://gist.github.com/sstirlin/c3c207b1052b613ab9554b4ebdfc3f35)):
 
@@ -72,7 +72,7 @@ Terminology:
 * :white\_check\_mark: [LINQPad](https://www.linqpad.net/) - The .NET Programmer’s Playground. vi mode is available in settings. To enable, go to Edit > Preferences > vi mode. Quite limited, doesn't support ex commands, registers, and macros.
 
 * [Azure Data Studio](https://azure.microsoft.com/en-us/products/data-studio/) - Database tool similar to Microsoft SQL Server Management Studio. Supports VSCode extensions.
-  * :heavy\_plus\_sign: [Vim plugin](https://github.com/VSCodeVim/Vim) ⭐ 15,232 | 🐛 1,904 | 🌐 TypeScript | 📅 2026-11-26 - Cannot be installed directly in the plugin section. Go to [Vim plugin release page](https://github.com/VSCodeVim/Vim/releases) ⭐ 15,232 | 🐛 1,904 | 🌐 TypeScript | 📅 2026-11-26 and download `.vsix` file. Inside Azure Data Studio, navigate to Extensions > three dots at the top > Install from VSXI. You will likely see the message: "Unable to install extension 'vscodevim.vim' as it is not compatible with the current VS Code engine version". If you see that message, you should try an earlier release.
+  * :heavy\_plus\_sign: [Vim plugin](https://github.com/VSCodeVim/Vim) ⭐ 15,233 | 🐛 1,906 | 🌐 TypeScript | 📅 2026-11-27 - Cannot be installed directly in the plugin section. Go to [Vim plugin release page](https://github.com/VSCodeVim/Vim/releases) ⭐ 15,233 | 🐛 1,906 | 🌐 TypeScript | 📅 2026-11-27 and download `.vsix` file. Inside Azure Data Studio, navigate to Extensions > three dots at the top > Install from VSXI. You will likely see the message: "Unable to install extension 'vscodevim.vim' as it is not compatible with the current VS Code engine version". If you see that message, you should try an earlier release.
 
 * :white\_check\_mark: [Google Colab](https://colab.research.google.com/) - Data analysis and machine learning tool that allows you to combine executable Python code and rich text along with charts, images, HTML, LaTeX, and more into a single document stored in Google Drive. Vi modeis  supported through [keyboard binding settings](https://colab.research.google.com/notebooks/editor_details.ipynb#scrollTo=bEXkvERUtU5O). You can [enable](https://stackoverflow.com/questions/48674326/is-there-a-way-to-use-vim-keybindings-in-google-colaboratory) it through Tools > Settings > Editor
 
@@ -82,12 +82,12 @@ Terminology:
 * :white\_check\_mark: [k9s](https://k9scli.io/) - Kubernetes CLI tool with full VIM bindings
 
 * [DBeaver](https://dbeaver.io/) - Free Universal Database Tool
-  * :heavy\_plus\_sign: [Vrapper plugin](https://vrapper.sourceforge.net/home/) - Plugin adds vim bindings to SQL editor. Install it using instructions from <https://github.com/dbeaver/dbeaver/issues/8219> ⭐ 52,545 | 🐛 3,332 | 🌐 Java | 📅 2026-11-26
+  * :heavy\_plus\_sign: [Vrapper plugin](https://vrapper.sourceforge.net/home/) - Plugin adds vim bindings to SQL editor. Install it using instructions from <https://github.com/dbeaver/dbeaver/issues/8219> ⭐ 52,558 | 🐛 3,333 | 🌐 Java | 📅 2026-11-27
 
 ## E-Mail
 
-* :white\_check\_mark: [sup](https://sup-heliotrope.github.io/) - a console-based email client for people with a lot of email with Vim-inspired [keyboard shortcuts](https://github.com/sup-heliotrope/sup/wiki/Keyboard-reference) ⭐ 972 | 🐛 63 | 🌐 Ruby | 📅 2026-11-24.
-* :white\_check\_mark: [Spool](https://github.com/wes/spool) ⭐ 44 | 🐛 1 | 🌐 Rust | 📅 2026-11-23 - A native macOS email client with Vim-flavored keys: `j`/`k` to move, `gg`/`G` for newest and oldest, `/` to search.
+* :white\_check\_mark: [sup](https://sup-heliotrope.github.io/) - a console-based email client for people with a lot of email with Vim-inspired [keyboard shortcuts](https://github.com/sup-heliotrope/sup/wiki/Keyboard-reference) ⭐ 971 | 🐛 63 | 🌐 Ruby | 📅 2026-11-24.
+* :white\_check\_mark: [Spool](https://github.com/wes/spool) ⭐ 44 | 🐛 0 | 🌐 Rust | 📅 2026-11-27 - A native macOS email client with Vim-flavored keys: `j`/`k` to move, `gg`/`G` for newest and oldest, `/` to search.
 * :white\_check\_mark: [Mutt](http://www.mutt.org/) - The vim of email, a TUI email client
 * :white\_check\_mark: [NeoMutt](https://neomutt.org/) - A fork of mutt, intended to reignite the development.
 * [Thunderbird](https://www.thunderbird.net/en-US/)
@@ -106,10 +106,10 @@ Terminology:
 
 ## File Management
 
-* :white\_check\_mark: [nnn](https://github.com/jarun/nnn) ⭐ 22,147 | 🐛 1 | 🌐 C | 📅 2026-11-22 - TUI file manager.
-* :white\_check\_mark: [ranger](https://github.com/ranger/ranger) ⭐ 17,467 | 🐛 895 | 🌐 Python | 📅 2026-11-26 - Another TUI file manager.
-* :white\_check\_mark: [lf](https://github.com/gokcehan/lf) ⭐ 9,600 | 🐛 76 | 🌐 Go | 📅 2026-11-19 - TUI file manager similar to ranger.
-* :white\_check\_mark: [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,854 | 🐛 4 | 🌐 Rust | 📅 2026-11-17 - TUI file manager.
+* :white\_check\_mark: [nnn](https://github.com/jarun/nnn) ⭐ 22,151 | 🐛 1 | 🌐 C | 📅 2026-11-22 - TUI file manager.
+* :white\_check\_mark: [ranger](https://github.com/ranger/ranger) ⭐ 17,468 | 🐛 895 | 🌐 Python | 📅 2026-11-26 - Another TUI file manager.
+* :white\_check\_mark: [lf](https://github.com/gokcehan/lf) ⭐ 9,606 | 🐛 76 | 🌐 Go | 📅 2026-11-19 - TUI file manager similar to ranger.
+* :white\_check\_mark: [xplr](https://github.com/sayanarijit/xplr) ⭐ 4,855 | 🐛 4 | 🌐 Rust | 📅 2026-11-17 - TUI file manager.
 * :white\_check\_mark: [felix](https://github.com/kyoheiu/felix) ⭐ 923 | 🐛 28 | 🌐 Rust | 📅 2025-04-12 - TUI file manager.
 * :white\_check\_mark: [cfiles](https://github.com/mananapr/cfiles) ⭐ 505 | 🐛 22 | 🌐 C | 📅 2021-08-28 - A ncurses file manager written in C with Vim-like keybindings.
 * :white\_check\_mark: ~~[vide](https://github.com/xaizek/vide) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2014-05-18~~ - The graphical predecessor of vifm that uses GTK+
@@ -120,7 +120,7 @@ Terminology:
 * [Total Commander](https://www.ghisler.com/)
   * :heavy\_plus\_sign: [ViATc](https://github.com/magicstep/ViATc-English) ⭐ 32 | 🐛 2 | 🌐 AutoHotkey | 📅 2021-12-25 - adds a Vim mode to Total Commander.
 * macOS Finder
-  * :heavy\_plus\_sign: [Finder Vim Mode](https://github.com/chrisgrieser/finder-vim-mode) ⭐ 129 | 🐛 0 | 🌐 Shell | 📅 2026-08-03 - adds extensive vim-like/ranger-like keybindings, works via Karabiner Elements.
+  * :heavy\_plus\_sign: [Finder Vim Mode](https://github.com/chrisgrieser/finder-vim-mode) ⭐ 130 | 🐛 0 | 🌐 Shell | 📅 2026-08-03 - adds extensive vim-like/ranger-like keybindings, works via Karabiner Elements.
 * :white\_check\_mark: ~~[jvifm](https://sourceforge.net/projects/jvifm/)~~ - A Java implementation of vifm; a file manager with Vim-like keybindings.
 * [fman](https://fman.io/) - A dual-pane file manager.
   * :heavy\_plus\_sign: [VimNavigation](https://github.com/raguay/VimNavigation) - Adds Vim-style keyboard navigation to the fman file manager.
@@ -132,8 +132,8 @@ Terminology:
 * [Jetbrain's IDEs](https://www.jetbrains.com/products/#type=ide) (Intellij, PYCharm, PHPStorm, WebStorm, ...)
   * :heavy\_plus\_sign: [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim) - Install it directly from the plugin section in the IDE settings.
 * [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
-  * :heavy\_plus\_sign: [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation for Visual Studio Code. [GitHub](https://github.com/VSCodeVim/Vim) ⭐ 15,232 | 🐛 1,904 | 🌐 TypeScript | 📅 2026-11-26
-  * :heavy\_plus\_sign: [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) - Alternative to the VIM plugin, uses a full nvim instance in the background instead of just emulating VIM. [GitHub](https://github.com/vscode-neovim/vscode-neovim) ⭐ 7,765 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-21
+  * :heavy\_plus\_sign: [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation for Visual Studio Code. [GitHub](https://github.com/VSCodeVim/Vim) ⭐ 15,233 | 🐛 1,906 | 🌐 TypeScript | 📅 2026-11-27
+  * :heavy\_plus\_sign: [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) - Alternative to the VIM plugin, uses a full nvim instance in the background instead of just emulating VIM. [GitHub](https://github.com/vscode-neovim/vscode-neovim) ⭐ 7,766 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-21
 * :white\_check\_mark: [XCode](https://developer.apple.com/xcode/) - Apple's IDE. Vim mode can be enabled under the "Editor" menu without the use of plugins.
   * :heavy\_plus\_sign: ~~[XVim](https://github.com/XVimProject/XVim) ⭐ 5,107 | 🐛 305 | 🌐 Objective-C | 📅 2018-01-09~~ plugin. Deprecated, use native keybindings (above) instead.
   * :heavy\_plus\_sign: ~~[XVim2](https://github.com/XVimProject/XVim2) ⭐ 2,282 | 🐛 98 | 🌐 Objective-C | 📅 2023-01-14~~ plugin. Deprecated, use native keybindings (above) instead.
@@ -186,10 +186,10 @@ Terminology:
 
 ## Misc
 
-* :white\_check\_mark: [glow](https://github.com/charmbracelet/glow) ⭐ 28,211 | 🐛 273 | 🌐 Go | 📅 2026-11-25 - Terminal based markdown reader.
+* :white\_check\_mark: [glow](https://github.com/charmbracelet/glow) ⭐ 28,223 | 🐛 274 | 🌐 Go | 📅 2026-11-25 - Terminal based markdown reader.
 * :white\_check\_mark: [fx](https://github.com/antonmedv/fx) ⭐ 20,723 | 🐛 12 | 🌐 Go | 📅 2026-11-20 - Terminal based JSON viewer.
-* :white\_check\_mark: [gollum](https://github.com/gollum/gollum) ⭐ 14,355 | 🐛 91 | 🌐 Ruby | 📅 2025-11-24 - A Git-powered wiki with built-in Vim editing mode. Start with `--default-keybind vim`.
-* :white\_check\_mark: [ly](https://github.com/fairyglade/ly) ⭐ 7,693 | 🐛 0 | 🌐 Zig | 📅 2026-10-31 - A TUI display manager. Supports vi-like movement. Edit this in your `/etc/ly/config.ini`
+* :white\_check\_mark: [gollum](https://github.com/gollum/gollum) ⭐ 14,356 | 🐛 91 | 🌐 Ruby | 📅 2025-11-24 - A Git-powered wiki with built-in Vim editing mode. Start with `--default-keybind vim`.
+* :white\_check\_mark: [ly](https://github.com/fairyglade/ly) ⭐ 7,692 | 🐛 0 | 🌐 Zig | 📅 2026-11-27 - A TUI display manager. Supports vi-like movement. Edit this in your `/etc/ly/config.ini`
 
   * ```ini
     # Default vi mode
@@ -214,7 +214,7 @@ Terminology:
 
 ## Music Players
 
-* :white\_check\_mark: [cmus](https://github.com/cmus/cmus) ⭐ 6,303 | 🐛 225 | 🌐 C | 📅 2026-10-28 - A console music player with vim-like [keybindings](https://man.archlinux.org/man/cmus.1.en#KEYBINDINGS).
+* :white\_check\_mark: [cmus](https://github.com/cmus/cmus) ⭐ 6,304 | 🐛 224 | 🌐 C | 📅 2026-10-28 - A console music player with vim-like [keybindings](https://man.archlinux.org/man/cmus.1.en#KEYBINDINGS).
 * :white\_check\_mark: [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) ⭐ 2,512 | 🐛 227 | 🌐 C++ | 📅 2026-09-19 - An ncurses client for [mpd](https://www.musicpd.org/). The navigation can quite easily be made to behave like vim with some keyboard configurations.
   * <details>
       <summary>~/.config/ncmpcpp/bindings</summary>
@@ -256,12 +256,12 @@ Terminology:
 * YT Music
   * :white\_check\_mark: [vimyt](https://github.com/Sadoaz/vimyt) ⭐ 43 | 🐛 1 | 🌐 Go | 📅 2026-06-28 – TUI for YouTube Music with Vim-like keybindings.
 * Spotify
-  * :white\_check\_mark: [spotify-tui](https://github.com/Rigellute/spotify-tui) ⭐ 19,440 | 🐛 306 | 🌐 Rust | 📅 2024-04-04 - TUI for Spotify with Vim-like keybindings.
+  * :white\_check\_mark: [spotify-tui](https://github.com/Rigellute/spotify-tui) ⭐ 19,439 | 🐛 306 | 🌐 Rust | 📅 2024-04-04 - TUI for Spotify with Vim-like keybindings.
   * :heavy\_plus\_sign: [spicetify](https://spicetify.app/) - an extension framework for spotify. Includes an extension with [vim-like](https://spicetify.app/docs/advanced-usage/extensions/#keyboard-shortcut) keybindings.
 
 ## Music Production
 
-* :heavy\_plus\_sign: [Reaper-Keys](https://github.com/gwatcha/reaper-keys) ⭐ 203 | 🐛 1 | 🌐 Lua | 📅 2026-11-26 - Bringing a modal editor to the Reaper DAW.
+* :heavy\_plus\_sign: [Reaper-Keys](https://github.com/gwatcha/reaper-keys) ⭐ 202 | 🐛 1 | 🌐 Lua | 📅 2026-11-26 - Bringing a modal editor to the Reaper DAW.
 * :white\_check\_mark: ~~[pineapple-tracker](https://github.com/pineapple-tracker/pineapple-tracker) ⭐ 31 | 🐛 2 | 🌐 C | 📅 2026-06-10~~ - A console-based sequencer with a vi-style UI.
 * [Reaper](https://www.reaper.fm/) - A DAW.
 
@@ -286,12 +286,12 @@ Terminology:
 
 ## Pagers
 
-* :white\_check\_mark: [bat](https://github.com/sharkdp/bat) ⭐ 61,529 | 🐛 569 | 🌐 Rust | 📅 2026-11-26
+* :white\_check\_mark: [bat](https://github.com/sharkdp/bat) ⭐ 61,530 | 🐛 564 | 🌐 Rust | 📅 2026-11-27
 * :white\_check\_mark: [less](https://en.wikipedia.org/wiki/Less_\(Unix\))
 
 ## PDF Viewers
 
-* :white\_check\_mark: [Sioyek](https://github.com/ahrm/sioyek) ⭐ 10,042 | 🐛 349 | 🌐 C | 📅 2026-11-04 - Both keyboard and (optionally) mouse focused. Configurable and has the possibility of adding and developing plugins.
+* :white\_check\_mark: [Sioyek](https://github.com/ahrm/sioyek) ⭐ 10,044 | 🐛 349 | 🌐 C | 📅 2026-11-04 - Both keyboard and (optionally) mouse focused. Configurable and has the possibility of adding and developing plugins.
 * :white\_check\_mark: [apvlv](https://github.com/naihe2010/apvlv) ⭐ 261 | 🐛 16 | 🌐 C++ | 📅 2026-10-09 - A PDF Viewer that acts Like Vim
 * :white\_check\_mark: [MuPDF](https://mupdf.com) - PDF and ebook reader with [vim keybindings](http://tuxdiary.com/2015/04/18/mupdf/).
 * :white\_check\_mark: [zathura](https://pwmt.org/projects/zathura) - Document reader, vim-keybindings, partly based on MuPDF. Linux only.
@@ -304,7 +304,7 @@ Terminology:
 
 ## Personal Knowledge Management
 
-* :white\_check\_mark: [Trilium](https://github.com/zadam/trilium) ⭐ 39,099 | 🐛 581 | 🌐 TypeScript | 📅 2026-11-26 - 'Enable Vim Keybindings' added to Options in early-2022
+* :white\_check\_mark: [Trilium](https://github.com/zadam/trilium) ⭐ 39,104 | 🐛 587 | 🌐 TypeScript | 📅 2026-11-27 - 'Enable Vim Keybindings' added to Options in early-2022
   * code notes use the [CodeMirror](https://github.com/codemirror/dev/) ⚠️ Archived editor and its [Vim mode](https://codemirror.net/5/demo/vim.html)
 * :white\_check\_mark: [Obsidian](https://obsidian.md/) - under "Editor" options
 * [Logseq](https://logseq.com/)
@@ -315,7 +315,7 @@ Terminology:
 
 * ~~[rtv](https://github.com/michael-lazar/rtv) ⚠️ Archived~~ - A Reddit TUI viewer
 * :white\_check\_mark: [iamb](https://github.com/ulyssa/iamb) ⭐ 1,340 | 🐛 120 | 🌐 Rust | 📅 2026-11-21 - A Matrix client for Vim addicts.
-* :white\_check\_mark: [scli](https://github.com/isamert/scli) ⭐ 540 | 🐛 26 | 🌐 Python | 📅 2024-11-30 - Signal messenger TUI with Vim-like keybindings.
+* :white\_check\_mark: [scli](https://github.com/isamert/scli) ⭐ 539 | 🐛 26 | 🌐 Python | 📅 2024-11-30 - Signal messenger TUI with Vim-like keybindings.
 * :white\_check\_mark: [tut](https://github.com/RasmusLindroth/tut) ⭐ 501 | 🐛 56 | 🌐 Go | 📅 2023-12-18 - a Mastodon client with vim-like navigation
 * [irssi](https://github.com/shabble/irssi-scripts/tree/master/vim-mode) ⭐ 151 | 🐛 19 | 🌐 Perl | 📅 2021-07-17 - the popular IRC client.
   * :heavy\_plus\_sign: [vim\_mode](https://github.com/shabble/irssi-scripts/tree/master/vim-mode) ⭐ 151 | 🐛 19 | 🌐 Perl | 📅 2021-07-17 plugin.
@@ -326,12 +326,12 @@ Terminology:
 
 ## Source Code Management
 
-* :white\_check\_mark: [Lazygit](https://github.com/jesseduffield/lazygit) ⭐ 84,116 | 🐛 1,083 | 🌐 Go | 📅 2026-11-23 - Simple terminal UI for git commands with Vim-like keybindings.
+* :white\_check\_mark: [Lazygit](https://github.com/jesseduffield/lazygit) ⭐ 84,137 | 🐛 1,084 | 🌐 Go | 📅 2026-11-23 - Simple terminal UI for git commands with Vim-like keybindings.
 
-* :white\_check\_mark: [GitUI](https://github.com/extrawurst/gitui) ⭐ 22,693 | 🐛 364 | 🌐 Rust | 📅 2026-10-06 - GitUI provides you with the comfort of a git GUI but right in your terminal.
-  * instruction how to enable vi bindings - <https://github.com/extrawurst/gitui/blob/master/KEY_CONFIG.md> ⭐ 22,693 | 🐛 364 | 🌐 Rust | 📅 2026-10-06
+* :white\_check\_mark: [GitUI](https://github.com/extrawurst/gitui) ⭐ 22,695 | 🐛 364 | 🌐 Rust | 📅 2026-10-06 - GitUI provides you with the comfort of a git GUI but right in your terminal.
+  * instruction how to enable vi bindings - <https://github.com/extrawurst/gitui/blob/master/KEY_CONFIG.md> ⭐ 22,695 | 🐛 364 | 🌐 Rust | 📅 2026-10-06
 
-* :white\_check\_mark: [tig](https://jonas.github.io/tig/) - Text interface for git. Works mostly like vim out of the box, but can be enhanced by sourcing these [keybindings](https://github.com/jonas/tig/blob/master/contrib/vim.tigrc) ⭐ 13,387 | 🐛 239 | 🌐 C | 📅 2026-11-11 in your `~/.tigrc`.
+* :white\_check\_mark: [tig](https://jonas.github.io/tig/) - Text interface for git. Works mostly like vim out of the box, but can be enhanced by sourcing these [keybindings](https://github.com/jonas/tig/blob/master/contrib/vim.tigrc) ⭐ 13,387 | 🐛 238 | 🌐 C | 📅 2026-11-11 in your `~/.tigrc`.
 
 * :white\_check\_mark: [git](https://git-scm.com/) - Nothing's better than the real deal. Tell git to use vim/nvim when editing commit messages, interactive rebase, etc. by putting in your `~/.config/git/config`:
 
@@ -377,7 +377,7 @@ Terminology:
 
 * :white\_check\_mark: [Bash](https://www.gnu.org/software/bash/) - The preferred method is to set Vi mode in `~/.inputrc` via readline, as you will get Vi mode automatically in all programs using the library. However, if you just want this for bash, put this in your bash startup file e.g., `~/.bashrc`:
 
-  * :heavy\_plus\_sign: [ble.sh](https://github.com/akinomyoga/ble.sh) ⭐ 4,939 | 🐛 92 | 🌐 Shell | 📅 2026-10-31 (Bash Line Editor) - An interactive plugin `ble.sh` provides a better Vim mode as well as syntax highlighting and autosuggestions.  In addition to the above setting of `set -o vi` in `~/.bashrc` or `set editing-mode vi` in `~/.inputrc`, you can add the following settings in `~/.bashrc` to enable `ble.sh`.
+  * :heavy\_plus\_sign: [ble.sh](https://github.com/akinomyoga/ble.sh) ⭐ 4,942 | 🐛 92 | 🌐 Shell | 📅 2026-10-31 (Bash Line Editor) - An interactive plugin `ble.sh` provides a better Vim mode as well as syntax highlighting and autosuggestions.  In addition to the above setting of `set -o vi` in `~/.bashrc` or `set editing-mode vi` in `~/.inputrc`, you can add the following settings in `~/.bashrc` to enable `ble.sh`.
 
     * ```
       # bashrc
@@ -485,9 +485,9 @@ Terminology:
 * :white\_check\_mark: [vim-anywhere](https://github.com/cknadler/vim-anywhere) ⭐ 3,769 | 🐛 43 | 🌐 Shell | 📅 2026-05-02 - Spawn a Vim buffer from any text input in the operating system.
 * :white\_check\_mark: [warpd](https://github.com/rvaiya/warpd) ⭐ 3,666 | 🐛 110 | 🌐 C | 📅 2024-07-12 - A modal keyboard-driven interface for mouse manipulation, Linux (X11/Wayland)
 * :white\_check\_mark: [win-vind](https://github.com/pit-ray/win-vind) ⚠️ Archived - Control the Windows GUI in the same way as Vim.
-* :white\_check\_mark: [athame](https://github.com/ardagnir/athame) ⭐ 1,654 | 🐛 23 | 🌐 C | 📅 2023-11-01 - Patches your shell to add full Vim support by routing your keystrokes through an actual Vim process.
-* :white\_check\_mark: [Hints](https://github.com/AlfredoSequeida/hints) ⭐ 1,396 | 🐛 22 | 🌐 Python | 📅 2026-06-28 - Navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements (X11/Wayland)
-* :white\_check\_mark: [sketchyvim](https://github.com/FelixKratz/SketchyVim) ⭐ 1,032 | 🐛 26 | 🌐 C | 📅 2024-03-16 - Get vim-like navigation in any macOS text field.
+* :white\_check\_mark: [athame](https://github.com/ardagnir/athame) ⭐ 1,653 | 🐛 23 | 🌐 C | 📅 2023-11-01 - Patches your shell to add full Vim support by routing your keystrokes through an actual Vim process.
+* :white\_check\_mark: [Hints](https://github.com/AlfredoSequeida/hints) ⭐ 1,396 | 🐛 23 | 🌐 Python | 📅 2026-06-28 - Navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements (X11/Wayland)
+* :white\_check\_mark: [sketchyvim](https://github.com/FelixKratz/SketchyVim) ⭐ 1,033 | 🐛 26 | 🌐 C | 📅 2024-03-16 - Get vim-like navigation in any macOS text field.
 * :white\_check\_mark: [VimAction](https://github.com/pilyang/vim-action) ⭐ 13 | 🐛 4 | 🌐 Swift | 📅 2026-09-16 - Intercepts keystrokes system-wide and turns them into Vim modes, motions and operators in any macOS text field. Open source.
 * :white\_check\_mark: [keystrokes](https://github.com/Darukutsu/keystrokes) ⭐ 2 | 🐛 2 | 🌐 Shell | 📅 2025-01-30 - Record your keystrokes and replay them just like in Vim macro, Linux (X11/Wayland)
 * :white\_check\_mark: [Homerow](https://www.homerow.app/) - Add vim-like navigation to any macOS app.
@@ -498,13 +498,13 @@ Terminology:
 
 ## System Tools
 
-* :white\_check\_mark: [btop++](https://github.com/aristocratos/btop) ⭐ 35,535 | 🐛 626 | 🌐 C++ | 📅 2026-11-25 - A resource monitor. To enable Vim navigation, set in the config file:
+* :white\_check\_mark: [btop++](https://github.com/aristocratos/btop) ⭐ 35,552 | 🐛 629 | 🌐 C++ | 📅 2026-11-25 - A resource monitor. To enable Vim navigation, set in the config file:
 
   * ```ini
     vim_keys = True
     ```
 
-* :white\_check\_mark: [CopyQ](https://github.com/hluk/CopyQ) ⭐ 12,708 | 🐛 425 | 🌐 C++ | 📅 2026-11-25 - A clipboard manager with basic Vim-like navigation.
+* :white\_check\_mark: [CopyQ](https://github.com/hluk/CopyQ) ⭐ 12,715 | 🐛 419 | 🌐 C++ | 📅 2026-11-27 - A clipboard manager with basic Vim-like navigation.
 
 * :white\_check\_mark: [htop-vim](https://aur.archlinux.org/packages/htop-vim/) - A patched version the [htop](https://htop.dev/) interactive process viewer that has vim keybindings for navigation.
 
@@ -525,8 +525,8 @@ Terminology:
 
 ## Terminal Emulators
 
-* :white\_check\_mark: [alacritty](https://github.com/alacritty/alacritty) ⭐ 66,317 | 🐛 346 | 🌐 Rust | 📅 2026-11-18 - A cross-platform, OpenGL terminal emulator with Vim-like keybindings by default.
-* :white\_check\_mark: [tmux](https://github.com/tmux/tmux) ⭐ 50,604 | 🐛 34 | 🌐 C | 📅 2026-11-26 - the terminal multiplexer, superseding GNU Screen.
+* :white\_check\_mark: [alacritty](https://github.com/alacritty/alacritty) ⭐ 66,337 | 🐛 346 | 🌐 Rust | 📅 2026-11-18 - A cross-platform, OpenGL terminal emulator with Vim-like keybindings by default.
+* :white\_check\_mark: [tmux](https://github.com/tmux/tmux) ⭐ 50,612 | 🐛 28 | 🌐 C | 📅 2026-11-27 - the terminal multiplexer, superseding GNU Screen.
   * <details>
       <summary>~/.config/tmux/tmux.conf</summary>
 
@@ -580,9 +580,9 @@ Terminology:
 
 We know that Vi-[clones](http://www.linfo.org/vi/clones.html)/derivatives have Vi(m) keybindings so let's skip those here (Vim, NeoVim, vile, elvis, nvi, vis, pyvim, jVi, ex-vi ...)
 
-* :white\_check\_mark: [kakoune](https://github.com/mawww/kakoune) ⭐ 11,159 | 🐛 925 | 🌐 C++ | 📅 2026-11-25 - A modal text editor inspired by Vim-navigation.
+* :white\_check\_mark: [kakoune](https://github.com/mawww/kakoune) ⭐ 11,158 | 🐛 927 | 🌐 C++ | 📅 2026-11-25 - A modal text editor inspired by Vim-navigation.
 
-* :white\_check\_mark: ~~[oni2 (onivim)](https://github.com/onivim/oni2) ⭐ 7,836 | 🐛 547 | 🌐 Reason | 📅 2022-08-17~~ - [Deprecated](https://github.com/onivim/oni2/issues/3861) ⭐ 7,836 | 🐛 547 | 🌐 Reason | 📅 2022-08-17.
+* :white\_check\_mark: ~~[oni2 (onivim)](https://github.com/onivim/oni2) ⭐ 7,835 | 🐛 547 | 🌐 Reason | 📅 2022-08-17~~ - [Deprecated](https://github.com/onivim/oni2/issues/3861) ⭐ 7,835 | 🐛 547 | 🌐 Reason | 📅 2022-08-17.
 
 * :white\_check\_mark: [vy](https://github.com/vyapp/vy) ⚠️ Archived - A Vim-like in python made from scratch.
 
@@ -591,14 +591,14 @@ We know that Vi-[clones](http://www.linfo.org/vi/clones.html)/derivatives have V
 * :white\_check\_mark: ~~[editra](https://github.com/cjprecord/editra) ⭐ 6 | 🐛 135 | 🌐 Python | 📅 2019-11-15~~ - Developers Text Editor, with a Vi-mode.
 
 * Emacs
-  * :heavy\_plus\_sign: [doom emacs](https://github.com/doomemacs/doomemacs) ⭐ 22,851 | 🐛 375 | 🌐 Emacs Lisp | 📅 2026-11-23 - Configuration package that provides a similar experience to Spacemacs (including `evil-mode`. Also implements spacebar-as-leader-key.
+  * :heavy\_plus\_sign: [doom emacs](https://github.com/doomemacs/doomemacs) ⭐ 22,853 | 🐛 351 | 🌐 Emacs Lisp | 📅 2026-11-27 - Configuration package that provides a similar experience to Spacemacs (including `evil-mode`. Also implements spacebar-as-leader-key.
   * :white\_check\_mark: [evil-mode](https://www.emacswiki.org/emacs/Evil) - Extensible vi layer for Emacs.
   * :heavy\_plus\_sign: [spacemacs](https://www.spacemacs.org/) - Emacs configuration package that improves the Emacs experience, including vim bindings via `evil-mode`. Features a vim-like leader (space) for common commands.
   * :heavy\_plus\_sign: ~~[Vimpulse](https://www.emacswiki.org/emacs/Vimpulse)~~ Deprecated, check out Evil.
   * :heavy\_plus\_sign: ~~[Vim Mode](https://www.emacswiki.org/emacs/VimMode)~~ Deprecated, check out Evil.
 
 * :white\_check\_mark: [Sublime Text](https://www.sublimetext.com/) has a bult-in [Vintage mode](https://www.sublimetext.com/docs/vintage.html) that can be enabled.
-  * :heavy\_plus\_sign: ~~[Vintageous](https://github.com/guillermooo/Vintageous) ⭐ 1,627 | 🐛 227 | 🌐 Python | 📅 2018-07-29~~
+  * :heavy\_plus\_sign: ~~[Vintageous](https://github.com/guillermooo/Vintageous) ⭐ 1,626 | 🐛 227 | 🌐 Python | 📅 2018-07-29~~
   * :heavy\_plus\_sign: [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) ⭐ 727 | 🐛 51 | 🌐 Python | 📅 2026-08-21 - An advanced Vim emulation layer.
   * :heavy\_plus\_sign: ~~[VintageEx](https://github.com/SublimeText/VintageEx) ⚠️ Archived~~
   * :heavy\_plus\_sign: ~~[Six](https://packagecontrol.io/packages/Six)~~
@@ -646,7 +646,7 @@ We know that Vi-[clones](http://www.linfo.org/vi/clones.html)/derivatives have V
 
 ## Web browsers
 
-* :white\_check\_mark: [nyxt](https://github.com/atlas-engineer/nyxt) ⭐ 11,079 | 🐛 101 | 🌐 Common Lisp | 📅 2026-11-25 - A keyboard-driven web browser inspired by Vim and Emacs.
+* :white\_check\_mark: [nyxt](https://github.com/atlas-engineer/nyxt) ⭐ 11,080 | 🐛 95 | 🌐 Common Lisp | 📅 2026-11-27 - A keyboard-driven web browser inspired by Vim and Emacs.
 
 * :white\_check\_mark: ~~[xombrero](https://github.com/conformal/xombrero) ⭐ 156 | 🐛 44 | 🌐 C | 📅 2016-11-26~~ - A minimalist web browser with vi-like keyboard commands.
 
@@ -717,7 +717,7 @@ We know that Vi-[clones](http://www.linfo.org/vi/clones.html)/derivatives have V
 * :white\_check\_mark: ~~[uzbl](https://www.uzbl.org/)~~
 
 * Various
-  * :heavy\_plus\_sign: [firenvim](https://github.com/glacambre/firenvim) ⭐ 6,168 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-12 - Transform text areas into a Neovim instance that inherits your existing config (keymaps, plugins, etc).
+  * :heavy\_plus\_sign: [firenvim](https://github.com/glacambre/firenvim) ⭐ 6,170 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-12 - Transform text areas into a Neovim instance that inherits your existing config (keymaps, plugins, etc).
 
 ## Window Managers
 
@@ -790,4 +790,4 @@ Hats off to the authors of these articles that helped kick-start this list toget
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
